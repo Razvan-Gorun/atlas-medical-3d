@@ -1,0 +1,45 @@
+{
+  "name": "Descoperă Atlasul 3D",
+  "steps": [
+    {
+      "title": "Filtrează sistemele anatomice",
+      "description": "Aici poți selecta un sistem (osos, muscular, nervos, circulator, organe, articulații, piele). Apasă pe butonul corespunzător pentru a vedea doar acele structuri. Sistemul activ va fi evidențiat.",
+      "elementId": "systemFilters"
+    },
+    {
+      "title": "Caută orice structură",
+      "description": "Scrie aici numele unui os, mușchi, vas sau organ (ex: femur, inimă). Selectează rezultatul și camera va focaliza automat pe acea structură.",
+      "elementId": "searchInput"
+    },
+    {
+      "title": "Instrumentele de vizualizare",
+      "description": "Bara din stânga conține uneltele principale:\n• Rotire automată – modelul se rotește singur\n• Transparență – structurile devin semi-transparente\n• Etichete – activează etichetele 3D (dacă sunt disponibile)\n• Reset – revino la vederea de ansamblu\n• Arată structurile ascunse",
+      "elementId": "toolbar"
+    },
+    {
+      "title": "Selectează o structură",
+      "description": "Dă click pe orice parte a modelului 3D. În panoul din dreapta vei vedea numele, descrierea, funcția principală, sistemul din care face parte și date rapide (ex: greutate, volum, localizare).",
+      "elementId": "viewport"
+    },
+    {
+      "title": "Fișa anatomică detaliată",
+      "description": "După ce selectezi o structură, butonul «Fișă anatomică» deschide o fereastră cu informații complete: localizare, vascularizație (artere și vene), inervație, histologie, note clinice și multe altele. Poți să-ți adaugi și notițe personale!",
+      "elementId": "btnDescription"
+    },
+    {
+      "title": "Testează-ți cunoștințele",
+      "description": "Butonul cu bifă din stânga deschide panoul de quiz. Alege un sistem (sau toate) și răspunde la întrebări. La final vei primi scorul. După fiecare răspuns poți vedea structura corectă pe model.",
+      "elementId": "toggleQuiz"
+    },
+    {
+      "title": "Explorează grupuri anatomice",
+      "description": "Bara de jos conține grupuri precum Viscere (organe interne), Sistem nervos, Organe de simț, Articulații, Regiuni anatomice. Apasă pe un grup pentru a deschide un panou cu straturi detaliate.",
+      "elementId": "groupToolbar"
+    },
+    {
+      "title": "Funcționează și pe mobil",
+      "description": "Pe telefon sau tabletă, poți atinge pentru a selecta structuri, trage pentru a roti modelul, și folosi gesturi de zoom. Butonul 📋 din colțul de sus arată informațiile pe ecran.",
+      "elementId": null
+    }
+  ]
+}

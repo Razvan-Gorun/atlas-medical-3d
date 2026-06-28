@@ -1,0 +1,2652 @@
+{
+  "long_plantar_ligament": {
+    "name": "Ligamentul plantar lung",
+    "latin": "Ligamentum plantare longum",
+    "localizare": "Plantă, de la calcaneu la bazele metatarsienelor II‑V",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă puternică, cea mai lungă de pe talpă, care susține arcul longitudinal al piciorului.",
+    "atasamente": ["Calcaneu (fața plantară, anterior de tuberozitate)", "Bazele metatarsienelor II‑V (și cuboidul)"],
+    "functie": "Menține arcul longitudinal medial; stabilizează articulațiile tarsometatarsiene.",
+    "clinic": "Lezarea sa contribuie la piciorul plat dobândit."
+  },
+  "major_alar_cartilage": {
+    "name": "Cartilajul alar mare",
+    "latin": "Cartilago alaris major",
+    "localizare": "Nas, vârful și aripile nazale",
+    "tip": "Cartilaj hialin",
+    "descriere": "Cartilaj pereche care formează scheletul vârfului și al aripii nasului, determinând forma nărilor.",
+    "atasamente": ["Cartilajul septal nazal (medial)", "Cartilajul nazal lateral (superior)"],
+    "functie": "Menține permeabilitatea narinelor; suport structural al lobulului nazal.",
+    "clinic": "Fracturile nazale pot deforma cartilajele alare, necesitând rinoplastie."
+  },
+  "interosseous_membrane_of_leg": {
+    "name": "Membrana interosoasă a gambei",
+    "latin": "Membrana interossea cruris",
+    "localizare": "Gambă, între tibie și fibulă",
+    "tip": "Sept fibros",
+    "descriere": "Lamă fibroasă întinsă între creasta interosoasă a tibiei și cea a fibulei, stabilizând scheletul gambei.",
+    "atasamente": ["Tibia (marginea interosoasă)", "Fibula (marginea interosoasă)"],
+    "functie": "Stabilizează tibia și fibula; oferă inserție musculară; transmite forțele între oase.",
+    "clinic": "Lezarea membranei interosoase apare în entorsele înalte de gleznă (sindesmoză)."
+  },
+  "metatarsal_interosseous_ligaments": {
+    "name": "Ligamentele interosoase metatarsiene",
+    "latin": "Ligamenta interossea metatarsalia",
+    "localizare": "Picior, între bazele metatarsienelor",
+    "tip": "Ligamente scurte",
+    "descriere": "Ligamente care unesc fețele adiacente ale bazelor metatarsienelor II‑V.",
+    "atasamente": ["Bazele metatarsienelor adiacente"],
+    "functie": "Stabilizează arcul transversal al piciorului; limitează mișcarea între metatarsiene.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "plantar_metatarsal_ligaments": {
+    "name": "Ligamentele plantare metatarsiene",
+    "latin": "Ligamenta plantaria metatarsalia",
+    "localizare": "Plantă, pe fața plantară a bazelor metatarsienelor",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri ale capsulei articulare pe fața plantară a articulațiilor tarsometatarsiene și intermetatarsiene.",
+    "atasamente": ["Fețele plantare ale bazelor metatarsienelor adiacente"],
+    "functie": "Întăresc capsula plantar; susțin arcul longitudinal.",
+    "clinic": "Pot fi sediul durerii în metatarsalgie."
+  },
+  "plantar_interphalangeal_ligaments": {
+    "name": "Ligamentele plantare interfalangiene",
+    "latin": "Ligamenta plantaria interphalangea pedis",
+    "localizare": "Degetele piciorului, pe fața plantară a articulațiilor interfalangiene",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri fibroase ale capsulei articulare pe fața plantară a articulațiilor interfalangiene.",
+    "atasamente": ["Falanga proximală și falanga distală (sau medie)"],
+    "functie": "Limitează hiperextensia; stabilizează degetele în timpul mersului.",
+    "clinic": "Contractura acestor ligamente contribuie la deformările degetelor (hammertoe)."
+  },
+  "cuneocuboid_interosseous_ligament": {
+    "name": "Ligamentul interosos cuneocuboidian",
+    "latin": "Ligamentum cuneocuboideum interosseum",
+    "localizare": "Picior, între cuneiformul lateral și cuboid",
+    "tip": "Ligament scurt",
+    "descriere": "Ligament interosos care unește cuneiformul lateral de cuboid, stabilizând articulația cuneocuboidiană.",
+    "atasamente": ["Cuneiformul lateral", "Cuboidul"],
+    "functie": "Stabilizează arcul transversal; menține relația dintre oasele tarsului distal.",
+    "clinic": "Lezarea sa apare în traumatismele severe ale piciorului."
+  },
+  "intercuneiform_interosseous_ligaments": {
+    "name": "Ligamentele interosoase intercuneiforme",
+    "latin": "Ligamenta intercuneiformia interossea",
+    "localizare": "Picior, între cuneiforme",
+    "tip": "Ligamente scurte",
+    "descriere": "Ligamente care unesc fețele adiacente ale oaselor cuneiforme (medial, intermediar, lateral).",
+    "atasamente": ["Fețele adiacente ale cuneiformelor"],
+    "functie": "Stabilizează arcul transversal; mențin coeziunea tarsului distal.",
+    "clinic": "Rar lezate individual."
+  },
+  "plantar_calcaneocuboid_ligament": {
+    "name": "Ligamentul calcaneocuboidian plantar",
+    "latin": "Ligamentum calcaneocuboideum plantare",
+    "localizare": "Plantă, între calcaneu și cuboid",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă scurtă, profundă față de ligamentul plantar lung, care unește calcaneul de cuboid.",
+    "atasamente": ["Calcaneu (fața plantară)", "Cuboid (fața plantară)"],
+    "functie": "Susține arcul longitudinal; stabilizează articulația calcaneocuboidiană.",
+    "clinic": "Face parte din complexul ligamentar plantar, lezat în entorsele severe."
+  },
+  "plantar_cuneocuboid_ligament": {
+    "name": "Ligamentul cuneocuboidian plantar",
+    "latin": "Ligamentum cuneocuboideum plantare",
+    "localizare": "Plantă, între cuneiformul lateral și cuboid",
+    "tip": "Ligament fibros",
+    "descriere": "Întărire plantară a articulației dintre cuneiformul lateral și cuboid.",
+    "atasamente": ["Cuneiformul lateral (plantar)", "Cuboidul (plantar)"],
+    "functie": "Stabilizează arcul transversal plantar.",
+    "clinic": "Poate fi implicat în durerea mezopiciorului."
+  },
+  "plantar_cuneonavicular_ligaments": {
+    "name": "Ligamentele cuneonaviculare plantare",
+    "latin": "Ligamenta cuneonavicularia plantaria",
+    "localizare": "Plantă, între navicular și cuneiforme",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente care unesc fața plantară a navicularului de cuneiforme.",
+    "atasamente": ["Navicularul (plantar)", "Cuneiformele (plantar)"],
+    "functie": "Stabilizează arcul longitudinal; mențin aliniamentul tarsului.",
+    "clinic": "Laxitatea acestor ligamente contribuie la piciorul plat."
+  },
+  "plantar_intercuneiform_ligaments": {
+    "name": "Ligamentele intercuneiforme plantare",
+    "latin": "Ligamenta intercuneiformia plantaria",
+    "localizare": "Plantă, între cuneiforme",
+    "tip": "Ligamente scurte",
+    "descriere": "Întăriri plantare ale articulațiilor dintre oasele cuneiforme.",
+    "atasamente": ["Fețele plantare ale cuneiformelor adiacente"],
+    "functie": "Stabilizează arcul transversal.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "plantar_calcaneonavicular_ligament": {
+    "name": "Ligamentul calcaneonavicular plantar (spring ligament)",
+    "latin": "Ligamentum calcaneonaviculare plantare",
+    "localizare": "Plantă, între calcaneu și navicular",
+    "tip": "Ligament fibrocartilaginos",
+    "descriere": "Ligament gros care susține capul talusului, formând partea cheie a arcului longitudinal medial.",
+    "atasamente": ["Calcaneu (sustentaculum tali)", "Navicular (fața plantară)"],
+    "functie": "Principalul suport al arcului longitudinal medial; previne prăbușirea talusului.",
+    "clinic": "Insuficiența spring ligament produce picior plat dobândit la adult (disfuncția tendonului tibial posterior)."
+  },
+  "plantar_cuboideonavicular_ligament": {
+    "name": "Ligamentul cuboidonavicular plantar",
+    "latin": "Ligamentum cuboideonaviculare plantare",
+    "localizare": "Plantă, între cuboid și navicular",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care conectează cuboidul de navicular pe fața plantară.",
+    "atasamente": ["Cuboid (plantar)", "Navicular (plantar)"],
+    "functie": "Stabilizează arcul transversal; menține relația dintre tarsul anterior.",
+    "clinic": "Lezarea sa poate contribui la instabilitatea mezopiciorului."
+  },
+  "talocalcaneal_interosseous_ligament": {
+    "name": "Ligamentul talocalcanean interosos",
+    "latin": "Ligamentum talocalcaneum interosseum",
+    "localizare": "Sinusul tarsului, între talus și calcaneu",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament puternic situat în canalul tarsian, care separă articulațiile subtalare posterioară și anterioară.",
+    "atasamente": ["Talus (șanțul talusului)", "Calcaneu (șanțul calcanean)"],
+    "functie": "Stabilizează articulația subtalară; limitează mișcările de inversiune/eversiune.",
+    "clinic": "Lezarea sa apare în entorsele severe de gleznă și poate duce la instabilitate subtalară."
+  },
+  "plantar_metatarsophalangeal_ligaments": {
+    "name": "Ligamentele plantare metatarsofalangiene",
+    "latin": "Ligamenta plantaria metatarsophalangea",
+    "localizare": "Plantă, pe fața plantară a articulațiilor MTP",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri fibroase ale capsulei articulare pe fața plantară a articulațiilor metatarsofalangiene.",
+    "atasamente": ["Metatarsiene (capete)", "Falange proximale (baze)"],
+    "functie": "Limitează hiperextensia degetelor; stabilizează articulațiile MTP.",
+    "clinic": "Laxitatea acestor ligamente contribuie la hallux valgus."
+  },
+  "cuneometatarsal_interosseous_ligaments": {
+    "name": "Ligamentele interosoase cuneometatarsiene",
+    "latin": "Ligamenta cuneometatarsalia interossea",
+    "localizare": "Picior, între cuneiforme și bazele metatarsienelor",
+    "tip": "Ligamente scurte",
+    "descriere": "Ligamente interosoase care unesc cuneiformele de metatarsienele corespunzătoare.",
+    "atasamente": ["Cuneiforme", "Bazele metatarsienelor I‑III"],
+    "functie": "Stabilizează arcul longitudinal; transmit forțele de la tars la antepicior.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "plantar_tarsometatarsal_ligaments": {
+    "name": "Ligamentele tarsometatarsiene plantare",
+    "latin": "Ligamenta tarsometatarsalia plantaria",
+    "localizare": "Plantă, pe fața plantară a articulațiilor Lisfranc",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri plantare ale articulațiilor tarsometatarsiene, inclusiv ligamentul Lisfranc (interosos cuneometatarsian I‑II).",
+    "atasamente": ["Tars (cuneiforme, cuboid)", "Bazele metatarsienelor I‑V"],
+    "functie": "Stabilizează arcul transversal; esențiale pentru stabilitatea antepiciorului.",
+    "clinic": "Lezarea ligamentului Lisfranc produce instabilitate cronică a piciorului."
+  },
+  "oblique_popliteal_ligament": {
+    "name": "Ligamentul popliteu oblic",
+    "latin": "Ligamentum popliteum obliquum",
+    "localizare": "Genunchi, posterior, pe capsula articulară",
+    "tip": "Ligament fibros",
+    "descriere": "Expansiune a tendonului mușchiului semimembranos, întărește capsula posterioară a genunchiului.",
+    "atasamente": ["Condilul medial al tibiei", "Capsula posterioară a genunchiului (spre condilul lateral)"],
+    "functie": "Întărește capsula posterioară; limitează hiperextensia genunchiului.",
+    "clinic": "Poate fi lezat în traumatismele severe de genunchi."
+  },
+  "obturator_membrane": {
+    "name": "Membrana obturatorie",
+    "latin": "Membrana obturatoria",
+    "localizare": "Pelvis, peste gaura obturată",
+    "tip": "Membrană fibroasă",
+    "descriere": "Lamă fibroasă care acoperă gaura obturată, lăsând liber doar canalul obturator (pentru vasele și nervul obturator).",
+    "atasamente": ["Marginea găurii obturate (pubis și ischion)"],
+    "functie": "Oferă inserție mușchilor obturatori; reduce greutatea pelvisului.",
+    "clinic": "Rareori implicată în fracturile inelului pelvin."
+  },
+  "interosseous_sacro_iliac_ligament": {
+    "name": "Ligamentul sacroiliac interosos",
+    "latin": "Ligamentum sacroiliacum interosseum",
+    "localizare": "Articulația sacroiliacă, profund",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament puternic care umple spațiul dintre sacrum și ilium, posterior de articulația sinovială.",
+    "atasamente": ["Tuberozitatea iliacă", "Tuberozitatea sacrală"],
+    "functie": "Principalul stabilizator al articulației sacroiliace; limitează mișcarea.",
+    "clinic": "Disfuncția acestui ligament produce durere sacroiliacă."
+  },
+  "interosseous_membrane_of_forearm": {
+    "name": "Membrana interosoasă a antebrațului",
+    "latin": "Membrana interossea antebrachii",
+    "localizare": "Antebraț, între radius și ulnă",
+    "tip": "Sept fibros",
+    "descriere": "Lamă fibroasă care unește radiusul de ulnă, orientată oblic inferior și medial.",
+    "atasamente": ["Radius (marginea interosoasă)", "Ulnă (marginea interosoasă)"],
+    "functie": "Transmite forțele de la radius la ulnă; stabilizează oasele antebrațului; oferă inserție musculară.",
+    "clinic": "Lezarea membranei interosoase apare în fracturile Essex‑Lopresti."
+  },
+  "oblique_cord": {
+    "name": "Cordajul oblic al antebrațului",
+    "latin": "Chorda obliqua antebrachii",
+    "localizare": "Antebraț proximal, între radius și ulnă",
+    "tip": "Bandă fibroasă",
+    "descriere": "Bandă fibroasă subțire, orientată opus față de membrana interosoasă (oblic superior și lateral).",
+    "atasamente": ["Ulnă (tuberozitatea)", "Radius (imediat distal de tuberozitate)"],
+    "functie": "Limitează supinația excesivă; stabilizează articulația radio‑ulnară proximală.",
+    "clinic": "Rareori menționată clinic."
+  },
+  "capitohamate_interosseous_ligament": {
+    "name": "Ligamentul interosos capitohamat",
+    "latin": "Ligamentum capitohamatum interosseum",
+    "localizare": "Carp, între capitat și hamat",
+    "tip": "Ligament interosos scurt",
+    "descriere": "Ligament care unește fețele adiacente ale capitatului și hamatului.",
+    "atasamente": ["Capitat", "Hamat"],
+    "functie": "Stabilizează rândul distal al carpului; menține aliniamentul osos.",
+    "clinic": "Poate fi lezat în fracturile perilunare."
+  },
+  "lunotriquetral_interosseous_ligament": {
+    "name": "Ligamentul interosos lunotriquetral",
+    "latin": "Ligamentum lunotriquetrum interosseum",
+    "localizare": "Carp, între osul semilunar și osul triquetrum",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament care unește semilunarul de triquetrum, asigurând coeziunea rândului proximal al carpului.",
+    "atasamente": ["Osul semilunar (lunatum)", "Osul triquetrum"],
+    "functie": "Stabilizează articulația mediocarpiană; limitează mișcarea de balans între oasele proximale.",
+    "clinic": "Lezarea produce instabilitate lunotriquetrală și durere ulnară de pumn."
+  },
+  "scapholunate_interosseous_ligament": {
+    "name": "Ligamentul interosos scapholunat",
+    "latin": "Ligamentum scapholunatum interosseum",
+    "localizare": "Carp, între scafoid și semilunar",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament cheie al stabilității carpiene, unind scafoidul de semilunar.",
+    "atasamente": ["Scafoid", "Semilunar (lunatum)"],
+    "functie": "Menține alinierea oaselor rândului proximal; previne diastaza scapholunată.",
+    "clinic": "Ruptura produce instabilitate scapholunată și artroză secundară (SLAC wrist)."
+  },
+  "trapeziotrapezoidal_interosseous_ligament": {
+    "name": "Ligamentul interosos trapeziotrapezoidal",
+    "latin": "Ligamentum trapeziotrapezoideum interosseum",
+    "localizare": "Carp, între trapez și trapezoid",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament care unește trapezul de trapezoid, stabilizând rândul distal al carpului.",
+    "atasamente": ["Trapez", "Trapezoid"],
+    "functie": "Stabilizează articulația trapeziotrapezoidală.",
+    "clinic": "Rar lezat individual."
+  },
+  "trapezoideocapitate_interosseous_ligament": {
+    "name": "Ligamentul interosos trapezoidocapitat",
+    "latin": "Ligamentum trapezoideocapitatum interosseum",
+    "localizare": "Carp, între trapezoid și capitat",
+    "tip": "Ligament interosos",
+    "descriere": "Ligament care unește trapezoidul de capitat.",
+    "atasamente": ["Trapezoid", "Capitat"],
+    "functie": "Stabilizează rândul distal al carpului.",
+    "clinic": "Lezarea sa face parte din spectrul instabilităților mediocarpiene."
+  },
+  "interosseous_metacarpal_ligaments": {
+    "name": "Ligamentele interosoase metacarpiene",
+    "latin": "Ligamenta metacarpalia interossea",
+    "localizare": "Mână, între bazele metacarpienelor II‑V",
+    "tip": "Ligamente scurte",
+    "descriere": "Ligamente care unesc fețele adiacente ale bazelor metacarpienelor, asigurând coeziunea mâinii.",
+    "atasamente": ["Bazele metacarpienelor adiacente"],
+    "functie": "Stabilizează arcul carpian; limitează mișcarea între metacarpiene.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "lateral_thyrohyoid_ligament": {
+    "name": "Ligamentul tirohioidian lateral",
+    "latin": "Ligamentum thyrohyoideum laterale",
+    "localizare": "Laringe, între cartilajul tiroidian și osul hioid",
+    "tip": "Ligament elastic",
+    "descriere": "Bandă fibroelastică care conectează cornul superior al cartilajului tiroidian de cornul mare al osului hioid.",
+    "atasamente": ["Cornul superior al cartilajului tiroidian", "Cornul mare al osului hioid"],
+    "functie": "Susține laringele; stabilizează raportul dintre hioid și tiroidian.",
+    "clinic": "Calcificarea sa este vizibilă pe radiografii cervicale."
+  },
+  "median_thyrohyoid_ligament": {
+    "name": "Ligamentul tirohioidian median",
+    "latin": "Ligamentum thyrohyoideum medianum",
+    "localizare": "Laringe, între cartilajul tiroidian și osul hioid (linia mediană)",
+    "tip": "Ligament elastic",
+    "descriere": "Partea mediană a membranei tirohioidiene, îngroșată, care conectează cartilajul tiroidian de corpul osului hioid.",
+    "atasamente": ["Marginea superioară a cartilajului tiroidian", "Corpul osului hioid"],
+    "functie": "Susține laringele; permite mișcarea acestuia la deglutiție.",
+    "clinic": "Este traversat de vasele și nervul laringian superior."
+  },
+  "external_intercostal_membrane": {
+    "name": "Membrana intercostală externă",
+    "latin": "Membrana intercostalis externa",
+    "localizare": "Torace, anterior (porțiunea cartilaginoasă a coastelor)",
+    "tip": "Membrană fibroasă",
+    "descriere": "Continuarea fibroasă a mușchiului intercostal extern la nivelul cartilajelor costale, între coaste.",
+    "atasamente": ["Marginea inferioară a coastei superioare", "Marginea superioară a coastei inferioare"],
+    "functie": "Completează stratul intercostal extern; stabilizează spațiul intercostal.",
+    "clinic": "Poate fi lezată în traumatismele toracice."
+  },
+  "internal_intercostal_membrane": {
+    "name": "Membrana intercostală internă",
+    "latin": "Membrana intercostalis interna",
+    "localizare": "Torace, posterior (unghiul coastelor)",
+    "tip": "Membrană fibroasă",
+    "descriere": "Continuarea fibroasă a mușchiului intercostal intern la nivelul unghiului coastelor, posterior.",
+    "atasamente": ["Coastele adiacente (posterior)"],
+    "functie": "Completează stratul intercostal intern; stabilizează spațiul intercostal.",
+    "clinic": "Poate fi implicată în durerea toracică posterioară."
+  },
+  "patellar_ligament": {
+    "name": "Ligamentul patelar (tendonul patelar)",
+    "latin": "Ligamentum patellae",
+    "localizare": "Genunchi anterior, între patelă și tuberozitatea tibială",
+    "tip": "Tendon/ligament",
+    "descriere": "Continuarea tendonului cvadricipital sub patelă, inserându‑se pe tuberozitatea tibială. Face parte din mecanismul extensor al genunchiului.",
+    "atasamente": ["Apexul patelei", "Tuberozitatea tibială"],
+    "functie": "Transmite forța cvadricepsului pentru extensia genunchiului.",
+    "clinic": "Ruptura de ligament patelar produce imposibilitatea extensiei active a genunchiului."
+  },
+  "arytenoid_cartilage": {
+    "name": "Cartilajul aritenoidian",
+    "latin": "Cartilago arytenoidea",
+    "localizare": "Laringe, pe fața posterioară a cartilajului cricoid",
+    "tip": "Cartilaj hialin pereche",
+    "descriere": "Cartilaj piramidal care susține corzile vocale și permite mișcarea acestora prin articulația cricoaritenoidiană.",
+    "atasamente": ["Cartilajul cricoid (articulație sinovială)", "Corzile vocale (procesul vocal)", "Mușchii intrinseci laringieni"],
+    "functie": "Modifică tensiunea și poziția corzilor vocale; esențial pentru fonație.",
+    "clinic": "Luxația aritenoidiană produce disfonie post‑intubație."
+  },
+  "corniculate_cartilage": {
+    "name": "Cartilajul corniculat (Santorini)",
+    "latin": "Cartilago corniculata",
+    "localizare": "Laringe, pe vârful cartilajului aritenoidian",
+    "tip": "Cartilaj elastic mic",
+    "descriere": "Mic cartilaj situat pe apexul cartilajului aritenoidian, în interiorul plicii ariepiglotice.",
+    "atasamente": ["Apexul cartilajului aritenoidian"],
+    "functie": "Sprijină plica ariepiglotică.",
+    "clinic": "Rareori implicat patologic."
+  },
+  "cricoid_cartilage": {
+    "name": "Cartilajul cricoid",
+    "latin": "Cartilago cricoidea",
+    "localizare": "Laringe, inferior de cartilajul tiroidian",
+    "tip": "Cartilaj hialin inelar",
+    "descriere": "Singurul inel cartilaginos complet al căilor respiratorii, situat la baza laringelui. Are formă de inel cu sigiliu (arcul anterior și lama posterioară).",
+    "atasamente": ["Traheea (inferior, prin ligamentul cricotraheal)", "Cartilajul tiroidian (articulație sinovială)", "Aritenoizii (articulație sinovială)"],
+    "functie": "Suport structural al laringelui; menține permeabilitatea căilor aeriene.",
+    "clinic": "Cricotiroidotomia (coniotomia) se efectuează prin membrana cricotiroidiană, superior de cricoid."
+  },
+  "thyroid_cartilage": {
+    "name": "Cartilajul tiroidian (mărul lui Adam)",
+    "latin": "Cartilago thyroidea",
+    "localizare": "Laringe, anterior, superior de cricoid",
+    "tip": "Cartilaj hialin",
+    "descriere": "Cel mai mare cartilaj laringian, format din două lame care se unesc anterior formând proeminența laringiană (mărul lui Adam).",
+    "atasamente": ["Cartilajul cricoid (articulație cricotiroidiană)", "Osul hioid (membrana tirohioidiană)"],
+    "functie": "Protecția corzilor vocale; suport structural al laringelui.",
+    "clinic": "Fracturile de cartilaj tiroidian produc obstrucție respiratorie."
+  },
+  "lateral_process_of_nasal_septal_cartilage": {
+    "name": "Procesul lateral al cartilajului septal nazal",
+    "latin": "Processus lateralis cartilaginis septi nasi",
+    "localizare": "Nas, lateral de septul nazal",
+    "tip": "Cartilaj hialin",
+    "descriere": "Cartilaj pereche care formează scheletul peretelui nazal lateral (partea cartilaginoasă a nasului extern).",
+    "atasamente": ["Cartilajul septal nazal (medial)", "Cartilajul alar mare (inferior)"],
+    "functie": "Menține forma nasului extern; participă la permeabilitatea căilor nazale.",
+    "clinic": "Fracturile nazale pot afecta acest cartilaj."
+  },
+  "nasal_septal_cartilage": {
+    "name": "Cartilajul septal nazal",
+    "latin": "Cartilago septi nasi",
+    "localizare": "Nas, septul nazal anterior",
+    "tip": "Cartilaj hialin",
+    "descriere": "Cartilaj median care formează partea anterioară a septului nazal, articulându‑se cu lama perpendiculară a etmoidului și vomerul.",
+    "atasamente": ["Lama perpendiculară a etmoidului", "Vomerul", "Cartilajele nazale laterale"],
+    "functie": "Suport structural al septului nazal; menține permeabilitatea foselor nazale.",
+    "clinic": "Deviația de sept nazal poate obstrucționa respirația nazală."
+  },
+  "anterior_tibiofibular_ligament": {
+    "name": "Ligamentul tibiofibular anterior",
+    "latin": "Ligamentum tibiofibulare anterius",
+    "localizare": "Gleznă, anterior, între tibie și fibulă",
+    "tip": "Ligament fibros (sindesmoză)",
+    "descriere": "Bandă fibroasă care unește marginea anterioară a tibiei de fibulă, făcând parte din sindesmoza tibiofibulară distală.",
+    "atasamente": ["Tibia (marginea anterioară a incizurii fibulare)", "Fibula (marginea anterioară a maleolei laterale)"],
+    "functie": "Stabilizează glezna; previne diastaza tibiofibulară.",
+    "clinic": "Lezarea produce „entorsă înaltă” de gleznă, cu instabilitate cronică."
+  },
+  "posterior_tibiofibular_ligament": {
+    "name": "Ligamentul tibiofibular posterior",
+    "latin": "Ligamentum tibiofibulare posterius",
+    "localizare": "Gleznă, posterior, între tibie și fibulă",
+    "tip": "Ligament fibros (sindesmoză)",
+    "descriere": "Bandă fibroasă care unește marginea posterioară a tibiei de fibulă, mai subțire decât cel anterior.",
+    "atasamente": ["Tibia (marginea posterioară a incizurii fibulare)", "Fibula (marginea posterioară a maleolei laterale)"],
+    "functie": "Stabilizează glezna posterior; completează sindesmoza.",
+    "clinic": "Poate fi lezat împreună cu ligamentul anterior în entorse înalte."
+  },
+  "transverse_tibiofibular_ligament": {
+    "name": "Ligamentul tibiofibular transvers",
+    "latin": "Ligamentum tibiofibulare transversum",
+    "localizare": "Gleznă, posterior, profund față de ligamentul posterior",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiune profundă a ligamentului tibiofibular posterior, formând o lamă fibroasă transversă.",
+    "atasamente": ["Tibia (fața posterioară a maleolei mediale)", "Fibula (maleola laterală)"],
+    "functie": "Stabilizează sindesmoza tibiofibulară; previne deplasarea posterioară a fibulei.",
+    "clinic": "Lezarea sa face parte din leziunile sindesmotice."
+  },
+  "anterior_talofibular_ligament": {
+    "name": "Ligamentul talofibular anterior",
+    "latin": "Ligamentum talofibulare anterius",
+    "localizare": "Gleznă laterală, între fibulă și talus",
+    "tip": "Ligament fibros",
+    "descriere": "Cel mai frecvent lezat ligament al gleznei, se întinde de la maleola laterală la colul talusului.",
+    "atasamente": ["Fibula (marginea anterioară a maleolei laterale)", "Talus (colul, anterior de fațeta articulară)"],
+    "functie": "Limitează deplasarea anterioară a talusului; previne inversiunea excesivă.",
+    "clinic": "Entorsa laterală de gleznă implică întinderea sau ruptura acestui ligament."
+  },
+  "calcaneofibular_ligament": {
+    "name": "Ligamentul calcaneofibular",
+    "latin": "Ligamentum calcaneofibulare",
+    "localizare": "Gleznă laterală, între fibulă și calcaneu",
+    "tip": "Ligament fibros rotund",
+    "descriere": "Bandă fibroasă care leagă vârful maleolei laterale de fața laterală a calcaneului.",
+    "atasamente": ["Fibula (vârful maleolei laterale)", "Calcaneu (fața laterală)"],
+    "functie": "Limitează inversiunea; stabilizează articulația subtalară.",
+    "clinic": "Lezarea sa însoțește frecvent ruptura ligamentului talofibular anterior."
+  },
+  "posterior_talofibular_ligament": {
+    "name": "Ligamentul talofibular posterior",
+    "latin": "Ligamentum talofibulare posterius",
+    "localizare": "Gleznă laterală, posterior, între fibulă și talus",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică, orizontală, care leagă maleola laterală de procesul posterior al talusului.",
+    "atasamente": ["Fibula (maleola laterală, fața posterioară)", "Talus (procesul posterior)"],
+    "functie": "Limitează deplasarea posterioară a talusului; stabilizează glezna în flexie plantară.",
+    "clinic": "Rareori lezat izolat; ruptura apare în entorse severe."
+  },
+  "posterior_tibiotalar_ligament": {
+    "name": "Ligamentul tibiotalar posterior",
+    "latin": "Ligamentum tibiotalare posterius",
+    "localizare": "Gleznă medială, posterior, parte a ligamentului deltoid",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiunea posterioară a ligamentului deltoid, întinzându‑se de la maleola medială la talus.",
+    "atasamente": ["Tibia (maleola medială)", "Talus (fața posterioară)"],
+    "functie": "Limitează eversiunea; stabilizează glezna medial.",
+    "clinic": "Lezarea sa este rară; face parte din entorsele mediale."
+  },
+  "tibiocalcaneal_ligament": {
+    "name": "Ligamentul tibiocalcanean",
+    "latin": "Ligamentum tibiocalcaneum",
+    "localizare": "Gleznă medială, parte a ligamentului deltoid",
+    "tip": "Ligament fibros",
+    "descriere": "Parte a ligamentului deltoid, se inseră pe calcaneu (sustentaculum tali).",
+    "atasamente": ["Tibia (maleola medială)", "Calcaneu (sustentaculum tali)"],
+    "functie": "Limitează eversiunea; stabilizează arcul longitudinal medial.",
+    "clinic": "Rareori lezat individual."
+  },
+  "tibionavicular_ligament": {
+    "name": "Ligamentul tibionavicular",
+    "latin": "Ligamentum tibionaviculare",
+    "localizare": "Gleznă medială, anterior, parte a ligamentului deltoid",
+    "tip": "Ligament fibros",
+    "descriere": "Parte anterioară a ligamentului deltoid, se inseră pe navicular.",
+    "atasamente": ["Tibia (maleola medială)", "Navicular (tuberozitatea)"],
+    "functie": "Limitează eversiunea; stabilizează glezna medial.",
+    "clinic": "Poate fi lezat în entorsele mediale."
+  },
+  "acetabular_labrum": {
+    "name": "Labrumul acetabular",
+    "latin": "Labrum acetabuli",
+    "localizare": "Articulația șoldului, în jurul acetabulului",
+    "tip": "Fibrocartilaj inelar",
+    "descriere": "Inel fibrocartilaginos care mărește adâncimea acetabulului, îmbunătățind stabilitatea articulară.",
+    "atasamente": ["Marginea acetabulului"],
+    "functie": "Crește suprafața articulară; stabilizează capul femural; distribuie presiunea.",
+    "clinic": "Ruptura de labrum acetabular produce durere inghinală și senzație de blocaj."
+  },
+  "articular_capsule_of_hip_joint": {
+    "name": "Capsula articulară a șoldului",
+    "latin": "Capsula articularis coxae",
+    "localizare": "Șold, de la acetabul la colul femural",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă puternică, întărită de ligamente (iliofemural, pubofemural, ischiofemural), care acoperă capul femural.",
+    "atasamente": ["Acetabul (marginea)", "Femur (baza colului, linia intertrohanterică)"],
+    "functie": "Stabilizează articulația; conține lichid sinovial.",
+    "clinic": "Capsulita adezivă („umăr înghețat” este la umăr) nu e tipică, dar inflamația capsulei produce durere."
+  },
+  "descending_part_of_iliofemoral_ligament": {
+    "name": "Partea descendentă a ligamentului iliofemural (Bertin)",
+    "latin": "Pars descendens ligamenti iliofemoralis",
+    "localizare": "Șold anterior, de la spina iliacă antero‑inferioară la femur",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică a ligamentului iliofemural, orientată vertical, care limitează extensia și rotația laterală a șoldului.",
+    "atasamente": ["Spina iliacă antero‑inferioară", "Linia intertrohanterică (porțiunea inferioară)"],
+    "functie": "Limitează extensia șoldului; previne căderea trunchiului posterior.",
+    "clinic": "Este cel mai puternic ligament al corpului; lezarea sa este rară."
+  },
+  "ischiofemoral_ligament": {
+    "name": "Ligamentul ischiofemural",
+    "latin": "Ligamentum ischiofemorale",
+    "localizare": "Șold posterior, de la ischion la femur",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă spiralată care întărește capsula posterioară a șoldului, limitând extensia și rotația medială.",
+    "atasamente": ["Ischion (posterior de acetabul)", "Femur (baza trohanterului mare, linia intertrohanterică)"],
+    "functie": "Limitează extensia și rotația medială; stabilizează șoldul.",
+    "clinic": "Mai subțire decât iliofemuralul; lezarea sa este rară."
+  },
+  "ligament_of_head_of_femur": {
+    "name": "Ligamentul capului femural (ligamentul rotund)",
+    "latin": "Ligamentum capitis femoris",
+    "localizare": "Articulația șoldului, între fovea capitis și acetabul",
+    "tip": "Ligament intraarticular",
+    "descriere": "Bandă fibroasă care conține artera foveolară (la copil) și se inseră pe fovea capitis și marginile acetabulare.",
+    "atasamente": ["Fovea capitis femoris", "Acetabul (marginea incizurii acetabulare, ligamentul transvers)"],
+    "functie": "Conține ramura arterei obturatorii pentru capul femural (important la copil); stabilizează minim.",
+    "clinic": "Ruptura sa apare în luxațiile traumatice de șold."
+  },
+  "pubofemoral_ligament": {
+    "name": "Ligamentul pubofemural",
+    "latin": "Ligamentum pubofemorale",
+    "localizare": "Șold anterior, inferior, de la pubis la femur",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă triunghiulară care întărește capsula antero‑inferioară, limitând abducția și extensia.",
+    "atasamente": ["Ramura superioară a pubisului", "Linia intertrohanterică (porțiunea medială)"],
+    "functie": "Limitează abducția și extensia; stabilizează șoldul.",
+    "clinic": "Rareori lezat individual."
+  },
+  "transverse_acetabular_ligament": {
+    "name": "Ligamentul transvers acetabular",
+    "latin": "Ligamentum transversum acetabuli",
+    "localizare": "Șold, peste incizura acetabulară",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care transformă incizura acetabulară într‑un foramen, completând circumferința acetabulului.",
+    "atasamente": ["Marginile incizurii acetabulare"],
+    "functie": "Completează cavitatea acetabulară; oferă suport ligamentului rotund.",
+    "clinic": "Important în artroscopia de șold."
+  },
+  "transverse_part_of_iliofemoral_ligament": {
+    "name": "Partea transversă a ligamentului iliofemural",
+    "latin": "Pars transversa ligamenti iliofemoralis",
+    "localizare": "Șold anterior, porțiunea orizontală",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiunea orizontală a ligamentului iliofemural, limitând extensia și rotația laterală.",
+    "atasamente": ["Spina iliacă antero‑inferioară", "Linia intertrohanterică (porțiunea superioară)"],
+    "functie": "Limitează extensia; stabilizează șoldul în ortostatism.",
+    "clinic": "Împreună cu partea descendentă formează ligamentul în Y (Bigelow)."
+  },
+  "dorsal_metatarsal_ligaments": {
+    "name": "Ligamentele metatarsiene dorsale",
+    "latin": "Ligamenta metatarsalia dorsalia",
+    "localizare": "Picior, dorsal, între bazele metatarsienelor",
+    "tip": "Ligamente scurte",
+    "descriere": "Întăriri ale capsulei articulare pe fața dorsală a articulațiilor intermetatarsiene.",
+    "atasamente": ["Bazele metatarsienelor adiacente (dorsal)"],
+    "functie": "Stabilizează arcul transversal; limitează mișcarea.",
+    "clinic": "Pot fi sediul durerii în metatarsalgie."
+  },
+  "intersesamoid_ligament": {
+    "name": "Ligamentul intersesamoidian",
+    "latin": "Ligamentum intersesamoideum",
+    "localizare": "Plantă, între cele două oase sesamoide de la haluce",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care unește cele două sesamoide (medial și lateral) de sub capul metatarsianului I.",
+    "atasamente": ["Sesamoidul medial", "Sesamoidul lateral"],
+    "functie": "Stabilizează sesamoidele; menține raportul cu tendonul flexorului scurt al halucelui.",
+    "clinic": "Sesamoidita produce durere la acest nivel."
+  },
+  "articular_capsule_of_interphalangeal_joint_of_great_toe": {
+    "name": "Capsula articulară a articulației interfalangiene a halucelui",
+    "latin": "Capsula articularis articulationis interphalangeae hallucis",
+    "localizare": "Haluce, între falange",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă care învelește articulația interfalangiană a degetului mare.",
+    "atasamente": ["Falanga proximală a halucelui", "Falanga distală a halucelui"],
+    "functie": "Conține lichid sinovial; stabilizează articulația.",
+    "clinic": "Hallux rigidus produce redoare și durere la acest nivel."
+  },
+  "articular_capsules_of_distal_interphalangeal_joints_of_foot": {
+    "name": "Capsulele articulare ale articulațiilor interfalangiene distale ale piciorului",
+    "latin": "Capsulae articulares articulationum interphalangearum distalis pedis",
+    "localizare": "Degetele II‑V, între falangele medii și distale",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care învelesc articulațiile interfalangiene distale ale degetelor II‑V.",
+    "atasamente": ["Falangele medii", "Falangele distale"],
+    "functie": "Stabilizează articulațiile; permit flexia și extensia.",
+    "clinic": "Deformările degetelor (hammertoe) implică aceste articulații."
+  },
+  "articular_capsules_of_proximal_interphalangeal_joints_of_foot": {
+    "name": "Capsulele articulare ale articulațiilor interfalangiene proximale ale piciorului",
+    "latin": "Capsulae articulares articulationum interphalangearum proximalis pedis",
+    "localizare": "Degetele II‑V, între falangele proximale și medii",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care învelesc articulațiile interfalangiene proximale.",
+    "atasamente": ["Falangele proximale", "Falangele medii"],
+    "functie": "Permit mișcarea degetelor; stabilizează.",
+    "clinic": "Claw toe (deget în gheară) implică hiperextensia MTP și flexia PIP."
+  },
+  "collateral_interphalangeal_ligaments_of_foot": {
+    "name": "Ligamentele colaterale interfalangiene ale piciorului",
+    "latin": "Ligamenta collateralia interphalangea pedis",
+    "localizare": "Degetele piciorului, lateral și medial",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente care întăresc lateral și medial articulațiile interfalangiene.",
+    "atasamente": ["Falangele (capsula articulară)"],
+    "functie": "Limitează mișcările laterale; stabilizează articulațiile.",
+    "clinic": "Lezarea produce instabilitate digitală."
+  },
+  "anterior_talocalcaneal_ligament": {
+    "name": "Ligamentul talocalcanean anterior",
+    "latin": "Ligamentum talocalcaneum anterius",
+    "localizare": "Sinusul tarsului, anterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care întărește capsula anterioară a articulației subtalare.",
+    "atasamente": ["Talus (colul)", "Calcaneu (fața superioară)"],
+    "functie": "Stabilizează articulația subtalară; limitează inversiunea.",
+    "clinic": "Face parte din complexul ligamentar al sinusului tarsului."
+  },
+  "calcaneocuboid_ligament": {
+    "name": "Ligamentul calcaneocuboidian",
+    "latin": "Ligamentum calcaneocuboideum",
+    "localizare": "Picior, lateral, între calcaneu și cuboid",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește calcaneul de cuboid, făcând parte din articulația calcaneocuboidiană (parte a articulației transverse a tarsului – Chopart).",
+    "atasamente": ["Calcaneu (fața anterioară)", "Cuboid (fața posterioară)"],
+    "functie": "Stabilizează articulația Chopart; menține arcul longitudinal.",
+    "clinic": "Lezarea produce instabilitate a piciorului."
+  },
+  "calcaneonavicular_ligament": {
+    "name": "Ligamentul calcaneonavicular",
+    "latin": "Ligamentum calcaneonaviculare",
+    "localizare": "Picior, medial, între calcaneu și navicular (parte a ligamentului bifurcat)",
+    "tip": "Ligament fibros",
+    "descriere": "Parte a ligamentului bifurcat (Chopart), unind calcaneul de navicular.",
+    "atasamente": ["Calcaneu (fața superioară)", "Navicular (fața laterală)"],
+    "functie": "Stabilizează articulația transverse a tarsului.",
+    "clinic": "Lezarea sa produce instabilitate mediotarsiană."
+  },
+  "dorsal_calcaneocuboid_ligament": {
+    "name": "Ligamentul calcaneocuboidian dorsal",
+    "latin": "Ligamentum calcaneocuboideum dorsale",
+    "localizare": "Picior, dorsal, între calcaneu și cuboid",
+    "tip": "Ligament fibros",
+    "descriere": "Întărire dorsală a articulației calcaneocuboidiene.",
+    "atasamente": ["Calcaneu (dorsal)", "Cuboid (dorsal)"],
+    "functie": "Stabilizează articulația Chopart.",
+    "clinic": "Face parte din complexul ligamentar dorsal al piciorului."
+  },
+  "dorsal_cuboideonavicular_ligament": {
+    "name": "Ligamentul cuboidonavicular dorsal",
+    "latin": "Ligamentum cuboideonaviculare dorsale",
+    "localizare": "Picior, dorsal, între cuboid și navicular",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește cuboidul de navicular pe fața dorsală.",
+    "atasamente": ["Cuboid (dorsal)", "Navicular (dorsal)"],
+    "functie": "Stabilizează rândul distal al tarsului.",
+    "clinic": "Rareori lezat individual."
+  },
+  "dorsal_cuneocuboid_ligament": {
+    "name": "Ligamentul cuneocuboidian dorsal",
+    "latin": "Ligamentum cuneocuboideum dorsale",
+    "localizare": "Picior, dorsal, între cuneiformul lateral și cuboid",
+    "tip": "Ligament fibros",
+    "descriere": "Întărire dorsală a articulației cuneocuboidiene.",
+    "atasamente": ["Cuneiformul lateral (dorsal)", "Cuboid (dorsal)"],
+    "functie": "Stabilizează arcul transversal.",
+    "clinic": "Poate fi lezat în traumatismele piciorului."
+  },
+  "dorsal_cuneonavicular_ligaments": {
+    "name": "Ligamentele cuneonaviculare dorsale",
+    "latin": "Ligamenta cuneonavicularia dorsalia",
+    "localizare": "Picior, dorsal, între navicular și cuneiforme",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente care unesc navicularul de cuneiforme pe fața dorsală.",
+    "atasamente": ["Navicular (dorsal)", "Cuneiforme (dorsal)"],
+    "functie": "Stabilizează arcul longitudinal.",
+    "clinic": "Pot fi afectate în artroza tarsiană."
+  },
+  "dorsal_intercuneiform_ligaments": {
+    "name": "Ligamentele intercuneiforme dorsale",
+    "latin": "Ligamenta intercuneiformia dorsalia",
+    "localizare": "Picior, dorsal, între cuneiforme",
+    "tip": "Ligamente scurte",
+    "descriere": "Întăriri dorsale ale articulațiilor intercuneiforme.",
+    "atasamente": ["Fețele dorsale ale cuneiformelor adiacente"],
+    "functie": "Stabilizează arcul transversal.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "lateral_talocalcaneal_ligament": {
+    "name": "Ligamentul talocalcanean lateral",
+    "latin": "Ligamentum talocalcaneum laterale",
+    "localizare": "Gleznă laterală, între talus și calcaneu",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă scurtă care întărește capsula laterală a articulației subtalare.",
+    "atasamente": ["Talus (fața laterală)", "Calcaneu (fața laterală)"],
+    "functie": "Stabilizează articulația subtalară; limitează inversiunea.",
+    "clinic": "Lezarea sa apare în entorsele severe."
+  },
+  "medial_talocalcaneal_ligament": {
+    "name": "Ligamentul talocalcanean medial",
+    "latin": "Ligamentum talocalcaneum mediale",
+    "localizare": "Gleznă medială, între talus și calcaneu",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula medială a articulației subtalare.",
+    "atasamente": ["Talus (fața medială)", "Calcaneu (sustentaculum tali)"],
+    "functie": "Limitează eversiunea; stabilizează subtalara.",
+    "clinic": "Rareori lezat izolat."
+  },
+  "posterior_talocalcaneal_ligament": {
+    "name": "Ligamentul talocalcanean posterior",
+    "latin": "Ligamentum talocalcaneum posterius",
+    "localizare": "Gleznă, posterior, între talus și calcaneu",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă scurtă care unește procesul posterior al talusului de calcaneu.",
+    "atasamente": ["Talus (procesul posterior)", "Calcaneu (fața superioară)"],
+    "functie": "Stabilizează articulația subtalară posterior.",
+    "clinic": "Rareori menționat clinic."
+  },
+  "talonavicular_ligament": {
+    "name": "Ligamentul talonavicular (dorsal)",
+    "latin": "Ligamentum talonaviculare (dorsale)",
+    "localizare": "Picior, dorsal, între talus și navicular",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește colul talusului de navicular, făcând parte din articulația talonaviculară (parte a articulației transverse a tarsului).",
+    "atasamente": ["Talus (colul)", "Navicular (fața superioară)"],
+    "functie": "Stabilizează articulația talonaviculară; menține arcul longitudinal.",
+    "clinic": "Lezarea produce instabilitate mediotarsiană."
+  },
+  "articular_capsules_of_metatarsophalangeal_joints": {
+    "name": "Capsulele articulare ale articulațiilor metatarsofalangiene",
+    "latin": "Capsulae articulares articulationum metatarsophalangearum",
+    "localizare": "Picior, la baza degetelor",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care învelesc articulațiile MTP, întărite de ligamente colaterale și plantare.",
+    "atasamente": ["Capetele metatarsienelor", "Bazele falangelor proximale"],
+    "functie": "Permit flexia, extensia și o ușoară abducție/aducție.",
+    "clinic": "Hallux valgus implică deformarea capsulei MTP I."
+  },
+  "collateral_metatarsophalangeal_ligaments": {
+    "name": "Ligamentele colaterale metatarsofalangiene",
+    "latin": "Ligamenta collateralia metatarsophalangea",
+    "localizare": "Picior, lateral și medial de articulațiile MTP",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente care întăresc capsula MTP pe fețele laterale și mediale.",
+    "atasamente": ["Metatarsiene (capete)", "Falange proximale (baze)"],
+    "functie": "Limitează mișcările laterale; stabilizează degetele.",
+    "clinic": "Laxitatea acestor ligamente contribuie la deformările degetelor."
+  },
+  "deep_transverse_metatarsal_ligament": {
+    "name": "Ligamentul metatarsian transvers profund",
+    "latin": "Ligamentum metatarseum transversum profundum",
+    "localizare": "Plantă, între capetele metatarsienelor",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care unește capetele metatarsienelor II‑V pe fața plantară, stabilizând arcul transversal.",
+    "atasamente": ["Capetele metatarsienelor II‑V (plantar)"],
+    "functie": "Menține arcul transversal; previne lățirea antepiciorului.",
+    "clinic": "Laxitatea sa contribuie la metatarsalgie și deformări."
+  },
+  "dorsal_tarsometatarsal_ligaments": {
+    "name": "Ligamentele tarsometatarsiene dorsale",
+    "latin": "Ligamenta tarsometatarsalia dorsalia",
+    "localizare": "Picior, dorsal, pe articulațiile Lisfranc",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri dorsale ale articulațiilor tarsometatarsiene.",
+    "atasamente": ["Tars (cuneiforme, cuboid)", "Bazele metatarsienelor (dorsal)"],
+    "functie": "Stabilizează arcul dorsal; complementare celor plantare.",
+    "clinic": "Lezarea lor face parte din spectrul leziunilor Lisfranc."
+  },
+  "anterior_cruciate_ligament": {
+    "name": "Ligamentul încrucișat anterior (LIA)",
+    "latin": "Ligamentum cruciatum anterius",
+    "localizare": "Genunchi, intraarticular, între femur și tibie",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică care previne translarea anterioară a tibiei față de femur și stabilizează rotația.",
+    "atasamente": ["Femur (fața medială a condilului lateral)", "Tibie (aria intercondilară anterioară)"],
+    "functie": "Limitează deplasarea anterioară a tibiei; stabilizează rotațional genunchiul.",
+    "clinic": "Ruptura LIA este una dintre cele mai frecvente leziuni sportive; produce instabilitate anterioară (semnul sertarului anterior)."
+  },
+  "anterior_meniscotibial_ligament": {
+    "name": "Ligamentul meniscotibial anterior (corn anterior al meniscului)",
+    "latin": "Ligamentum meniscotibiale anterius",
+    "localizare": "Genunchi, între menisc și tibie (anterior)",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care ancorează cornul anterior al meniscului de platoul tibial.",
+    "atasamente": ["Meniscul (corn anterior)", "Tibia (aria intercondilară anterioară)"],
+    "functie": "Fixează meniscul; previne extrudarea lui.",
+    "clinic": "Lezarea poate apărea în rupturile de menisc."
+  },
+  "arcuate_popliteal_ligament": {
+    "name": "Ligamentul popliteu arcuat",
+    "latin": "Ligamentum popliteum arcuatum",
+    "localizare": "Genunchi, posterior, pe capsulă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă arcuită care întărește capsula posterioară a genunchiului, pornind de la fibulă și arcuindu‑se peste mușchiul popliteu.",
+    "atasamente": ["Fibula (vârful)", "Capsula posterioară a genunchiului (spre femur)"],
+    "functie": "Întărește capsula posterioară; stabilizează genunchiul în extensie.",
+    "clinic": "Face parte din complexul posterolateral; lezarea produce instabilitate."
+  },
+  "articular_capsule_of_knee_joint": {
+    "name": "Capsula articulară a genunchiului",
+    "latin": "Capsula articularis genus",
+    "localizare": "Genunchi, înconjurând articulația",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă întărită de ligamente, care conține lichid sinovial și acoperă articulația genunchiului.",
+    "atasamente": ["Femur (marginile articulare)", "Tibia (marginile articulare)", "Patela (marginea articulară)"],
+    "functie": "Conține sinovia; stabilizează articulația.",
+    "clinic": "Sinovita produce lichid articular (hidrartroză)."
+  },
+  "deep_part_of_tibial_collateral_ligament": {
+    "name": "Partea profundă a ligamentului colateral tibial",
+    "latin": "Pars profunda ligamenti collateralis tibialis",
+    "localizare": "Genunchi medial, profund",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiunea profundă a ligamentului colateral medial (LCM), atașată direct de meniscul medial.",
+    "atasamente": ["Femur (condilul medial)", "Meniscul medial", "Tibia (condilul medial)"],
+    "functie": "Stabilizează genunchiul medial; ancorează meniscul medial.",
+    "clinic": "Lezarea LCM implică frecvent această porțiune."
+  },
+  "fibular_collateral_ligament": {
+    "name": "Ligamentul colateral fibular (LCL)",
+    "latin": "Ligamentum collaterale fibulare",
+    "localizare": "Genunchi lateral, extraarticular",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică, rotundă, care se întinde de la condilul lateral al femurului la capul fibulei.",
+    "atasamente": ["Femur (condilul lateral)", "Fibula (capul)"],
+    "functie": "Limitează deviația laterală (varus); stabilizează genunchiul lateral.",
+    "clinic": "Ruptura LCL produce instabilitate în varus."
+  },
+  "lateral_meniscus": {
+    "name": "Meniscul lateral",
+    "latin": "Meniscus lateralis",
+    "localizare": "Genunchi, între femur și tibie (compartimentul lateral)",
+    "tip": "Fibrocartilaj semilunar",
+    "descriere": "Structură fibrocartilaginoasă în formă de inel aproape complet, care amortizează și distribuie sarcinile pe platoul tibial lateral.",
+    "atasamente": ["Tibia (aria intercondilară)", "Femurul (prin ligamentul meniscofemural)"],
+    "functie": "Amortizează șocurile; stabilizează genunchiul; distribuie presiunea.",
+    "clinic": "Ruptura de menisc lateral produce durere, blocaj și hidrartroză."
+  },
+  "medial_meniscus": {
+    "name": "Meniscul medial",
+    "latin": "Meniscus medialis",
+    "localizare": "Genunchi, între femur și tibie (compartimentul medial)",
+    "tip": "Fibrocartilaj semilunar",
+    "descriere": "Structură fibrocartilaginoasă în formă de C, mai puțin mobilă decât meniscul lateral, mai frecvent lezată.",
+    "atasamente": ["Tibia (aria intercondilară anterioară și posterioară)", "Capsula articulară (prin ligamentul colateral tibial)"],
+    "functie": "Amortizează șocurile; stabilizează genunchiul medial.",
+    "clinic": "Ruptura de menisc medial este foarte frecventă (mecanism de rotație pe picior fixat)."
+  },
+  "meniscopatellar_ligament": {
+    "name": "Ligamentul meniscopatellar",
+    "latin": "Ligamentum meniscopatellare",
+    "localizare": "Genunchi, între meniscuri și patelă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care conectează marginea anterioară a meniscurilor de marginea inferioară a patelei.",
+    "atasamente": ["Meniscul (marginea anterioară)", "Patela (marginea inferioară)"],
+    "functie": "Stabilizează meniscurile în timpul mișcării genunchiului.",
+    "clinic": "Rareori menționat clinic."
+  },
+  "popliteofibular_ligament": {
+    "name": "Ligamentul popliteofibular",
+    "latin": "Ligamentum popliteofibulare",
+    "localizare": "Genunchi, posterior, între mușchiul popliteu și fibulă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care leagă tendonul popliteului de vârful fibulei, parte a complexului posterolateral.",
+    "atasamente": ["Tendonul popliteului", "Fibula (vârful)"],
+    "functie": "Stabilizează genunchiul posterolateral; limitează rotația externă a tibiei.",
+    "clinic": "Lezarea sa produce instabilitate posterolaterală (dial test pozitiv)."
+  },
+  "posterior_cruciate_ligament": {
+    "name": "Ligamentul încrucișat posterior (LIP)",
+    "latin": "Ligamentum cruciatum posterius",
+    "localizare": "Genunchi, intraarticular",
+    "tip": "Ligament fibros",
+    "descriere": "Ligament puternic care previne translarea posterioară a tibiei față de femur.",
+    "atasamente": ["Femur (fața laterală a condilului medial)", "Tibie (aria intercondilară posterioară)"],
+    "functie": "Limitează deplasarea posterioară a tibiei; stabilizează genunchiul.",
+    "clinic": "Ruptura LIP produce semnul sertarului posterior."
+  },
+  "posterior_meniscotibial_ligament": {
+    "name": "Ligamentul meniscotibial posterior",
+    "latin": "Ligamentum meniscotibiale posterius",
+    "localizare": "Genunchi, între menisc și tibie (posterior)",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care ancorează cornul posterior al meniscului de platoul tibial.",
+    "atasamente": ["Meniscul (corn posterior)", "Tibia (aria intercondilară posterioară)"],
+    "functie": "Fixează meniscul posterior.",
+    "clinic": "Lezarea poate apărea în rupturile de menisc."
+  },
+  "superficial_part_of_tibial_collateral_ligament": {
+    "name": "Partea superficială a ligamentului colateral tibial",
+    "latin": "Pars superficialis ligamenti collateralis tibialis",
+    "localizare": "Genunchi medial, superficial",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiunea superficială a LCM, întinsă de la femur la tibie (sub condilul medial).",
+    "atasamente": ["Femur (condilul medial)", "Tibia (fața medială, distal de condil)"],
+    "functie": "Stabilizează genunchiul medial; limitare valgus.",
+    "clinic": "Lezarea izolată a LCM produce durere și instabilitate în valgus."
+  },
+  "transverse_ligament_of_knee": {
+    "name": "Ligamentul transvers al genunchiului",
+    "latin": "Ligamentum transversum genus",
+    "localizare": "Genunchi anterior, între meniscuri",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care unește marginea anterioară a meniscului medial de cel lateral.",
+    "atasamente": ["Meniscul medial (corn anterior)", "Meniscul lateral (corn anterior)"],
+    "functie": "Stabilizează meniscurile în timpul mișcării.",
+    "clinic": "Poate fi lezat în traumatismele severe."
+  },
+  "anterior_ligament_of_fibular_head": {
+    "name": "Ligamentul anterior al capului fibulei",
+    "latin": "Ligamentum capitis fibulae anterius",
+    "localizare": "Articulația tibiofibulară proximală, anterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula anterioară a articulației tibiofibulare proximale.",
+    "atasamente": ["Tibia (condilul lateral)", "Fibula (capul)"],
+    "functie": "Stabilizează articulația tibiofibulară proximală.",
+    "clinic": "Rareori lezat izolat."
+  },
+  "articular_capsule_of_superior_tibiofibular_joint": {
+    "name": "Capsula articulară a articulației tibiofibulare proximale",
+    "latin": "Capsula articularis articulationis tibiofibularis proximalis",
+    "localizare": "Proximal, între tibie și fibulă",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă care acoperă articulația tibiofibulară proximală.",
+    "atasamente": ["Tibia (fațeta articulară fibulară)", "Fibula (fațeta articulară tibială)"],
+    "functie": "Permite mici mișcări de rotație; stabilizează.",
+    "clinic": "Artroza acestei articulații poate produce durere laterală de genunchi."
+  },
+  "posterior_ligament_of_fibular_head": {
+    "name": "Ligamentul posterior al capului fibulei",
+    "latin": "Ligamentum capitis fibulae posterius",
+    "localizare": "Articulația tibiofibulară proximală, posterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula posterioară a articulației tibiofibulare proximale.",
+    "atasamente": ["Tibia (condilul lateral)", "Fibula (capul)"],
+    "functie": "Stabilizează articulația posterior.",
+    "clinic": "Rareori lezat."
+  },
+  "pubic_symphysis": {
+    "name": "Simfiza pubiană",
+    "latin": "Symphysis pubica",
+    "localizare": "Pelvis anterior, între cele două oase pubiene",
+    "tip": "Articulație cartilaginoasă (anfiartroză)",
+    "descriere": "Articulație mediană între fețele simfizare ale pubisului, cu un disc fibrocartilaginos interpubic.",
+    "atasamente": ["Cele două oase pubiene (fețele simfizare)"],
+    "functie": "Oferă stabilitate pelvisului; permite o ușoară mobilitate în sarcină.",
+    "clinic": "Diastaza de simfiză pubiană apare în traumatisme sau post‑partum."
+  },
+  "inferior_pubic_ligament": {
+    "name": "Ligamentul pubian inferior (arcuat)",
+    "latin": "Ligamentum pubicum inferius",
+    "localizare": "Simfiza pubiană, inferior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care întărește simfiza pubiană inferior, formând arcul pubian.",
+    "atasamente": ["Cele două oase pubiene (ramurile inferioare)"],
+    "functie": "Stabilizează simfiza pubiană; limitează separarea.",
+    "clinic": "Poate fi lezat în fracturile inelului pelvin."
+  },
+  "interpubic_disc": {
+    "name": "Discul interpubic",
+    "latin": "Discus interpubicus",
+    "localizare": "Simfiza pubiană, între fețele simfizare",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc fibrocartilaginos interpus între oasele pubiene, adesea cu o cavitate centrală (non‑sinovială).",
+    "atasamente": ["Fețele simfizare ale pubisului"],
+    "functie": "Amortizează șocurile; permite o ușoară mobilitate.",
+    "clinic": "Degenerarea discului interpubic produce durere pelvină cronică."
+  },
+  "superior_pubic_ligament": {
+    "name": "Ligamentul pubian superior",
+    "latin": "Ligamentum pubicum superius",
+    "localizare": "Simfiza pubiană, superior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care întărește simfiza pubiană superior.",
+    "atasamente": ["Cele două oase pubiene (crestele pubiene)"],
+    "functie": "Stabilizează simfiza pubiană.",
+    "clinic": "Face parte din complexul simfizar."
+  },
+  "triradiate_cartilage": {
+    "name": "Cartilajul triradiat (al acetabulului)",
+    "latin": "Cartilago triradiata",
+    "localizare": "Acetabulul imatur (copii), între ilium, ischion și pubis",
+    "tip": "Cartilaj de creștere",
+    "descriere": "Cartilaj de creștere în formă de Y care separă cele trei oase ale osului coxal în copilărie.",
+    "atasamente": ["Ilium, ischion, pubis (la nivelul acetabulului)"],
+    "functie": "Permite creșterea acetabulului; se osifică la adolescență.",
+    "clinic": "Fracturile prin acest cartilaj pot duce la displazie de șold."
+  },
+  "iliolumbar_ligament": {
+    "name": "Ligamentul iliolombar",
+    "latin": "Ligamentum iliolumbale",
+    "localizare": "Pelvis posterior, între vertebra L5 și creasta iliacă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică care se întinde de la procesul transvers al vertebrei L5 la creasta iliacă.",
+    "atasamente": ["L5 (procesul transvers)", "Creasta iliacă (porțiunea posterioară)"],
+    "functie": "Stabilizează articulația sacroiliacă și joncțiunea lombosacrală.",
+    "clinic": "Durerea de ligament iliolombar este frecventă în sarcină și traumatisme."
+  },
+  "sacrospinous_ligament": {
+    "name": "Ligamentul sacrospinos",
+    "latin": "Ligamentum sacrospinale",
+    "localizare": "Pelvis, între sacrum și spina ischiatică",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă triunghiulară care transformă incizura sciatică mare în foramenul sciatic mare.",
+    "atasamente": ["Sacrum (marginea laterală)", "Spina ischiatică"],
+    "functie": "Stabilizează pelvisul; definește foramenul sciatic mare și mic.",
+    "clinic": "Este un reper în fixarea chirurgicală a prolapsului vaginal."
+  },
+  "sacrotuberous_ligament": {
+    "name": "Ligamentul sacrotuberos",
+    "latin": "Ligamentum sacrotuberale",
+    "localizare": "Pelvis, între sacrum și tuberozitatea ischiatică",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică, lată, care transformă incizura sciatică mică în foramenul sciatic mic.",
+    "atasamente": ["Sacrum (marginea laterală)", "Tuberozitatea ischiatică"],
+    "functie": "Stabilizează pelvisul; oferă inserție mușchilor (gluteul maxim).",
+    "clinic": "Poate fi sediul durerii în sindromul de tendon ischiogambier."
+  },
+  "anterior_sacro_iliac_ligament": {
+    "name": "Ligamentul sacroiliac anterior",
+    "latin": "Ligamentum sacroiliacum anterius",
+    "localizare": "Articulația sacroiliacă, anterior",
+    "tip": "Ligament fibros",
+    "descriere": "Întărire anterioară a capsulei articulației sacroiliace.",
+    "atasamente": ["Sacrum", "Ilium (fața anterioară)"],
+    "functie": "Stabilizează articulația sacroiliacă.",
+    "clinic": "Durerea sacroiliacă poate implica acest ligament."
+  },
+  "posterior_sacro_iliac_ligament": {
+    "name": "Ligamentul sacroiliac posterior",
+    "latin": "Ligamentum sacroiliacum posterius",
+    "localizare": "Articulația sacroiliacă, posterior",
+    "tip": "Ligament fibros",
+    "descriere": "Întărire posterioară puternică a articulației sacroiliace.",
+    "atasamente": ["Sacrum", "Ilium (tuberozitatea iliacă)"],
+    "functie": "Principalul stabilizator posterior al articulației sacroiliace.",
+    "clinic": "Lezarea produce durere sacroiliacă posterioară."
+  },
+  "pterygospinous_ligament": {
+    "name": "Ligamentul pterigospinos",
+    "latin": "Ligamentum pterygospinale",
+    "localizare": "Baza craniului, între procesul pterigoid și spina unghiulară a sfenoidului",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă subțire care poate transforma incizura pterigospinoasă într‑un foramen.",
+    "atasamente": ["Lama laterală a procesului pterigoid", "Spina unghiulară a sfenoidului"],
+    "functie": "Variabilă; poate comprima nervul mandibular.",
+    "clinic": "Calcificarea sa poate cauza nevralgie de trigemen."
+  },
+  "sphenomandibular_ligament": {
+    "name": "Ligamentul sfenomandibular",
+    "latin": "Ligamentum sphenomandibulare",
+    "localizare": "Baza craniului, între spina unghiulară a sfenoidului și mandibulă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care susține mandibula și limitează deschiderea excesivă a gurii.",
+    "atasamente": ["Spina unghiulară a sfenoidului", "Mandibula (lingula mandibulei)"],
+    "functie": "Limitează coborârea mandibulei; ghidează mișcarea.",
+    "clinic": "Este un reper pentru anestezia nervului alveolar inferior."
+  },
+  "stylohyoid_ligament": {
+    "name": "Ligamentul stilohioidian",
+    "latin": "Ligamentum stylohyoideum",
+    "localizare": "Gât, între procesul stiloid și cornul mic al osului hioid",
+    "tip": "Ligament fibros (rest embriologic)",
+    "descriere": "Bandă fibroasă care poate conține țesut osos (sindromul Eagle).",
+    "atasamente": ["Procesul stiloid al temporalului", "Cornul mic al osului hioid"],
+    "functie": "Susține osul hioid; stabilizează.",
+    "clinic": "Calcificarea sa produce sindromul Eagle (disfagie, durere cervicală)."
+  },
+  "stylomandibular_ligament": {
+    "name": "Ligamentul stilomandibular",
+    "latin": "Ligamentum stylomandibulare",
+    "localizare": "Gât, între procesul stiloid și unghiul mandibulei",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care limitează protruzia mandibulei.",
+    "atasamente": ["Procesul stiloid", "Unghiul mandibulei"],
+    "functie": "Limitează mișcarea anterioară a mandibulei.",
+    "clinic": "Poate fi implicat în disfuncția ATM."
+  },
+  "articular_capsule_of_temporomandibular_joint": {
+    "name": "Capsula articulară a articulației temporomandibulare",
+    "latin": "Capsula articularis articulationis temporomandibularis",
+    "localizare": "ATM, între fosa mandibulară și mandibulă",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă care învelește articulația temporomandibulară, incluzând discul articular.",
+    "atasamente": ["Temporal (fosa mandibulară)", "Mandibulă (condilul)"],
+    "functie": "Conține lichid sinovial; stabilizează ATM.",
+    "clinic": "Inflamația capsulei produce durere și limitarea deschiderii gurii."
+  },
+  "articular_disc_of_temporomandibular_joint": {
+    "name": "Discul articular al ATM",
+    "latin": "Discus articulationis temporomandibularis",
+    "localizare": "ATM, între condilul mandibulei și fosa temporală",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc fibrocartilaginos care amortizează și ghidează mișcările mandibulei.",
+    "atasamente": ["Capsula articulară (anterior și posterior)", "Mușchiul pterigoidian lateral (anterior)"],
+    "functie": "Distribuie presiunea; facilitează mișcarea complexă a mandibulei.",
+    "clinic": "Deplasarea anterioară a discului produce clic și blocaj articular."
+  },
+  "lateral_temporomandibular_ligament": {
+    "name": "Ligamentul temporomandibular lateral",
+    "latin": "Ligamentum laterale articulationis temporomandibularis",
+    "localizare": "ATM, lateral",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică care întărește capsula lateral a ATM.",
+    "atasamente": ["Temporal (arcul zigomatic)", "Mandibulă (colul condilului)"],
+    "functie": "Limitează deplasarea posterioară și inferioară a mandibulei.",
+    "clinic": "Poate fi lezat în luxația ATM."
+  },
+  "articular_disc_of_distal_radio_ulnar_joint": {
+    "name": "Discul articular al articulației radio‑ulnare distale",
+    "latin": "Discus articularis articulationis radioulnaris distalis",
+    "localizare": "Pumn, între ulnă și oasele carpiene",
+    "tip": "Fibrocartilaj triunghiular (TFCC)",
+    "descriere": "Parte a complexului fibrocartilaginos triunghiular (TFCC), care stabilizează ulna distală și amortizează șocurile.",
+    "atasamente": ["Radius (marginea sigmoidă)", "Ulnă (procesul stiloid)", "Carp (triquetrum, semilunar)"],
+    "functie": "Stabilizează articulația radio‑ulnară distală; transmite forțele.",
+    "clinic": "Ruptura TFCC produce durere ulnară de pumn, mai ales la rotație."
+  },
+  "dorsal_radio_ulnar_ligament": {
+    "name": "Ligamentul radio‑ulnar dorsal",
+    "latin": "Ligamentum radioulnare dorsale",
+    "localizare": "Pumn, dorsal, parte a TFCC",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește dorsal articulația radio‑ulnară distală.",
+    "atasamente": ["Radius (marginea dorsală)", "Ulnă (procesul stiloid)"],
+    "functie": "Stabilizează radio‑ulnara distală; limitează supinația excesivă.",
+    "clinic": "Lezarea sa face parte din leziunile TFCC."
+  },
+  "palmar_radio_ulnar_ligament": {
+    "name": "Ligamentul radio‑ulnar palmar",
+    "latin": "Ligamentum radioulnare palmare",
+    "localizare": "Pumn, palmar, parte a TFCC",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește palmar articulația radio‑ulnară distală.",
+    "atasamente": ["Radius (marginea palmară)", "Ulnă (procesul stiloid)"],
+    "functie": "Stabilizează radio‑ulnara distală; limitează pronația excesivă.",
+    "clinic": "Lezarea sa face parte din leziunile TFCC."
+  },
+  "annular_ligament_of_radius": {
+    "name": "Ligamentul inelar al radiusului",
+    "latin": "Ligamentum anulare radii",
+    "localizare": "Cot, înconjurând capul radial",
+    "tip": "Ligament fibros circular",
+    "descriere": "Bandă fibroasă care înconjoară capul radial și îl menține în contact cu ulna.",
+    "atasamente": ["Ulna (incizura radială – anterior și posterior)"],
+    "functie": "Stabilizează capul radial; permite rotația în timpul pronației și supinației.",
+    "clinic": "Luxația capului radial la copii („cotul tras”) apare prin alunecarea radiusului de sub acest ligament."
+  },
+  "articular_capsule_of_elbow_joint": {
+    "name": "Capsula articulară a cotului",
+    "latin": "Capsula articularis cubiti",
+    "localizare": "Cot, învelește articulațiile humero‑ulnară, humero‑radială și radio‑ulnară proximală",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă laxă, întărită de ligamente colaterale.",
+    "atasamente": ["Humerus (marginile articulare)", "Ulna (olecran, proces coronoid)", "Radius (cap, col)"],
+    "functie": "Conține sinovia; permite flexia‑extensia și rotația.",
+    "clinic": "Sinovita cotului produce tumefiere posterioară."
+  },
+  "quadrate_ligament": {
+    "name": "Ligamentul pătrat (Denucé)",
+    "latin": "Ligamentum quadratum",
+    "localizare": "Cot, între radius și ulnă, sub ligamentul inelar",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă subțire care întărește capsula articulară inferioară a articulației radio‑ulnare proximale.",
+    "atasamente": ["Ulna (marginea inferioară a incizurii radiale)", "Radius (colul)"],
+    "functie": "Stabilizează articulația radio‑ulnară proximală.",
+    "clinic": "Rareori menționat clinic."
+  },
+  "radial_collateral_ligament": {
+    "name": "Ligamentul colateral radial",
+    "latin": "Ligamentum collaterale radiale",
+    "localizare": "Cot, lateral",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă triunghiulară care întărește capsula laterală a cotului, de la epicondilul lateral la ulnă.",
+    "atasamente": ["Humerus (epicondilul lateral)", "Ulna (marginea posterioară a incizurii radiale, ligamentul inelar)"],
+    "functie": "Stabilizează cotul lateral; limitează deviația în varus.",
+    "clinic": "Lezarea produce instabilitate posterolaterală a cotului."
+  },
+  "ulnar_collateral_ligament": {
+    "name": "Ligamentul colateral ulnar",
+    "latin": "Ligamentum collaterale ulnare",
+    "localizare": "Cot, medial",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă triunghiulară care întărește capsula medială a cotului, de la epicondilul medial la ulnă.",
+    "atasamente": ["Humerus (epicondilul medial)", "Ulna (procesul coronoid și olecran)"],
+    "functie": "Stabilizează cotul medial; limitează deviația în valgus.",
+    "clinic": "Lezarea este frecventă la aruncători („cotul jucătorului de baseball”)."
+  },
+  "articular_capsule_of_glenohumeral_joint": {
+    "name": "Capsula articulară a umărului",
+    "latin": "Capsula articularis articulationis glenohumeralis",
+    "localizare": "Umăr, între scapulă și humerus",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă laxă, care permite o mare mobilitate, întărită de ligamentele glenohumerale și coracohumeral.",
+    "atasamente": ["Scapula (cavitatea glenoidă, labrum)", "Humerus (colul anatomic)"],
+    "functie": "Conține sinovia; stabilizează articulația.",
+    "clinic": "Capsulita adezivă (umăr înghețat) produce retracția și durerea capsulei."
+  },
+  "coracohumeral_ligament": {
+    "name": "Ligamentul coracohumeral",
+    "latin": "Ligamentum coracohumerale",
+    "localizare": "Umăr, superior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă lată care întărește capsula superioară, de la procesul coracoid la humerus.",
+    "atasamente": ["Procesul coracoid al scapulei", "Humerus (tuberculul mare și mic)"],
+    "functie": "Stabilizează capul humeral; limitează translația inferioară.",
+    "clinic": "Este implicat în capsulita adezivă."
+  },
+  "glenoid_labrum": {
+    "name": "Labrumul glenoidian",
+    "latin": "Labrum glenoidale",
+    "localizare": "Umăr, pe marginea cavității glenoide",
+    "tip": "Fibrocartilaj inelar",
+    "descriere": "Inel fibrocartilaginos care mărește suprafața articulară a glenei, stabilizând capul humeral.",
+    "atasamente": ["Marginea cavității glenoide a scapulei"],
+    "functie": "Crește congruența articulară; stabilizează umărul.",
+    "clinic": "Ruptura de labrum (SLAP) produce durere și instabilitate."
+  },
+  "inferior_glenohumeral_ligament": {
+    "name": "Ligamentul glenohumeral inferior",
+    "latin": "Ligamentum glenohumerale inferius",
+    "localizare": "Umăr anterior‑inferior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula inferioară, prevenind luxația anterioară a umărului.",
+    "atasamente": ["Glenă (marginea antero‑inferioară)", "Humerus (colul anatomic)"],
+    "functie": "Principalul stabilizator anterior al umărului; limitează translația anterioară în abducție și rotație externă.",
+    "clinic": "Ruptura sa (lezarea Bankart) produce instabilitate anterioară recurentă a umărului."
+  },
+  "middle_glenohumeral_ligament": {
+    "name": "Ligamentul glenohumeral mijlociu",
+    "latin": "Ligamentum glenohumerale medium",
+    "localizare": "Umăr anterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă variabilă care întărește capsula anterioară.",
+    "atasamente": ["Glenă (marginea anterioară)", "Humerus (colul anatomic)"],
+    "functie": "Stabilizator anterior secundar.",
+    "clinic": "Poate fi absent sau subțire."
+  },
+  "superior_glenohumeral_ligament": {
+    "name": "Ligamentul glenohumeral superior",
+    "latin": "Ligamentum glenohumerale superius",
+    "localizare": "Umăr anterior‑superior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă subțire care întărește capsula superioară.",
+    "atasamente": ["Glenă (marginea superioară)", "Humerus (colul anatomic)"],
+    "functie": "Limitează translația inferioară și posterioară.",
+    "clinic": "Important în stabilitatea superioară a umărului."
+  },
+  "transverse_humeral_ligament": {
+    "name": "Ligamentul humeral transvers",
+    "latin": "Ligamentum transversum humeri",
+    "localizare": "Șanțul intertubercular al humerusului, peste tendonul bicepsului",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care transformă șanțul intertubercular într‑un canal, menținând tendonul lung al bicepsului.",
+    "atasamente": ["Tuberculul mare", "Tuberculul mic al humerusului"],
+    "functie": "Menține tendonul bicepsului în șanțul intertubercular.",
+    "clinic": "Ruptura sa permite subluxația tendonului bicepsului."
+  },
+  "dorsal_carpometacarpal_ligaments": {
+    "name": "Ligamentele carpometacarpiene dorsale",
+    "latin": "Ligamenta carpometacarpalia dorsalia",
+    "localizare": "Mână, dorsal, pe articulațiile carpometacarpiene",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri dorsale ale articulațiilor carpometacarpiene II‑V.",
+    "atasamente": ["Carp (rândul distal)", "Bazele metacarpienelor II‑V (dorsal)"],
+    "functie": "Stabilizează arcul carpian dorsal.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "palmar_carpometacarpal_ligaments": {
+    "name": "Ligamentele carpometacarpiene palmare",
+    "latin": "Ligamenta carpometacarpalia palmaria",
+    "localizare": "Mână, palmar, pe articulațiile CMC",
+    "tip": "Ligamente fibroase",
+    "descriere": "Întăriri palmare ale articulațiilor CMC.",
+    "atasamente": ["Carp (distal)", "Metacarpiene II‑V (palmar)"],
+    "functie": "Stabilizează arcul carpian palmar.",
+    "clinic": "Artroza CMC I (rizoartroza) implică laxitatea acestor ligamente."
+  },
+  "dorsal_intercarpal_ligaments": {
+    "name": "Ligamentele intercarpiene dorsale",
+    "latin": "Ligamenta intercarpalia dorsalia",
+    "localizare": "Carp, dorsal, între oasele carpiene",
+    "tip": "Ligamente scurte",
+    "descriere": "Ligamente care unesc oasele carpiene pe fața dorsală.",
+    "atasamente": ["Oasele carpiene (dorsal)"],
+    "functie": "Stabilizează carpul; limitează mișcarea.",
+    "clinic": "Lezarea lor contribuie la instabilitatea carpiană."
+  },
+  "dorsal_scaphotriquetral_ligament": {
+    "name": "Ligamentul scafotriquetral dorsal",
+    "latin": "Ligamentum scaphotriquetrum dorsale",
+    "localizare": "Carp, dorsal, între scafoid și triquetrum",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care se întinde de la scafoid la triquetrum pe fața dorsală.",
+    "atasamente": ["Scafoid (dorsal)", "Triquetrum (dorsal)"],
+    "functie": "Stabilizează rândul proximal al carpului.",
+    "clinic": "Face parte din complexul ligamentar dorsal al carpului."
+  },
+  "dorsal_ulnocarpal_ligament": {
+    "name": "Ligamentul ulnocarpian dorsal",
+    "latin": "Ligamentum ulnocarpale dorsale",
+    "localizare": "Pumn, dorsal, între ulnă și carp",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care conectează ulna de oasele carpiene pe fața dorsală (parte a TFCC).",
+    "atasamente": ["Ulnă (stiloida)", "Triquetrum, semilunar (dorsal)"],
+    "functie": "Stabilizează carpul ulnar.",
+    "clinic": "Lezarea sa face parte din leziunile TFCC."
+  },
+  "palmar_capitohamate_ligament": {
+    "name": "Ligamentul capitohamat palmar",
+    "latin": "Ligamentum capitohamatum palmare",
+    "localizare": "Carp, palmar, între capitat și hamat",
+    "tip": "Ligament scurt",
+    "descriere": "Bandă care unește capitatul de hamat pe fața palmară.",
+    "atasamente": ["Capitat (palmar)", "Hamat (palmar)"],
+    "functie": "Stabilizează rândul distal al carpului.",
+    "clinic": "Face parte din complexul ligamentar palmar al carpului."
+  },
+  "palmar_lunotriquetral_ligament": {
+    "name": "Ligamentul lunotriquetral palmar",
+    "latin": "Ligamentum lunotriquetrum palmare",
+    "localizare": "Carp, palmar, între semilunar și triquetrum",
+    "tip": "Ligament scurt",
+    "descriere": "Bandă palmară care unește semilunarul de triquetrum.",
+    "atasamente": ["Semilunar (palmar)", "Triquetrum (palmar)"],
+    "functie": "Stabilizează rândul proximal.",
+    "clinic": "Lezarea produce instabilitate lunotriquetrală."
+  },
+  "palmar_scaphotriquetral_ligament": {
+    "name": "Ligamentul scafotriquetral palmar",
+    "latin": "Ligamentum scaphotriquetrum palmare",
+    "localizare": "Carp, palmar, între scafoid și triquetrum",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care se întinde între scafoid și triquetrum.",
+    "atasamente": ["Scafoid (palmar)", "Triquetrum (palmar)"],
+    "functie": "Stabilizează carpul volar.",
+    "clinic": "Rar lezat individual."
+  },
+  "palmar_trapezoideocapitate_ligament": {
+    "name": "Ligamentul trapezoidocapitat palmar",
+    "latin": "Ligamentum trapezoideocapitatum palmare",
+    "localizare": "Carp, palmar, între trapezoid și capitat",
+    "tip": "Ligament scurt",
+    "descriere": "Bandă palmară care unește trapezoidul de capitat.",
+    "atasamente": ["Trapezoid (palmar)", "Capitat (palmar)"],
+    "functie": "Stabilizează rândul distal.",
+    "clinic": "Face parte din ligamentele mediocarpiene."
+  },
+  "pisohamate_ligament": {
+    "name": "Ligamentul pisohamat",
+    "latin": "Ligamentum pisohamatum",
+    "localizare": "Carp, palmar, între pisiform și hamat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește osul pisiform de hamulusul hamatului.",
+    "atasamente": ["Pisiform", "Hamat (hamulus)"],
+    "functie": "Stabilizează pisiformul; face parte din complexul tendonului flexorului ulnar al carpului.",
+    "clinic": "Poate fi lezat în traumatismele directe ale eminenței hipotenare."
+  },
+  "pisometacarpal_ligament": {
+    "name": "Ligamentul pisometacarpian",
+    "latin": "Ligamentum pisometacarpale",
+    "localizare": "Carp, palmar, între pisiform și metacarpianul V",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care conectează pisiformul de baza metacarpianului V.",
+    "atasamente": ["Pisiform", "Metacarpianul V (baza)"],
+    "functie": "Transmite forța flexorului ulnar al carpului.",
+    "clinic": "Rareori lezat individual."
+  },
+  "pisotriquetral_ligament": {
+    "name": "Ligamentul pisotriquetral",
+    "latin": "Ligamentum pisotriquetrum",
+    "localizare": "Carp, între pisiform și triquetrum",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește pisiformul de triquetrum.",
+    "atasamente": ["Pisiform", "Triquetrum"],
+    "functie": "Stabilizează pisiformul.",
+    "clinic": "Poate fi lezat în traumatisme."
+  },
+  "radiate_carpal_ligament": {
+    "name": "Ligamentul radiat al carpului",
+    "latin": "Ligamentum carpi radiatum",
+    "localizare": "Carp, palmar, dinspre capitat spre oasele carpiene",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care radiază de la capitat spre scafoid, trapezoid și triquetrum.",
+    "atasamente": ["Capitat (centrul)", "Scafoid, trapezoid, triquetrum"],
+    "functie": "Stabilizează centrul carpului.",
+    "clinic": "Lezarea sa contribuie la instabilitatea mediocarpiană."
+  },
+  "scaphocapitate_ligament": {
+    "name": "Ligamentul scafocapitat",
+    "latin": "Ligamentum scaphocapitatum",
+    "localizare": "Carp, palmar, între scafoid și capitat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește scafoidul de capitat.",
+    "atasamente": ["Scafoid", "Capitat"],
+    "functie": "Stabilizează rândurile carpiene.",
+    "clinic": "Face parte din ligamentele mediocarpiene."
+  },
+  "scaphotrapeziotrapezoidal_ligament": {
+    "name": "Ligamentul scafotrapeziotrapezoidal",
+    "latin": "Ligamentum scaphotrapeziotrapezoideum",
+    "localizare": "Carp, palmar, între scafoid, trapez și trapezoid",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care ancorează scafoidul de trapez și trapezoid.",
+    "atasamente": ["Scafoid", "Trapez", "Trapezoid"],
+    "functie": "Stabilizează articulația trapeziometacarpiană și arcul carpian.",
+    "clinic": "Lezarea sa produce instabilitate STT."
+  },
+  "triquetrocapitate_ligament": {
+    "name": "Ligamentul triquetrocapitat",
+    "latin": "Ligamentum triquetrocapitatum",
+    "localizare": "Carp, palmar, între triquetrum și capitat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește triquetrumul de capitat.",
+    "atasamente": ["Triquetrum", "Capitat"],
+    "functie": "Stabilizează carpul medial.",
+    "clinic": "Rar lezat individual."
+  },
+  "triquetrohamate_ligament": {
+    "name": "Ligamentul triquetrohamat",
+    "latin": "Ligamentum triquetrohamatum",
+    "localizare": "Carp, palmar, între triquetrum și hamat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește triquetrumul de hamat.",
+    "atasamente": ["Triquetrum", "Hamat"],
+    "functie": "Stabilizează carpul ulnar.",
+    "clinic": "Face parte din complexul ligamentar medial al carpului."
+  },
+  "dorsal_metacarpal_ligaments": {
+    "name": "Ligamentele metacarpiene dorsale",
+    "latin": "Ligamenta metacarpalia dorsalia",
+    "localizare": "Mână, dorsal, între bazele metacarpienelor",
+    "tip": "Ligamente scurte",
+    "descriere": "Întăriri dorsale ale articulațiilor intermetacarpiene.",
+    "atasamente": ["Bazele metacarpienelor adiacente (dorsal)"],
+    "functie": "Stabilizează arcul carpian dorsal.",
+    "clinic": "Rareori lezate."
+  },
+  "palmar_metacarpal_ligaments": {
+    "name": "Ligamentele metacarpiene palmare",
+    "latin": "Ligamenta metacarpalia palmaria",
+    "localizare": "Mână, palmar, între bazele metacarpienelor",
+    "tip": "Ligamente scurte",
+    "descriere": "Întăriri palmare ale articulațiilor intermetacarpiene.",
+    "atasamente": ["Bazele metacarpienelor adiacente (palmar)"],
+    "functie": "Stabilizează arcul carpian palmar.",
+    "clinic": "Rareori lezate izolat."
+  },
+  "articular_capsules_of_distal_interphalangeal_joints": {
+    "name": "Capsulele articulare ale articulațiilor interfalangiene distale ale mâinii",
+    "latin": "Capsulae articulares articulationum interphalangearum distalis manus",
+    "localizare": "Degete, între falangele medii și distale",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care acoperă articulațiile IFD, întărite de ligamente colaterale.",
+    "atasamente": ["Falangele medii", "Falangele distale"],
+    "functie": "Permit flexia și extensia; stabilizează.",
+    "clinic": "Artroza IFD produce nodulii Heberden."
+  },
+  "articular_capsules_of_proximal_interphalangeal_joints": {
+    "name": "Capsulele articulare ale articulațiilor interfalangiene proximale ale mâinii",
+    "latin": "Capsulae articulares articulationum interphalangearum proximalis manus",
+    "localizare": "Degete, între falangele proximale și medii",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care acoperă articulațiile IFP.",
+    "atasamente": ["Falangele proximale", "Falangele medii"],
+    "functie": "Permit flexia și extensia.",
+    "clinic": "Artroza IFP produce nodulii Bouchard."
+  },
+  "collateral_interphalangeal_ligaments_of_hand": {
+    "name": "Ligamentele colaterale interfalangiene ale mâinii",
+    "latin": "Ligamenta collateralia interphalangea manus",
+    "localizare": "Mână, lateral și medial de articulațiile IF",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente care întăresc capsula articulară a IF, limitând mișcările laterale.",
+    "atasamente": ["Falangele (capsula)"],
+    "functie": "Stabilizează articulațiile interfalangiene.",
+    "clinic": "Lezarea produce instabilitate digitală."
+  },
+  "palmar_interphalangeal_ligaments": {
+    "name": "Ligamentele palmare interfalangiene (plăcile palmare)",
+    "latin": "Ligamenta palmaria interphalangea",
+    "localizare": "Mână, fața palmară a articulațiilor IF",
+    "tip": "Fibrocartilaj",
+    "descriere": "Plăci fibrocartilaginoase care întăresc capsula palmară, prevenind hiperextensia.",
+    "atasamente": ["Falangele (fața palmară)"],
+    "functie": "Limitează hiperextensia; protejează tendoanele flexorilor.",
+    "clinic": "Lezarea produce deformare în boutonieră sau gât de lebădă."
+  },
+  "articular_capsules_of_metacarpophalangeal_joints": {
+    "name": "Capsulele articulare ale articulațiilor metacarpofalangiene",
+    "latin": "Capsulae articulares articulationum metacarpophalangearum",
+    "localizare": "Mână, la baza degetelor",
+    "tip": "Capsule sinoviale",
+    "descriere": "Capsule care învelesc articulațiile MCP, întărite de ligamente colaterale și placa palmară.",
+    "atasamente": ["Metacarpiene (capete)", "Falange proximale (baze)"],
+    "functie": "Permit flexia, extensia, abducția, aducția și circumducția.",
+    "clinic": "Artrita reumatoidă afectează frecvent aceste articulații."
+  },
+  "collateral_metacarpophalangeal_ligaments": {
+    "name": "Ligamentele colaterale metacarpofalangiene",
+    "latin": "Ligamenta collateralia metacarpophalangea",
+    "localizare": "Mână, lateral și medial de MCP",
+    "tip": "Ligamente fibroase",
+    "descriere": "Ligamente puternice care stabilizează articulațiile MCP în flexie și limitează abducția/aducția.",
+    "atasamente": ["Metacarpiene (capete)", "Falange proximale (baze)"],
+    "functie": "Stabilizează lateral articulațiile MCP.",
+    "clinic": "Lezarea ligamentului colateral ulnar al policelui produce „degetul vânătorului” (skier's thumb)."
+  },
+  "deep_transverse_metacarpal_ligament": {
+    "name": "Ligamentul metacarpian transvers profund",
+    "latin": "Ligamentum metacarpale transversum profundum",
+    "localizare": "Mână, între capetele metacarpienelor II‑V (palmar)",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește capetele metacarpienelor II‑V, stabilizând arcul carpian transvers.",
+    "atasamente": ["Capetele metacarpienelor II‑V (palmar)"],
+    "functie": "Menține arcul transvers al mâinii; ghidează tendoanele flexorilor.",
+    "clinic": "Este secționat în sindromul de tunel carpian?"
+  },
+  "articular_capsule_of_radiocarpal_joint": {
+    "name": "Capsula articulară a articulației radiocarpiene",
+    "latin": "Capsula articularis articulationis radiocarpalis",
+    "localizare": "Pumn, între radius și carp",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă care învelește articulația pumnului, întărită de ligamentele radiocarpiene și ulnocarpiene.",
+    "atasamente": ["Radius (fațeta articulară carpiană)", "Scafoid, semilunar, triquetrum (prin ligamente)"],
+    "functie": "Permite flexia, extensia, abducția, aducția.",
+    "clinic": "Sinovita produce tumefiere dorsală a pumnului."
+  },
+  "dorsal_radiocarpal_ligament": {
+    "name": "Ligamentul radiocarpian dorsal",
+    "latin": "Ligamentum radiocarpale dorsale",
+    "localizare": "Pumn, dorsal, între radius și carp",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește radiusul de oasele carpiene pe fața dorsală.",
+    "atasamente": ["Radius (dorsal)", "Scafoid, semilunar, triquetrum (dorsal)"],
+    "functie": "Stabilizează pumnul dorsal; limitează flexia.",
+    "clinic": "Lezarea produce instabilitate dorsală a pumnului."
+  },
+  "radioscaphocapitate_ligament": {
+    "name": "Ligamentul radioscafocapitat",
+    "latin": "Ligamentum radioscaphocapitatum",
+    "localizare": "Pumn, palmar, între radius, scafoid și capitat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care se întinde de la radius la scafoid și capitat, esențială pentru stabilitatea carpului.",
+    "atasamente": ["Radius (stiloida)", "Scafoid", "Capitat"],
+    "functie": "Stabilizează carpul volar; previne translația ulnară.",
+    "clinic": "Lezarea produce instabilitate mediocarpiană."
+  },
+  "radiocapitate_ligament": {
+    "name": "Ligamentul radiocapitat",
+    "latin": "Ligamentum radiocapitatum",
+    "localizare": "Pumn, palmar, între radius și capitat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care unește radiusul de capitat.",
+    "atasamente": ["Radius (stiloida)", "Capitat"],
+    "functie": "Stabilizează carpul.",
+    "clinic": "Face parte din complexul ligamentar palmar al pumnului."
+  },
+  "ulnocapitate_ligament": {
+    "name": "Ligamentul ulnocapitat",
+    "latin": "Ligamentum ulnocapitatum",
+    "localizare": "Pumn, palmar, între ulnă și capitat",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care unește ulna (prin TFCC) de capitat.",
+    "atasamente": ["Ulnă (prin TFCC)", "Capitat"],
+    "functie": "Stabilizează carpul ulnar.",
+    "clinic": "Lezarea face parte din leziunile TFCC."
+  },
+  "ulnolunate_ligament": {
+    "name": "Ligamentul ulnolunat",
+    "latin": "Ligamentum ulnolunatum",
+    "localizare": "Pumn, palmar, între ulnă și semilunar",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care unește ulna de osul semilunar.",
+    "atasamente": ["Ulnă (prin TFCC)", "Semilunar"],
+    "functie": "Stabilizează carpul ulnar; susține semilunarul.",
+    "clinic": "Lezarea poate produce instabilitate lunotriquetrală."
+  },
+  "ulnopisiform_ligament": {
+    "name": "Ligamentul ulnopisiform",
+    "latin": "Ligamentum ulnopisiforme",
+    "localizare": "Pumn, palmar, între ulnă și pisiform",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care leagă ulna de pisiform.",
+    "atasamente": ["Ulnă (stiloida)", "Pisiform"],
+    "functie": "Transmite forțele mușchiului flexor ulnar al carpului.",
+    "clinic": "Poate fi lezat în traumatisme."
+  },
+  "ulnotriquetral_ligament": {
+    "name": "Ligamentul ulnotriquetral",
+    "latin": "Ligamentum ulnotriquetrum",
+    "localizare": "Pumn, palmar, între ulnă și triquetrum",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă palmară care unește ulna de triquetrum.",
+    "atasamente": ["Ulnă (prin TFCC)", "Triquetrum"],
+    "functie": "Stabilizează carpul ulnar.",
+    "clinic": "Lezarea produce instabilitate medială a pumnului."
+  },
+  "coraco_acromial_ligament": {
+    "name": "Ligamentul coracoacromial",
+    "latin": "Ligamentum coracoacromiale",
+    "localizare": "Umăr, între procesul coracoid și acromion",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă triunghiulară care formează arcul coracoacromial, protejând capul humeral și tendoanele rotatorilor.",
+    "atasamente": ["Procesul coracoid", "Acromion"],
+    "functie": "Protejează articulația glenohumerală; limitează translația superioară a capului humeral.",
+    "clinic": "Calcificarea sa contribuie la sindromul de conflict subacromial."
+  },
+  "inferior_transverse_scapular_ligament": {
+    "name": "Ligamentul transvers inferior al scapulei",
+    "latin": "Ligamentum transversum scapulae inferius",
+    "localizare": "Scapulă, între spina scapulei și cavitatea glenoidă",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care transformă incizura spinoglenoidiană într‑un foramen, prin care trece nervul suprascapular.",
+    "atasamente": ["Spina scapulei", "Cavitatea glenoidă (marginea posterioară)"],
+    "functie": "Protejează nervul și vasele suprascapulare.",
+    "clinic": "Chisturile paralabrale pot comprima nervul la acest nivel."
+  },
+  "superior_transverse_scapular_ligament": {
+    "name": "Ligamentul transvers superior al scapulei",
+    "latin": "Ligamentum transversum scapulae superius",
+    "localizare": "Scapulă, peste incizura scapulară",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care transformă incizura scapulară într‑un foramen (nervul suprascapular trece pe sub el, artera deasupra).",
+    "atasamente": ["Baza procesului coracoid", "Marginea superioară a scapulei"],
+    "functie": "Protejează nervul suprascapular.",
+    "clinic": "Compresia nervului la acest nivel produce neuropatie suprascapulară."
+  },
+  "acromioclavicular_ligament": {
+    "name": "Ligamentul acromioclavicular",
+    "latin": "Ligamentum acromioclaviculare",
+    "localizare": "Articulația acromioclaviculară, superior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula superioară a articulației AC.",
+    "atasamente": ["Acromion", "Clavicula (extremitatea laterală)"],
+    "functie": "Stabilizează articulația AC; limitează deplasarea posterioară a claviculei.",
+    "clinic": "Lezarea produce separația acromioclaviculară (luxație AC)."
+  },
+  "articular_capsule_of_acromioclavicular_joint": {
+    "name": "Capsula articulară a articulației acromioclaviculare",
+    "latin": "Capsula articularis articulationis acromioclavicularis",
+    "localizare": "Articulația AC",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă subțire care acoperă articulația plană dintre acromion și claviculă.",
+    "atasamente": ["Acromion", "Clavicula"],
+    "functie": "Conține lichid sinovial; permite mici mișcări de alunecare.",
+    "clinic": "Artroza AC este frecventă și produce durere la umăr."
+  },
+  "articular_disc_of_acromioclavicular_joint": {
+    "name": "Discul articular al articulației acromioclaviculare",
+    "latin": "Discus articularis articulationis acromioclavicularis",
+    "localizare": "Articulația AC",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc fibrocartilaginos incomplet, interpus între suprafețele articulare, prezent la majoritatea persoanelor.",
+    "atasamente": ["Capsula articulară AC"],
+    "functie": "Amortizează șocurile; îmbunătățește congruența.",
+    "clinic": "Degenerarea discului contribuie la artroza AC."
+  },
+  "conoid_ligament": {
+    "name": "Ligamentul conoid",
+    "latin": "Ligamentum conoideum",
+    "localizare": "Centura scapulară, între claviculă și procesul coracoid (parte a ligamentului coracoclavicular)",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiune medială, triunghiulară, a ligamentului coracoclavicular, orientată vertical.",
+    "atasamente": ["Clavicula (tuberculul conoid)", "Procesul coracoid (baza)"],
+    "functie": "Stabilizează articulația AC; limitează deplasarea superioară a claviculei.",
+    "clinic": "Ruptura ligamentului coracoclavicular produce luxație AC completă (grad III‑VI)."
+  },
+  "trapezoid_ligament": {
+    "name": "Ligamentul trapezoid",
+    "latin": "Ligamentum trapezoideum",
+    "localizare": "Centura scapulară, între claviculă și coracoid (parte a ligamentului coracoclavicular)",
+    "tip": "Ligament fibros",
+    "descriere": "Porțiune laterală, trapezoidală, a ligamentului coracoclavicular, orientată oblic.",
+    "atasamente": ["Clavicula (linia trapezoidă)", "Procesul coracoid (fața superioară)"],
+    "functie": "Stabilizează articulația AC; limitează deplasarea anterioară și medială.",
+    "clinic": "Împreună cu ligamentul conoid previne luxația AC."
+  },
+  "anterior_sternoclavicular_ligament": {
+    "name": "Ligamentul sternoclavicular anterior",
+    "latin": "Ligamentum sternoclaviculare anterius",
+    "localizare": "Articulația sternoclaviculară, anterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula anterioară a articulației SC.",
+    "atasamente": ["Clavicula (extremitatea medială)", "Stern (manubriu)"],
+    "functie": "Stabilizează articulația SC; limitează deplasarea anterioară a claviculei.",
+    "clinic": "Lezarea produce instabilitate anterioară a articulației SC."
+  },
+  "articular_capsule_of_sternoclavicular_joint": {
+    "name": "Capsula articulară a articulației sternoclaviculare",
+    "latin": "Capsula articularis articulationis sternoclavicularis",
+    "localizare": "Articulația SC",
+    "tip": "Capsulă sinovială",
+    "descriere": "Capsulă fibroasă puternică care acoperă articulația dintre claviculă, stern și prima coastă.",
+    "atasamente": ["Clavicula (extremitatea medială)", "Stern (manubriu)", "Cartilajul coastei 1"],
+    "functie": "Permite mișcarea centurii scapulare; conține discul articular.",
+    "clinic": "Luxația SC este rară, dar poate fi posterioară (urgență prin compresia vaselor)."
+  },
+  "articular_disc_of_sternoclavicular_joint": {
+    "name": "Discul articular al articulației sternoclaviculare",
+    "latin": "Discus articularis articulationis sternoclavicularis",
+    "localizare": "Articulația SC",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc fibrocartilaginos complet, interpus între claviculă și stern, ameliorând congruența.",
+    "atasamente": ["Capsula articulară", "Clavicula (superior)", "Cartilajul coastei 1 (inferior)"],
+    "functie": "Amortizează șocurile; previne luxația medială a claviculei.",
+    "clinic": "Degenerarea discului produce osteoartrită SC."
+  },
+  "costoclavicular_ligament": {
+    "name": "Ligamentul costoclavicular",
+    "latin": "Ligamentum costoclaviculare",
+    "localizare": "Articulația SC, inferior, între claviculă și coasta 1",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă puternică care ancorează clavicula de prima coastă, limitând ridicarea umărului.",
+    "atasamente": ["Clavicula (fața inferioară, medial)", "Coasta 1 (cartilajul)"],
+    "functie": "Stabilizează articulația SC; limitează mișcarea superioară a claviculei.",
+    "clinic": "Lezarea produce instabilitate SC."
+  },
+  "interclavicular_ligament": {
+    "name": "Ligamentul interclavicular",
+    "latin": "Ligamentum interclaviculare",
+    "localizare": "Superior, între extremitățile mediale ale claviculelor",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește cele două clavicule peste incizura jugulară a sternului.",
+    "atasamente": ["Clavicula dreaptă (extremitatea medială)", "Clavicula stângă (extremitatea medială)"],
+    "functie": "Stabilizează articulațiile SC; previne separarea claviculelor.",
+    "clinic": "Rareori lezat."
+  },
+  "posterior_sternoclavicular_ligament": {
+    "name": "Ligamentul sternoclavicular posterior",
+    "latin": "Ligamentum sternoclaviculare posterius",
+    "localizare": "Articulația SC, posterior",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care întărește capsula posterioară a articulației SC.",
+    "atasamente": ["Clavicula (extremitatea medială)", "Stern (manubriu)"],
+    "functie": "Limitează deplasarea posterioară a claviculei.",
+    "clinic": "Lezarea sa poate duce la luxația posterioară a claviculei (compresia vaselor mari)."
+  },
+  "intervertebral_disc_C2_C3": {
+    "name": "Discul intervertebral C2‑C3",
+    "latin": "Discus intervertebralis C2‑C3",
+    "localizare": "Coloana cervicală, între axis (C2) și vertebra C3",
+    "tip": "Fibrocartilaj (simfiză)",
+    "descriere": "Disc intervertebral format din nucleul pulpos și inelul fibros, amortizând șocurile și permițând mișcarea coloanei cervicale.",
+    "atasamente": ["Corpul vertebral C2 (axis)", "Corpul vertebral C3"],
+    "functie": "Amortizează șocurile; permite flexia, extensia, înclinarea laterală și rotația gâtului.",
+    "clinic": "Hernia de disc cervicală C2‑C3 este rară."
+  },
+  "intervertebral_disc_C3_C4": {
+    "name": "Discul intervertebral C3‑C4",
+    "latin": "Discus intervertebralis C3‑C4",
+    "localizare": "Coloana cervicală, între C3 și C4",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc intervertebral cervical între vertebrele C3 și C4.",
+    "atasamente": ["C3", "C4"],
+    "functie": "Amortizare și mobilitate.",
+    "clinic": "Hernia de disc C3‑C4 poate comprima rădăcina C4 (dureri de umăr)."
+  },
+  "intervertebral_disc_C4_C5": {
+    "name": "Discul intervertebral C4‑C5",
+    "latin": "Discus intervertebralis C4‑C5",
+    "localizare": "Între C4 și C5",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc cervical între C4 și C5.",
+    "atasamente": ["C4", "C5"],
+    "functie": "Mobilitate cervicală.",
+    "clinic": "Hernia C4‑C5 comprimă rădăcina C5 (dureri de umăr și braț)."
+  },
+  "intervertebral_disc_C5_C6": {
+    "name": "Discul intervertebral C5‑C6",
+    "latin": "Discus intervertebralis C5‑C6",
+    "localizare": "Între C5 și C6",
+    "tip": "Fibrocartilaj",
+    "descriere": "Cel mai frecvent sediu al herniei de disc cervicale.",
+    "atasamente": ["C5", "C6"],
+    "functie": "Mobilitate.",
+    "clinic": "Hernia C5‑C6 comprimă rădăcina C6 (dureri de antebraț și deget mare)."
+  },
+  "intervertebral_disc_C6_C7": {
+    "name": "Discul intervertebral C6‑C7",
+    "latin": "Discus intervertebralis C6‑C7",
+    "localizare": "Între C6 și C7",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc cervical, al doilea ca frecvență a herniilor.",
+    "atasamente": ["C6", "C7"],
+    "functie": "Mobilitate.",
+    "clinic": "Hernia C6‑C7 comprimă rădăcina C7 (dureri de braț posterior, degete 2‑3)."
+  },
+  "intervertebral_disc_C7_T1": {
+    "name": "Discul intervertebral C7‑T1",
+    "latin": "Discus intervertebralis C7‑T1",
+    "localizare": "Joncțiunea cervico‑toracică",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc între ultima vertebră cervicală și prima toracică.",
+    "atasamente": ["C7", "T1"],
+    "functie": "Tranziție între coloana cervicală și toracică.",
+    "clinic": "Hernia C7‑T1 comprimă rădăcina C8 (dureri de mână, degete 4‑5)."
+  },
+  "intervertebral_disc_L1_L2": {
+    "name": "Discul intervertebral L1‑L2",
+    "latin": "Discus intervertebralis L1‑L2",
+    "localizare": "Coloana lombară superioară",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc lombar superior, rar herniat.",
+    "atasamente": ["L1", "L2"],
+    "functie": "Amortizare și mobilitate lombară.",
+    "clinic": "Hernia L1‑L2 poate comprima conul medular (simptome atipice)."
+  },
+  "intervertebral_disc_L2_L3": {
+    "name": "Discul intervertebral L2‑L3",
+    "latin": "Discus intervertebralis L2‑L3",
+    "localizare": "Între L2 și L3",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc lombar.",
+    "atasamente": ["L2", "L3"],
+    "functie": "Mobilitate.",
+    "clinic": "Hernia L2‑L3 comprimă rădăcina L3 (dureri de coapsă anterioară)."
+  },
+  "intervertebral_disc_L3_L4": {
+    "name": "Discul intervertebral L3‑L4",
+    "latin": "Discus intervertebralis L3‑L4",
+    "localizare": "Între L3 și L4",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc lombar.",
+    "atasamente": ["L3", "L4"],
+    "functie": "Mobilitate.",
+    "clinic": "Hernia L3‑L4 comprimă rădăcina L4 (dureri de genunchi și gambă medială)."
+  },
+  "intervertebral_disc_L4_L5": {
+    "name": "Discul intervertebral L4‑L5",
+    "latin": "Discus intervertebralis L4‑L5",
+    "localizare": "Între L4 și L5",
+    "tip": "Fibrocartilaj",
+    "descriere": "Unul dintre cele mai frecvente sedii ale herniei de disc lombare.",
+    "atasamente": ["L4", "L5"],
+    "functie": "Mobilitate și suport.",
+    "clinic": "Hernia L4‑L5 comprimă rădăcina L5 (dureri de gambă laterală, dorsul piciorului, haluce)."
+  },
+  "intervertebral_disc_L5_S1": {
+    "name": "Discul intervertebral L5‑S1",
+    "latin": "Discus intervertebralis L5‑S1",
+    "localizare": "Joncțiunea lombosacrală",
+    "tip": "Fibrocartilaj",
+    "descriere": "Cel mai frecvent disc herniat lombar.",
+    "atasamente": ["L5", "S1"],
+    "functie": "Amortizează sarcina maximă.",
+    "clinic": "Hernia L5‑S1 comprimă rădăcina S1 (dureri de gambă posterioară, talpă, reflex ahilian abolit)."
+  },
+  "intervertebral_disc_T1_T2": {
+    "name": "Discul intervertebral T1‑T2",
+    "latin": "Discus intervertebralis T1‑T2",
+    "localizare": "Coloana toracică superioară",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc toracic, hernierea este rară.",
+    "atasamente": ["T1", "T2"],
+    "functie": "Mobilitate toracică redusă.",
+    "clinic": "Hernia toracică produce simptome atipice (dureri intercostale)."
+  },
+  "intervertebral_disc_T10_T11": {
+    "name": "Discul intervertebral T10‑T11",
+    "latin": "Discus intervertebralis T10‑T11",
+    "localizare": "Toracic inferior",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc toraco‑lombar.",
+    "atasamente": ["T10", "T11"],
+    "functie": "Tranziție toraco‑lombară.",
+    "clinic": "Herniile toracice inferioare pot produce dureri abdominale."
+  },
+  "intervertebral_disc_T11_T12": {
+    "name": "Discul intervertebral T11‑T12",
+    "latin": "Discus intervertebralis T11‑T12",
+    "localizare": "Între T11 și T12",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc toraco‑lombar.",
+    "atasamente": ["T11", "T12"],
+    "functie": "Mobilitate.",
+    "clinic": "Rar herniat."
+  },
+  "intervertebral_disc_T12_L1": {
+    "name": "Discul intervertebral T12‑L1",
+    "latin": "Discus intervertebralis T12‑L1",
+    "localizare": "Joncțiunea toraco‑lombară",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc între ultima toracică și prima lombară.",
+    "atasamente": ["T12", "L1"],
+    "functie": "Tranziție; mobilitate.",
+    "clinic": "Hernia T12‑L1 poate comprima conul medular."
+  },
+  "intervertebral_disc_T2_T3": {
+    "name": "Discul intervertebral T2‑T3",
+    "latin": "Discus intervertebralis T2‑T3",
+    "localizare": "Toracic",
+    "tip": "Fibrocartilaj",
+    "descriere": "Disc toracic.",
+    "atasamente": ["T2", "T3"],
+    "functie": "Stabilitate toracică.",
+    "clinic": "Rar simptomatic."
+  },
+  "sacrococcygeal_symphysis": {
+    "name": "Simfiza sacrococcigiană",
+    "latin": "Symphysis sacrococcygea",
+    "localizare": "Între sacrum și coccis",
+    "tip": "Articulație cartilaginoasă (anfiartroză)",
+    "descriere": "Unirea dintre vârful sacrumului și baza coccisului, cu un disc fibrocartilaginos.",
+    "atasamente": ["Sacrum (vârf)", "Coccis (bază)"],
+    "functie": "Permite o ușoară mobilitate (flexia coccisului în naștere).",
+    "clinic": "Coccigodinia poate implica această articulație."
+  },
+  "anterior_longitudinal_ligament": {
+    "name": "Ligamentul longitudinal anterior",
+    "latin": "Ligamentum longitudinale anterius",
+    "localizare": "Fața anterioară a corpurilor vertebrale",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă lată care se întinde de la occipital la sacrum, pe fața anterioară a vertebrelor, aderând la discuri.",
+    "atasamente": ["Corpurile vertebrale și discurile intervertebrale (anterior)"],
+    "functie": "Limitează extensia coloanei; stabilizează.",
+    "clinic": "Este implicat în fracturile de extensie (leziuni de tip „lap belt”)."
+  },
+  "intercornual_ligament": {
+    "name": "Ligamentul intercornual",
+    "latin": "Ligamentum intercornuale",
+    "localizare": "Sacrum și coccis, între coarnele sacrale și cornul coccisului",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care leagă cornul sacral de cornul coccisului.",
+    "atasamente": ["Cornul sacral", "Cornul coccisului"],
+    "functie": "Stabilizează articulația sacrococcigiană.",
+    "clinic": "Rareori menționat clinic."
+  },
+  "interspinous_ligaments": {
+    "name": "Ligamentele interspinoase",
+    "latin": "Ligamenta interspinalia",
+    "localizare": "Între procesele spinoase ale vertebrelor adiacente",
+    "tip": "Ligamente fibroase",
+    "descriere": "Lame fibroase care unesc procesele spinoase, limitând flexia coloanei.",
+    "atasamente": ["Procesul spinos al vertebrei superioare", "Procesul spinos al vertebrei inferioare"],
+    "functie": "Limitează flexia coloanei; stabilizează.",
+    "clinic": "Pot fi sediul durerii în boala Baastrup (sindromul „kissing spines”)."
+  },
+  "ligamenta_flava": {
+    "name": "Ligamentele galbene",
+    "latin": "Ligamenta flava",
+    "localizare": "Posterior, între lamele vertebrelor",
+    "tip": "Ligamente elastice",
+    "descriere": "Ligamente elastice care unesc lamele vertebrale adiacente, de culoare gălbuie datorită elastinei.",
+    "atasamente": ["Lama vertebrei superioare", "Lama vertebrei inferioare"],
+    "functie": "Mențin tensiunea coloanei; limitează flexia bruscă; protejează măduva.",
+    "clinic": "Hipertrofia ligamentelor galbene contribuie la stenoza spinală."
+  },
+  "nuchal_ligament": {
+    "name": "Ligamentul nucal",
+    "latin": "Ligamentum nuchae",
+    "localizare": "Gât posterior, de la protuberanța occipitală externă la procesele spinoase cervicale",
+    "tip": "Ligament fibroelastic",
+    "descriere": "Sept fibros median care servește ca inserție musculară (trapez, splenius).",
+    "atasamente": ["Occipital (protuberanța externă)", "Procesele spinoase C1‑C7"],
+    "functie": "Oferă inserție mușchilor gâtului; stabilizează capul.",
+    "clinic": "Calcificarea sa este vizibilă radiologic."
+  },
+  "posterior_longitudinal_ligament": {
+    "name": "Ligamentul longitudinal posterior",
+    "latin": "Ligamentum longitudinale posterius",
+    "localizare": "Fața posterioară a corpurilor vertebrale (canalul vertebral)",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă mai subțire decât cel anterior, aderând la discuri, prevenind hernia posterioară a nucleului pulpos.",
+    "atasamente": ["Corpurile vertebrale (posterior)", "Discurile intervertebrale"],
+    "functie": "Limitează flexia; protejează măduva spinării.",
+    "clinic": "Hernia de disc centrală este limitată de acest ligament."
+  },
+  "supraspinous_ligament": {
+    "name": "Ligamentul supraspinos",
+    "latin": "Ligamentum supraspinale",
+    "localizare": "Pe vârfurile proceselor spinoase (C7‑sacrum)",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care unește vârfurile proceselor spinoase, limitând flexia.",
+    "atasamente": ["Vârfurile proceselor spinoase"],
+    "functie": "Limitează flexia coloanei.",
+    "clinic": "Se continuă cranial cu ligamentul nucal."
+  },
+  "median_cricothyroid_ligament": {
+    "name": "Ligamentul cricotiroidian median",
+    "latin": "Ligamentum cricothyroideum medianum",
+    "localizare": "Laringe, între cartilajul tiroidian și cricoid (anterior)",
+    "tip": "Ligament elastic",
+    "descriere": "Partea mediană a membranei cricotiroidiene, întinsă între cele două cartilaje.",
+    "atasamente": ["Cartilajul tiroidian (marginea inferioară)", "Cartilajul cricoid (arcul anterior)"],
+    "functie": "Structură de legătură; locul de elecție pentru cricotiroidotomie.",
+    "clinic": "Cricotiroidotomia de urgență se efectuează prin acest ligament."
+  },
+  "cricopharyngeal_ligament": {
+    "name": "Ligamentul cricofaringian",
+    "latin": "Ligamentum cricopharyngeum",
+    "localizare": "Joncțiunea faringo‑esofagiană, între cartilajul cricoid și faringe",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă care ancorează faringele de cricoid.",
+    "atasamente": ["Cartilajul cricoid", "Peretele faringian posterior"],
+    "functie": "Susține joncțiunea faringo‑esofagiană.",
+    "clinic": "Importanță în chirurgia Zenker (diverticul faringian)."
+  },
+  "costotransverse_ligament": {
+    "name": "Ligamentul costotransvers",
+    "latin": "Ligamentum costotransversarium",
+    "localizare": "Articulația costotransversă, între coastă și procesul transvers",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care unește colul coastei de procesul transvers al vertebrei corespunzătoare.",
+    "atasamente": ["Coasta (colul)", "Procesul transvers al vertebrei"],
+    "functie": "Stabilizează articulația costotransversă; limitează mișcarea coastei.",
+    "clinic": "Poate fi lezat în traumatismele toracice."
+  },
+  "intra_articular_ligament_of_head_of_rib": {
+    "name": "Ligamentul intraarticular al capului coastei",
+    "latin": "Ligamentum capitis costae intraarticulare",
+    "localizare": "Articulația capului coastei, între cele două hemifațete",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă care separă cavitatea articulară a capului coastei în două compartimente (când coasta se articulează cu două vertebre).",
+    "atasamente": ["Creasta capului coastei", "Discul intervertebral"],
+    "functie": "Stabilizează capul coastei; separă articulația.",
+    "clinic": "Poate fi lezat în fracturile costale."
+  },
+  "radiate_ligament_of_head_of_rib": {
+    "name": "Ligamentul radiat al capului coastei",
+    "latin": "Ligamentum capitis costae radiatum",
+    "localizare": "Anterior, de la capul coastei la corpurile vertebrale",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă în evantai care unește capul coastei de corpurile vertebrelor adiacente și discul intervertebral.",
+    "atasamente": ["Capul coastei", "Corpurile vertebrelor și discul intervertebral"],
+    "functie": "Stabilizează articulația capului coastei.",
+    "clinic": "Lezarea sa produce durere costovertebrală."
+  },
+  "inguinal_ligament": {
+    "name": "Ligamentul inghinal (Poupart)",
+    "latin": "Ligamentum inguinale",
+    "localizare": "Abdomen inferior, de la spina iliacă antero‑superioară la tuberculul pubian",
+    "tip": "Bandă fibroasă (arcadă tendinoasă)",
+    "descriere": "Marginea inferioară a aponevrozei mușchiului oblic extern, formând planșeul canalului inghinal.",
+    "atasamente": ["Spina iliacă antero‑superioară", "Tuberculul pubian"],
+    "functie": "Suport pentru conținutul abdominal; delimitarea triunghiului femural.",
+    "clinic": "Repararea herniei inghinale implică acest ligament."
+  },
+  "superficial_transverse_metatarsal_ligament": {
+    "name": "Ligamentul metatarsian transvers superficial",
+    "latin": "Ligamentum metatarseum transversum superficiale",
+    "localizare": "Plantă, superficial, între capetele metatarsienelor",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă superficială care completează arcul transvers plantar.",
+    "atasamente": ["Capetele metatarsienelor (plantar, superficial)"],
+    "functie": "Stabilizează arcul transvers.",
+    "clinic": "Poate fi implicat în metatarsalgie."
+  },
+  "superficial_transverse_metacarpal_ligament": {
+    "name": "Ligamentul metacarpian transvers superficial",
+    "latin": "Ligamentum metacarpale transversum superficiale",
+    "localizare": "Mână, palmar superficial, între capetele metacarpienelor",
+    "tip": "Ligament fibros",
+    "descriere": "Bandă fibroasă superficială, parte a fasciei palmare, între capetele metacarpienelor.",
+    "atasamente": ["Capetele metacarpienelor (palmar)"],
+    "functie": "Stabilizează arcul transvers al mâinii.",
+    "clinic": "Contractura Dupuytren poate implica această structură."
+  },
+  "suspensory_ligament_of_eyeball": {
+    "name": "Ligamentul suspensor al globului ocular (Lockwood)",
+    "latin": "Ligamentum suspensorium bulbi",
+    "localizare": "Orbită, inferior, între pereții orbitei",
+    "tip": "Bandă fascială",
+    "descriere": "Structură de susținere formată din teaca mușchilor drepți inferior și oblic inferior, prevenind coborârea globului ocular.",
+    "atasamente": ["Pereții medial și lateral ai orbitei"],
+    "functie": "Susține globul ocular; previne enoftalmia.",
+    "clinic": "Fracturile de planșeu orbital (blow‑out) lezează acest ligament."
+  },
+  "anserine_bursa": {
+    "name": "Bursa anserină",
+    "latin": "Bursa anserina",
+    "localizare": "Genunchi medial, sub tendoanele pes anserinus",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendoanele gracilisului, croitorului și semitendinosului (pes anserinus) și ligamentul colateral tibial.",
+    "atasamente": ["Între tendoanele pes anserinus și tibie"],
+    "functie": "Reduce frecarea între tendoane și os.",
+    "clinic": "Bursita anserină produce durere medială de genunchi."
+  },
+  "bicipitoradial_bursa": {
+    "name": "Bursa bicipitoradială",
+    "latin": "Bursa bicipitoradialis",
+    "localizare": "Cot anterior, între tendonul bicepsului și tuberozitatea radială",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care amortizează frecarea dintre tendonul bicepsului brahial și radius.",
+    "atasamente": ["Între tendonul bicepsului și tuberozitatea radială"],
+    "functie": "Reduce frecarea în timpul pronației și supinației.",
+    "clinic": "Bursita bicipitoradială produce durere la flexia cotului."
+  },
+  "bursa_of_piriformis_muscle": {
+    "name": "Bursa mușchiului piriform",
+    "latin": "Bursa musculi piriformis",
+    "localizare": "Fesă profundă, între tendonul piriformului și trohanterul mare",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul mușchiului piriform și os.",
+    "atasamente": ["Între piriform și trohanterul mare"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația acestei burse contribuie la sindromul piriform."
+  },
+  "common_tendinous_ring": {
+    "name": "Inelul tendinos comun (Zinn)",
+    "latin": "Anulus tendineus communis",
+    "localizare": "Vârful orbitei, în jurul canalului optic și fisurii orbitale superioare",
+    "tip": "Structură fibroasă circulară",
+    "descriere": "Inel fibros de la care își au originea cei patru mușchi drepți ai ochiului.",
+    "atasamente": ["Osul sfenoid (în jurul canalului optic și fisurii orbitale superioare)"],
+    "functie": "Origine comună pentru mușchii extraoculari drepți.",
+    "clinic": "Inflamația inelului tendinos produce durere retrooculară (sindromul apexului orbitar)."
+  },
+  "coracobrachial_bursa": {
+    "name": "Bursa coracobrahială",
+    "latin": "Bursa coracobrachialis",
+    "localizare": "Umăr anterior, între mușchii coracobrahial și subscapular",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care separă mușchiul coracobrahial de subscapular.",
+    "atasamente": ["Între coracobrahial și subscapular"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori inflamată."
+  },
+  "cruciform_part_of_fibrous_sheath_of_digit_of_hand": {
+    "name": "Partea cruciformă a tecii fibroase a degetului (mâinii)",
+    "latin": "Pars cruciformis vaginae fibrosae digiti manus",
+    "localizare": "Degete, pe fața palmară, între falange",
+    "tip": "Structură fibroasă",
+    "descriere": "Porțiuni în formă de X ale tecii fibroase digitale, care permit flexia degetelor fără „coardă de arc”.",
+    "atasamente": ["Falangele (capsula articulară)"],
+    "functie": "Menține tendoanele flexorilor aproape de os; ghidează mișcarea.",
+    "clinic": "Lezarea produce deget în resort (trigger finger)."
+  },
+  "deep_infrapatellar_bursa": {
+    "name": "Bursa infrapatelară profundă",
+    "latin": "Bursa infrapatellaris profunda",
+    "localizare": "Genunchi anterior, între ligamentul patelar și tibie",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund de ligamentul patelar, reducând frecarea față de tibie.",
+    "atasamente": ["Între ligamentul patelar și tibie"],
+    "functie": "Amortizează presiunea.",
+    "clinic": "Inflamația produce durere anterioară de genunchi (sindromul jumper's knee)."
+  },
+  "common_flexor_tendon_sheath": {
+    "name": "Teaca sinovială comună a flexorilor (mâinii)",
+    "latin": "Vagina synovialis communis musculorum flexorum",
+    "localizare": "Mână, palmar, la nivelul canalului carpian",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă sinovială care învelește tendoanele flexorilor în canalul carpian, prelungindu‑se până la degete.",
+    "atasamente": ["Tendoanele flexorilor superficiali și profunzi"],
+    "functie": "Reduce frecarea; facilitează alunecarea.",
+    "clinic": "Tenosinovita flexorilor produce durere și limitarea mișcării (sindrom de tunel carpian poate coexista)."
+  },
+  "common_tendon_sheath_of_fibularis_muscles": {
+    "name": "Teaca sinovială comună a mușchilor fibulari",
+    "latin": "Vagina synovialis communis musculorum fibularium",
+    "localizare": "Gleznă laterală, sub retinaculul fibular",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă sinovială care învelește tendoanele fibularului lung și scurt posterior de maleola laterală.",
+    "atasamente": ["Tendoanele fibularilor"],
+    "functie": "Reduce frecarea; permite alunecarea.",
+    "clinic": "Tenosinovita fibularilor produce durere laterală de gleznă."
+  },
+  "iliopectineal_bursa": {
+    "name": "Bursa iliopectineală",
+    "latin": "Bursa iliopectinea",
+    "localizare": "Șold anterior, între tendonul iliopsoasului și eminența iliopectineală",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă mare care comunică frecvent cu articulația șoldului.",
+    "atasamente": ["Între iliopsoas și eminența iliopectineală"],
+    "functie": "Reduce frecarea dintre tendon și os.",
+    "clinic": "Bursita iliopectineală produce durere inghinală și masă palpabilă."
+  },
+  "inferior_subtendinous_bursa_of_biceps_femoris_muscle": {
+    "name": "Bursa subtendinoasă inferioară a bicepsului femural",
+    "latin": "Bursa subtendinea musculi bicipitis femoris inferior",
+    "localizare": "Genunchi lateral, sub tendonul bicepsului femural",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul bicepsului femural și ligamentul colateral fibular.",
+    "atasamente": ["Între tendonul bicepsului femural și LCL"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația produce durere laterală de genunchi."
+  },
+  "intermuscular_gluteal_bursae": {
+    "name": "Bursele intermusculare gluteale",
+    "latin": "Bursae intermusculares gluteae",
+    "localizare": "Fesă, între mușchii glutei",
+    "tip": "Burse sinoviale",
+    "descriere": "Burse situate între gluteul maxim și trohanterul mare, precum și între gluteul mediu și mic.",
+    "atasamente": ["Între fasciile și tendoanele gluteale"],
+    "functie": "Reduce frecarea între straturile musculare.",
+    "clinic": "Bursita trohanterică implică frecvent aceste burse."
+  },
+  "lateral_subtendinous_bursa_of_gastrocnemius_muscle": {
+    "name": "Bursa subtendinoasă laterală a gastrocnemianului",
+    "latin": "Bursa subtendinea musculi gastrocnemii lateralis",
+    "localizare": "Genunchi posterior, sub capul lateral al gastrocnemianului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată sub tendonul capului lateral al gastrocnemianului.",
+    "atasamente": ["Sub capul lateral al gastrocnemianului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Poate comunica cu articulația genunchiului (chist Baker)."
+  },
+  "medial_subtendinous_bursa_of_gastrocnemius_muscle": {
+    "name": "Bursa subtendinoasă medială a gastrocnemianului",
+    "latin": "Bursa subtendinea musculi gastrocnemii medialis",
+    "localizare": "Genunchi posterior, sub capul medial al gastrocnemianului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată sub capul medial al gastrocnemianului, comunicând frecvent cu articulația genunchiului.",
+    "atasamente": ["Sub capul medial al gastrocnemianului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Chistul popliteu (Baker) este o distensie a acestei burse."
+  },
+  "nucleus_pulposus": {
+    "name": "Nucleul pulpos (pentru fiecare disc intervertebral)",
+    "latin": "Nucleus pulposus",
+    "localizare": "Centrul discului intervertebral",
+    "tip": "Gel hidrofil",
+    "descriere": "Rest al notocordului embrionar, cu consistență gelatinoasă, care distribuie presiunea uniform pe inelul fibros.",
+    "atasamente": ["Inelul fibros al discului"],
+    "functie": "Amortizează șocurile; distribuie sarcinile axiale.",
+    "clinic": "Hernia de disc apare prin extrudarea nucleului pulpos prin inelul fibros."
+  },
+  "sciatic_bursa_of_gluteus_maximus_muscle": {
+    "name": "Bursa sciatică a gluteului maxim",
+    "latin": "Bursa ischiadica musculi glutei maximi",
+    "localizare": "Fesă, între gluteul maxim și tuberozitatea ischiatică",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care separă gluteul maxim de tuberozitatea ischiatică.",
+    "atasamente": ["Între gluteul maxim și ischion"],
+    "functie": "Reduce frecarea în poziția șezândă.",
+    "clinic": "Bursita ischiatică („țesătorului”) produce durere la șezut."
+  },
+  "sciatic_bursa_of_obturator_internus": {
+    "name": "Bursa sciatică a obturatorului intern",
+    "latin": "Bursa ischiadica musculi obturatorii interni",
+    "localizare": "Fesă profundă, între obturatorul intern și ischion",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care separă tendonul obturatorului intern de os.",
+    "atasamente": ["Între obturatorul intern și ischion"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rar inflamată."
+  },
+  "semimembranosus_bursa": {
+    "name": "Bursa semimembranosului",
+    "latin": "Bursa musculi semimembranosi",
+    "localizare": "Genunchi posterior, între semimembranos și capsula articulară",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul semimembranosului și capsula posterioară a genunchiului.",
+    "atasamente": ["Între semimembranos și capsulă"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația contribuie la chistul Baker."
+  },
+  "subacromial_bursa": {
+    "name": "Bursa subacromială",
+    "latin": "Bursa subacromialis",
+    "localizare": "Umăr, între acromion și tendonul supraspinosului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursa cea mai mare a umărului, facilitând alunecarea tendoanelor coafei rotatorilor sub acromion.",
+    "atasamente": ["Între acromion și supraspinos"],
+    "functie": "Reduce frecarea; protejează tendoanele.",
+    "clinic": "Bursita subacromială produce durere la abducția umărului (sindrom de conflict)."
+  },
+  "subcutaneous_acromial_bursa": {
+    "name": "Bursa subcutanată acromială",
+    "latin": "Bursa subcutanea acromialis",
+    "localizare": "Peste acromion, sub piele",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă situată superficial, peste acromion, reducând frecarea pielii pe os.",
+    "atasamente": ["Între piele și acromion"],
+    "functie": "Reduce frecarea pielii.",
+    "clinic": "Inflamația produce tumefiere localizată (higromă)."
+  },
+  "subcutaneous_bursa_of_lateral_malleolus": {
+    "name": "Bursa subcutanată a maleolei laterale",
+    "latin": "Bursa subcutanea malleoli lateralis",
+    "localizare": "Gleznă laterală, peste maleola laterală",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă care protejează pielea deasupra maleolei laterale.",
+    "atasamente": ["Între piele și maleola laterală"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația apare prin frecarea încălțămintei."
+  },
+  "subcutaneous_bursa_of_medial_malleolus": {
+    "name": "Bursa subcutanată a maleolei mediale",
+    "latin": "Bursa subcutanea malleoli medialis",
+    "localizare": "Gleznă medială, peste maleola medială",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă similară pe partea medială.",
+    "atasamente": ["Între piele și maleola medială"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori inflamată."
+  },
+  "subcutaneous_bursa_of_tuberosity_of_tibia": {
+    "name": "Bursa subcutanată a tuberozității tibiale",
+    "latin": "Bursa subcutanea tuberositatis tibiae",
+    "localizare": "Genunchi anterior, peste tuberozitatea tibială",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă care protejează pielea deasupra tuberozității tibiale.",
+    "atasamente": ["Între piele și tuberozitatea tibială"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația produce durere la îngenunchiere (boala Osgood‑Schlatter implică inserția patelară, nu bursa)."
+  },
+  "subcutaneous_calcaneal_bursa": {
+    "name": "Bursa subcutanată calcaneană",
+    "latin": "Bursa subcutanea calcanea",
+    "localizare": "Călcâi, posterior, între piele și calcaneu",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă situată superficial, peste calcaneu, reducând presiunea încălțămintei.",
+    "atasamente": ["Între piele și calcaneu"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita calcaneană produce durere și tumefiere la călcâi („pantof de patinaj”)."
+  },
+  "subcutaneous_infrapatellar_bursa": {
+    "name": "Bursa subcutanată infrapatelară",
+    "latin": "Bursa subcutanea infrapatellaris",
+    "localizare": "Genunchi anterior, sub patelă, superficial",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă situată între piele și ligamentul patelar, protejând la îngenunchiere.",
+    "atasamente": ["Între piele și ligamentul patelar"],
+    "functie": "Reduce presiunea.",
+    "clinic": "Bursita infrapatelară („genunchiul clericului”) apare prin presiune cronică."
+  },
+  "subcutaneous_prepatellar_bursa": {
+    "name": "Bursa subcutanată prepatelară",
+    "latin": "Bursa subcutanea prepatellaris",
+    "localizare": "Genunchi anterior, peste patelă",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă situată între piele și fața anterioară a patelei.",
+    "atasamente": ["Între piele și patelă"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita prepatelară („genunchiul femeii de serviciu”) este frecventă."
+  },
+  "subcutaneous_trochanteric_bursa": {
+    "name": "Bursa subcutanată trohanterică",
+    "latin": "Bursa subcutanea trochanterica",
+    "localizare": "Șold lateral, peste trohanterul mare",
+    "tip": "Bursă subcutanată",
+    "descriere": "Bursă situată superficial peste trohanterul mare.",
+    "atasamente": ["Între piele și trohanter"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita trohanterică produce durere laterală de șold la decubit."
+  },
+  "subdeltoid_bursa": {
+    "name": "Bursa subdeltoidiană",
+    "latin": "Bursa subdeltoidea",
+    "localizare": "Umăr, între deltoid și capsula articulară",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care comunică adesea cu bursa subacromială, facilitând mișcarea deltoidului.",
+    "atasamente": ["Între deltoid și capsula umărului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația produce durere la abducție (sindrom de conflict)."
+  },
+  "subfacial_prepatellar_bursa": {
+    "name": "Bursa subfascială prepatelară",
+    "latin": "Bursa subfascialis prepatellaris",
+    "localizare": "Genunchi, sub fascia superficială, anterior de patelă",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între fascia superficială și patelă.",
+    "atasamente": ["Între fascia superficială și patelă"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Poate fi implicată în bursita prepatelară."
+  },
+  "subtendinous_bursa_of_iliacus_muscle": {
+    "name": "Bursa subtendinoasă a mușchiului iliac",
+    "latin": "Bursa subtendinea iliaca",
+    "localizare": "Șold anterior, sub tendonul iliopsoasului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund de tendonul iliopsoasului, comunicând adesea cu articulația șoldului.",
+    "atasamente": ["Sub tendonul iliopsoasului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita iliopectineală implică această bursă."
+  },
+  "subtendinous_bursa_of_infraspinatus_muscle": {
+    "name": "Bursa subtendinoasă a infraspinosului",
+    "latin": "Bursa subtendinea musculi infraspinati",
+    "localizare": "Umăr posterior, sub tendonul infraspinosului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul infraspinosului și capsula articulară.",
+    "atasamente": ["Sub tendonul infraspinosului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Poate comunica cu articulația umărului."
+  },
+  "subtendinous_bursa_of_obturator_internus": {
+    "name": "Bursa subtendinoasă a obturatorului intern",
+    "latin": "Bursa subtendinea musculi obturatorii interni",
+    "localizare": "Fesă profundă, între obturatorul intern și os",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care separă tendonul obturatorului intern de șanțul osos.",
+    "atasamente": ["Între tendonul obturatorului intern și ischion"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori inflamată."
+  },
+  "subtendinous_bursa_of_sartorius_muscle": {
+    "name": "Bursa subtendinoasă a croitorului",
+    "latin": "Bursa subtendinea musculi sartorii",
+    "localizare": "Genunchi medial, sub tendonul croitorului",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată sub tendonul mușchiului croitor, lângă pes anserinus.",
+    "atasamente": ["Sub tendonul croitorului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Face parte din complexul burselor pes anserinus."
+  },
+  "subtendinous_bursa_of_teres_major_muscle": {
+    "name": "Bursa subtendinoasă a redonului mare",
+    "latin": "Bursa subtendinea musculi teretis majoris",
+    "localizare": "Umăr posterior, sub tendonul redonului mare",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care separă tendonul redonului mare de humerus.",
+    "atasamente": ["Sub tendonul redonului mare"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori inflamată."
+  },
+  "subtendinous_bursa_of_tibialis_anterior": {
+    "name": "Bursa subtendinoasă a tibialului anterior",
+    "latin": "Bursa subtendinea musculi tibialis anterioris",
+    "localizare": "Picior, sub tendonul tibialului anterior, lângă inserția pe cuneiformul medial",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul tibialului anterior și os.",
+    "atasamente": ["Sub tendonul tibialului anterior"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația produce durere pe dorsul piciorului."
+  },
+  "subtendinous_bursa_of_trapezius_muscle": {
+    "name": "Bursa subtendinoasă a trapezului",
+    "latin": "Bursa subtendinea musculi trapezii",
+    "localizare": "Spate superior, sub tendonul trapezului la inserția pe scapulă",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul trapezului și acromion/spina scapulei.",
+    "atasamente": ["Sub tendonul trapezului"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori menționată clinic."
+  },
+  "subtendinous_bursa_of_triceps_brachii_muscle": {
+    "name": "Bursa subtendinoasă a tricepsului brahial",
+    "latin": "Bursa subtendinea musculi tricipitis brachii",
+    "localizare": "Cot posterior, sub tendonul tricepsului la olecran",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată între tendonul tricepsului și olecran.",
+    "atasamente": ["Sub tendonul tricepsului brahial"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita olecraniană („cotul studentului”) implică această bursă."
+  },
+  "subtendinous_calcaneal_bursa": {
+    "name": "Bursa subtendinoasă calcaneană (retrocalcaneană)",
+    "latin": "Bursa subtendinea calcanea",
+    "localizare": "Călcâi, între tendonul lui Ahile și calcaneu",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund de tendonul lui Ahile, reducând frecarea pe os.",
+    "atasamente": ["Între tendonul lui Ahile și calcaneu"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita retrocalcaneană produce durere la mers și este asociată cu boala Haglund."
+  },
+  "subtendinous_prepatellar_bursa": {
+    "name": "Bursa subtendinoasă prepatelară",
+    "latin": "Bursa subtendinea prepatellaris",
+    "localizare": "Genunchi, sub tendonul cvadricipital/ligamentul patelar, anterior de patelă",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund față de tendon, între tendon și patelă.",
+    "atasamente": ["Între tendonul cvadricipital și patelă"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Poate fi sediul bursitei prepatelare profunde."
+  },
+  "superior_bursa_of_biceps_femoris_muscle": {
+    "name": "Bursa superioară a bicepsului femural",
+    "latin": "Bursa superior musculi bicipitis femoris",
+    "localizare": "Genunchi lateral, între tendonul bicepsului femural și originea gastrocnemianului lateral",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată superior de tendonul bicepsului femural.",
+    "atasamente": ["Între tendonul bicepsului femural și gastrocnemianul lateral"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Rareori inflamată izolat."
+  },
+  "suprapatellar_bursa": {
+    "name": "Bursa suprapatelară",
+    "latin": "Bursa suprapatellaris",
+    "localizare": "Genunchi anterior, superior de patelă, sub tendonul cvadricipital",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă care comunică întotdeauna cu articulația genunchiului, reprezentând un reces al capsulei.",
+    "atasamente": ["Între tendonul cvadricipital și femur"],
+    "functie": "Reduce frecarea; permite mișcarea.",
+    "clinic": "Revărsatul articular se poate acumula în această bursă."
+  },
+  "synovial_sheaths_of_digits_of_hand": {
+    "name": "Tecile sinoviale ale degetelor mâinii",
+    "latin": "Vaginae synoviales digitorum manus",
+    "localizare": "Degete, pe fața palmară",
+    "tip": "Tenci sinoviale",
+    "descriere": "Tenci care învelesc tendoanele flexorilor în degete, de la capul metacarpianelor până la inserțiile distale.",
+    "atasamente": ["Tendoanele flexorilor"],
+    "functie": "Reduc frecarea; ghidează tendoanele.",
+    "clinic": "Tenosinovita degetelor („deget în resort”) este frecventă."
+  },
+  "plantar_tendon_sheath_of_fibularis_longus_muscle": {
+    "name": "Teaca sinovială plantară a fibularului lung",
+    "latin": "Vagina synovialis plantaris musculi fibularis longi",
+    "localizare": "Plantă, pe traiectul tendonului fibularului lung sub picior",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă sinovială care învelește tendonul fibularului lung pe fața plantară, reducând frecarea pe os.",
+    "atasamente": ["Tendonul fibularului lung (pe plantă)"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita plantară produce durere la mers."
+  },
+  "tendon_sheath_abd_pollicis_longus_ext_pollicis_brevis": {
+    "name": "Teaca sinovială a abductorului lung și extensorului scurt al policelui",
+    "latin": "Vagina synovialis tendinum musculorum abductoris longi et extensoris pollicis brevis",
+    "localizare": "Pumn lateral, compartimentul I al retinaculului extensorilor",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă comună care învelește tendoanele abductorului lung și extensorului scurt al policelui.",
+    "atasamente": ["Tendoanele celor doi mușchi"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita De Quervain implică inflamația acestei teci."
+  },
+  "tendon_sheath_of_extensor_digitorum_and_extensor_indicis": {
+    "name": "Teaca sinovială a extensorului degetelor și extensorului indexului",
+    "latin": "Vagina synovialis tendinum musculorum extensoris digitorum et extensoris indicis",
+    "localizare": "Pumn dorsal, compartimentul IV",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendoanele extensorului degetelor și extensorului propriu al indexului.",
+    "atasamente": ["Tendoanele extensorilor degetelor II‑V"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația produce durere dorsală de pumn."
+  },
+  "tendon_sheath_of_extensor_digitorum_longus": {
+    "name": "Teaca sinovială a extensorului lung al degetelor (picior)",
+    "latin": "Vagina synovialis tendinis musculi extensoris digitorum longi",
+    "localizare": "Gleznă anterioară, sub retinaculul extensorilor",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă sinovială care învelește tendoanele extensorului lung al degetelor.",
+    "atasamente": ["Tendonul extensorului lung al degetelor"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita produce durere pe dorsul piciorului."
+  },
+  "tendon_sheath_of_extensors_carpi_radialis": {
+    "name": "Teaca sinovială a extensorilor radiali ai carpului",
+    "latin": "Vagina synovialis tendinum musculorum extensorum carpi radialium",
+    "localizare": "Pumn dorsal, compartimentul II",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendoanele extensorului radial lung și scurt al carpului.",
+    "atasamente": ["Tendoanele ECRL și ECRB"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Poate fi implicată în tenosinovita radială."
+  },
+  "tendon_sheath_of_flexor_digitorum_longus": {
+    "name": "Teaca sinovială a flexorului lung al degetelor (picior)",
+    "latin": "Vagina synovialis tendinis musculi flexoris digitorum longi",
+    "localizare": "Gleznă medială, sub retinaculul flexorilor (canalul tarsian)",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendonul flexorului lung al degetelor.",
+    "atasamente": ["Tendonul FDL"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita poate contribui la sindromul de canal tarsian."
+  },
+  "tendon_sheath_of_flexor_hallucis_longus": {
+    "name": "Teaca sinovială a flexorului lung al halucelui",
+    "latin": "Vagina synovialis tendinis musculi flexoris hallucis longi",
+    "localizare": "Gleznă medială, sub retinaculul flexorilor",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendonul flexorului lung al halucelui, comunicând adesea cu articulația gleznei.",
+    "atasamente": ["Tendonul FHL"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita FHL produce durere posterioară de gleznă."
+  },
+  "tendon_sheath_of_tibialis_anterior": {
+    "name": "Teaca sinovială a tibialului anterior",
+    "latin": "Vagina synovialis tendinis musculi tibialis anterioris",
+    "localizare": "Gleznă anterioară, sub retinaculul extensorilor",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendonul tibialului anterior.",
+    "atasamente": ["Tendonul tibialului anterior"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita produce durere la dorsiflexia piciorului."
+  },
+  "tendon_sheath_of_tibialis_posterior_muscle": {
+    "name": "Teaca sinovială a tibialului posterior",
+    "latin": "Vagina synovialis tendinis musculi tibialis posterioris",
+    "localizare": "Gleznă medială, sub retinaculul flexorilor",
+    "tip": "Teacă sinovială",
+    "descriere": "Teacă care învelește tendonul tibialului posterior, înapoia maleolei mediale.",
+    "atasamente": ["Tendonul tibialului posterior"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Tenosinovita tibialului posterior produce durere medială de gleznă și picior plat."
+  },
+  "trochanteric_bursa_of_gluteus_maximus_muscle": {
+    "name": "Bursa trohanterică a gluteului maxim",
+    "latin": "Bursa trochanterica musculi glutei maximi",
+    "localizare": "Șold lateral, între gluteul maxim și trohanterul mare",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursa cea mai importantă a șoldului, situată între tendonul gluteului maxim și trohanter.",
+    "atasamente": ["Între gluteul maxim și trohanter"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Bursita trohanterică produce durere laterală de șold la decubit lateral."
+  },
+  "trochanteric_bursa_of_gluteus_medius_muscle": {
+    "name": "Bursa trohanterică a gluteului mijlociu",
+    "latin": "Bursa trochanterica musculi glutei medii",
+    "localizare": "Șold lateral, între gluteul mijlociu și trohanter",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund de gluteul mijlociu.",
+    "atasamente": ["Între gluteul mijlociu și trohanter"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Inflamația contribuie la sindromul dureros trohanteric."
+  },
+  "trochanteric_bursa_of_gluteus_minimus_muscle": {
+    "name": "Bursa trohanterică a gluteului mic",
+    "latin": "Bursa trochanterica musculi glutei minimi",
+    "localizare": "Șold lateral, între gluteul mic și trohanter",
+    "tip": "Bursă sinovială",
+    "descriere": "Bursă situată profund, sub gluteul mic.",
+    "atasamente": ["Între gluteul mic și trohanter"],
+    "functie": "Reduce frecarea.",
+    "clinic": "Durerea de bursă a gluteului mic poate mima sciatica."
+  },
+  "frenula_capsulae": {
+    "name": "Frenul capsulei (probabil ligament frenular?)",
+    "latin": "Frenulum capsulae",
+    "localizare": "Necunoscut – posibil referitor la frenul prepuțial sau alt ligament?",
+    "tip": "N/A",
+    "descriere": "Termen ambiguu. Dacă se referă la frenul prepuțial, este un pliu cutanat median pe fața ventrală a penisului.",
+    "atasamente": [],
+    "functie": "",
+    "clinic": ""
+  },
+  "lateral_part_of_longitudinal_arch_of_foot": {
+    "name": "Partea laterală a arcului longitudinal al piciorului",
+    "latin": "Pars lateralis arcus longitudinalis pedis",
+    "localizare": "Picior, formată din calcaneu, cuboid și metatarsienele IV‑V",
+    "tip": "Componentă a arcului plantar",
+    "descriere": "Porțiunea laterală, mai joasă și mai rigidă, a arcului longitudinal, esențială pentru suportul greutății.",
+    "atasamente": ["Calcaneu, cuboid, metatarsienele IV‑V"],
+    "functie": "Suportă greutatea corporală; stabilizează piciorul în ortostatism.",
+    "clinic": "Piciorul plat poate implica prăbușirea acestui arc."
+  }
+}

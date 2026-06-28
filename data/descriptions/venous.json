@@ -1,0 +1,2777 @@
+{
+  "accessory_hemi-azygos_vein": {
+    "name": "Vena hemi-azygos accesorie",
+    "latin": "Vena hemiazygos accessoria",
+    "localizare": "Torace posterior, pe partea stângă a coloanei vertebrale",
+    "tip": "Venă azygos",
+    "descriere": "Drenează venele intercostale stângi superioare și se varsă în vena azygos (direct sau prin hemi-azygos).",
+    "functie": "Colectarea sângelui venos din peretele toracic stâng superior și drenarea în sistemul azygos.",
+    "drenaj": "Venele intercostale stângi 4-8",
+    "varsare": "Vena azygos sau vena hemi-azygos",
+    "afluenti": "Venele intercostale stângi superioare",
+    "relations": [
+      "Se află pe fața anterioară a coloanei vertebrale toracice.",
+      "Anterior: aortă, esofag.",
+      "Posterior: corpurile vertebrale."
+    ],
+    "clinic": "Poate fi lezată în traumatisme toracice. Servește drept colaterală în obstrucția venei cave superioare.",
+    "image": "data/images/venous/accessory_hemi-azygos_vein.png"
+  },
+  "angular_vein": {
+    "name": "Vena angulară",
+    "latin": "Vena angularis",
+    "localizare": "La unghiul intern al orbitei, continuând vena facială",
+    "tip": "Venă superficială a feței",
+    "descriere": "Formată prin unirea venelor supratrohleară și supraorbitală; comunică cu vena oftalmică superioară.",
+    "functie": "Drenează sângele din regiunea frontală și periorbitală spre vena facială.",
+    "drenaj": "Frunte, pleoape, rădăcina nasului",
+    "varsare": "Vena facială",
+    "afluenti": "Venele supratrohleară, supraorbitală",
+    "relations": [
+      "Situată la unghiul medial al ochiului.",
+      "Comunicare importantă cu sinusul cavernos prin vena oftalmică."
+    ],
+    "clinic": "Infecțiile din zona feței („triunghiul periculos”) se pot propaga intracranian prin această venă.",
+    "image": "data/images/venous/angular_vein.png"
+  },
+  "anterior_circumflex_humeral_vein": {
+    "name": "Vena circumflexă humerală anterioară",
+    "latin": "Vena circumflexa humeri anterior",
+    "localizare": "Fața anterioară a articulației umărului",
+    "tip": "Venă profundă a brațului",
+    "descriere": "Însoțește artera omonimă și drenează sângele din mușchii deltoid și articulația umărului.",
+    "functie": "Drenajul venos al umărului anterior.",
+    "drenaj": "Mușchiul deltoid, capsula articulară a umărului",
+    "varsare": "Vena axilară",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Trece pe sub mușchiul deltoid și pectoral mare.",
+      "Este satelită a arterei circumflexe humerale anterioare."
+    ],
+    "clinic": "Poate fi lezată în fracturile de humerus proximal.",
+    "image": "data/images/venous/anterior_circumflex_humeral_vein.png"
+  },
+  "anterior_division_of_retromandibular_vein": {
+    "name": "Ramura anterioară a venei retromandibulare",
+    "latin": "Ramus anterior venae retromandibularis",
+    "localizare": "Regiunea parotidiană, anterior",
+    "tip": "Venă a feței",
+    "descriere": "Se unește cu vena facială pentru a forma vena facială comună.",
+    "functie": "Drenează structurile feței și scalpului, contribuind la formarea trunchiului venos facial comun.",
+    "drenaj": "Pielea feței, mușchii masticatori, glanda parotidă",
+    "varsare": "Vena facială comună",
+    "afluenti": "Vena temporală superficială, vena maxilară",
+    "relations": [
+      "Străbate glanda parotidă.",
+      "Se unește cu vena facială anterioară."
+    ],
+    "clinic": "Poate fi afectată în parotidite sau traumatisme faciale.",
+    "image": "data/images/venous/anterior_division_of_retromandibular_vein.png"
+  },
+  "anterior_inferior_jugular_node": {
+    "name": "Nodul jugular anterior inferior",
+    "latin": "Nodus jugularis anterior inferior",
+    "localizare": "Anterior de vena jugulară internă, la rădăcina gâtului",
+    "tip": "Ganglion limfatic",
+    "descriere": "Face parte din lanțul jugular anterior; primește limfa de la structurile cervicale anterioare.",
+    "functie": "Filtrarea limfei din regiunea cervicală anterioară.",
+    "drenaj": "Gât, laringe, glanda tiroidă",
+    "varsare": "Trunchiul jugular",
+    "afluenti": "Vase limfatice cervicale",
+    "relations": [
+      "Situat lângă vena jugulară internă.",
+      "Aproape de mușchii infrahioidieni."
+    ],
+    "clinic": "Mărirea acestor ganglioni apare în infecții cervicale sau metastaze.",
+    "image": "data/images/venous/anterior_inferior_jugular_node.png"
+  },
+  "anterior_intercavernous_sinus": {
+    "name": "Sinusul intercavernos anterior",
+    "latin": "Sinus intercavernosus anterior",
+    "localizare": "Între sinusurile cavernoase, anterior de hipofiză",
+    "tip": "Sinus venos dural",
+    "descriere": "Conectează cele două sinusuri cavernoase, formând o cale de anastomoză venoasă.",
+    "functie": "Asigură drenajul venos bilateral al structurilor intracraniene.",
+    "drenaj": "Hipofiza, sinusurile cavernoase",
+    "varsare": "Sinusul cavernos",
+    "afluenti": "Vene hipofizare",
+    "relations": [
+      "Trece anterior de glanda hipofiză.",
+      "Este acoperit de diafragma selară."
+    ],
+    "clinic": "Implicat în sindromul de sinus cavernos; poate fi afectat în chirurgia transsfenoidală.",
+    "image": "data/images/venous/anterior_intercavernous_sinus.png"
+  },
+  "anterior_jugular_vein": {
+    "name": "Vena jugulară anterioară",
+    "latin": "Vena jugularis anterior",
+    "localizare": "Partea anterioară a gâtului, superficial",
+    "tip": "Venă superficială a gâtului",
+    "descriere": "Coboară pe fața anterioară a gâtului, drenând în vena jugulară externă sau subclaviculară.",
+    "functie": "Drenează sângele din regiunea submentonieră și cervicală anterioară.",
+    "drenaj": "Regiunea submentonieră, mușchii infrahioidieni",
+    "varsare": "Vena jugulară externă sau vena subclaviculară",
+    "afluenti": "Venele cervicale superficiale",
+    "relations": [
+      "Situată între mușchii sternocleidomastoidian și sternohioidian.",
+      "Are o comunicare transversală (arc venos jugular)."
+    ],
+    "clinic": "Poate fi utilizată pentru acces venos central de urgență.",
+    "image": "data/images/venous/anterior_jugular_vein.png"
+  },
+  "anterior_tibial_veins": {
+    "name": "Venele tibiale anterioare",
+    "latin": "Venae tibiales anteriores",
+    "localizare": "Compartimentul anterior al gambei",
+    "tip": "Vene profunde ale gambei",
+    "descriere": "Însoțesc artera tibială anterioară și drenează sângele din mușchii extensori ai gambei.",
+    "functie": "Drenajul venos profund al gambei anterioare.",
+    "drenaj": "Mușchii tibial anterior, extensor lung al halucelui, extensor lung al degetelor",
+    "varsare": "Vena poplitee",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Se află pe membrana interosoasă.",
+      "Împreună cu artera tibială anterioară și nervul fibular profund."
+    ],
+    "clinic": "Tromboza venelor tibiale poate cauza trombembolism pulmonar.",
+    "image": "data/images/venous/anterior_tibial_veins.png"
+  },
+  "anterior_vein_of_left_lung": {
+    "name": "Vena anterioară a plămânului stâng",
+    "latin": "Vena anterior pulmonis sinistri",
+    "localizare": "Segmentul anterior al lobului superior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul anterior al lobului superior stâng.",
+    "functie": "Drenajul sângelui oxigenat din lobul superior stâng.",
+    "drenaj": "Segmentul anterior al lobului superior stâng",
+    "varsare": "Vena pulmonară superioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară anterioară."
+    ],
+    "clinic": "Importantă în chirurgia toracică, pentru rezecțiile segmentare.",
+    "image": "data/images/venous/anterior_vein_of_left_lung.png"
+  },
+  "anterior_vein_of_right_lung": {
+    "name": "Vena anterioară a plămânului drept",
+    "latin": "Vena anterior pulmonis dextri",
+    "localizare": "Segmentul anterior al lobului superior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul anterior al lobului superior drept.",
+    "functie": "Drenajul sângelui oxigenat din lobul superior drept.",
+    "drenaj": "Segmentul anterior al lobului superior drept",
+    "varsare": "Vena pulmonară superioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar drept.",
+      "Însoțește bronhia segmentară anterioară."
+    ],
+    "clinic": "Implicată în chirurgia de lob superior drept.",
+    "image": "data/images/venous/anterior_vein_of_right_lung.png"
+  },
+  "apical_vein_of_right_lung": {
+    "name": "Vena apicală a plămânului drept",
+    "latin": "Vena apicalis pulmonis dextri",
+    "localizare": "Segmentul apical al lobului superior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din apexul plămânului drept.",
+    "functie": "Drenajul venos al apexului pulmonar drept.",
+    "drenaj": "Segmentul apical al lobului superior drept",
+    "varsare": "Vena pulmonară superioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Se află la vârful plămânului.",
+      "Raport cu artera subclaviculară și plexul brahial."
+    ],
+    "clinic": "Poate fi afectată în tumorile Pancoast (apex pulmonar).",
+    "image": "data/images/venous/apical_vein_of_right_lung.png"
+  },
+  "apicoposterior_vein_of_left_lung": {
+    "name": "Vena apicoposterioară a plămânului stâng",
+    "latin": "Vena apicoposterior pulmonis sinistri",
+    "localizare": "Segmentele apical și posterior ale lobului superior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele din segmentele apical și posterior ale lobului superior stâng.",
+    "functie": "Drenajul venos al regiunii apicoposterioare stângi.",
+    "drenaj": "Segmentele apical și posterior ale lobului superior stâng",
+    "varsare": "Vena pulmonară superioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar stâng.",
+      "Însoțește bronhia apicoposterioară."
+    ],
+    "clinic": "Rezecția acestor segmente impune identificarea venei.",
+    "image": "data/images/venous/apicoposterior_vein_of_left_lung.png"
+  },
+  "axillary_vein": {
+    "name": "Vena axilară",
+    "latin": "Vena axillaris",
+    "localizare": "Regiunea axilară, între marginea inferioară a mușchiului rotund mare și coasta I",
+    "tip": "Venă profundă a brațului",
+    "descriere": "Continuarea venei brahiale; devine vena subclaviculară la marginea coastei I.",
+    "functie": "Drenează sângele membrului superior.",
+    "drenaj": "Membrul superior, peretele toracic lateral",
+    "varsare": "Vena subclaviculară",
+    "afluenti": "Venele cefalică, bazilică, toracică laterală, subscapulară",
+    "relations": [
+      "Însoțește artera axilară și plexul brahial.",
+      "Situată anterior de arteră."
+    ],
+    "clinic": "Utilizată pentru cateterism venos central (abord axilar).",
+    "image": "data/images/venous/axillary_vein.png"
+  },
+  "azygos_vein": {
+    "name": "Vena azygos",
+    "latin": "Vena azygos",
+    "localizare": "Torace posterior, pe partea dreaptă a coloanei vertebrale",
+    "tip": "Venă toracică profundă",
+    "descriere": "Colectează sângele venos din peretele toracic și o parte din organele toracice, vărsându-se în vena cavă superioară.",
+    "functie": "Principalul colector venos al peretelui toracic drept.",
+    "drenaj": "Venele intercostale drepte, vena hemi-azygos, esofag, pericard, diafragm",
+    "varsare": "Vena cavă superioară",
+    "afluenti": "Vena hemi-azygos, vene intercostale drepte, vene esofagiene, pericardice",
+    "relations": [
+      "Urcă pe fața anterioară a coloanei vertebrale.",
+      "Posterior de esofag (dreapta).",
+      "Formează o arcadă deasupra bronhiei principale drepte."
+    ],
+    "clinic": "Importante în sindromul de venă cavă superioară, oferind circulație colaterală.",
+    "image": "data/images/venous/azygos_vein.png"
+  },
+  "basilar_venous_plexus": {
+    "name": "Plexul venos bazilar",
+    "latin": "Plexus basilaris",
+    "localizare": "Pe clivus, la baza craniului",
+    "tip": "Plex venos intracranian",
+    "descriere": "Rețea de vene care conectează sinusurile petroase inferioare și sinusul marginal.",
+    "functie": "Drenajul venos al structurilor de la baza craniului.",
+    "drenaj": "Clivus, dura mater",
+    "varsare": "Sinusurile petroase inferioare, sinusul marginal",
+    "afluenti": "Vene durale",
+    "relations": [
+      "Se află între dura mater și os.",
+      "Posterior de sinusurile cavernoase."
+    ],
+    "clinic": "Poate fi implicat în hemoragii epidurale sau fistule arteriovenoase.",
+    "image": "data/images/venous/basilar_venous_plexus.png"
+  },
+  "basilic_vein": {
+    "name": "Vena bazilică",
+    "latin": "Vena basilica",
+    "localizare": "Fața medială a brațului și antebrațului",
+    "tip": "Venă superficială a membrului superior",
+    "descriere": "Urcă pe partea medială a antebrațului, apoi pe braț, perforând fascia brahială pentru a se uni cu venele brahiale și a forma vena axilară.",
+    "functie": "Drenează sângele din partea medială a membrului superior.",
+    "drenaj": "Antebraț și braț medial",
+    "varsare": "Vena axilară",
+    "afluenti": "Vena mediană cubitală, vene superficiale ale antebrațului",
+    "relations": [
+      "Situată în șanțul bicipital medial.",
+      "Străbate fascia brahială la jumătatea brațului."
+    ],
+    "clinic": "Utilizată frecvent pentru cateterism venos periferic (PICC line).",
+    "image": "data/images/venous/basilic_vein.png"
+  },
+  "brachial_veins": {
+    "name": "Venele brahiale",
+    "latin": "Venae brachiales",
+    "localizare": "Braț, însoțind artera brahială",
+    "tip": "Vene profunde ale brațului",
+    "descriere": "Două vene care însoțesc artera brahială și se unesc pentru a forma vena axilară.",
+    "functie": "Drenajul venos profund al brațului.",
+    "drenaj": "Mușchii brațului, articulația cotului",
+    "varsare": "Vena axilară",
+    "afluenti": "Venele radiale, ulnare, vene musculare",
+    "relations": [
+      "Însoțesc artera brahială, fiind conectate prin numeroase anastomoze.",
+      "Situate în teaca neurovasculară brahială."
+    ],
+    "clinic": "Cateterismul venos profund la braț utilizează aceste vene.",
+    "image": "data/images/venous/brachial_veins.png"
+  },
+  "cavernous_sinus": {
+    "name": "Sinusul cavernos",
+    "latin": "Sinus cavernosus",
+    "localizare": "Lateral de șaua turcească, la baza craniului",
+    "tip": "Sinus venos dural",
+    "descriere": "Spațiu venos complex, străbătut de artera carotidă internă și nervii cranieni III, IV, V1, V2, VI.",
+    "functie": "Drenajul venos al creierului, orbitei, feței.",
+    "drenaj": "Creier, ochi, glanda hipofiză, față",
+    "varsare": "Sinusurile petroase superior și inferior, plexul pterigoidian",
+    "afluenti": "Venele oftalmice, venele cerebrale, sinusul sfenoparietal",
+    "relations": [
+      "Conține artera carotidă internă și nervii cranieni.",
+      "Comunică cu sinusurile petroase și plexul venos facial."
+    ],
+    "clinic": "Tromboza de sinus cavernos produce oftalmoplegie, proptoză, edem palpebral. Fistula carotido-cavernoasă produce exoftalmie pulsantă.",
+    "image": "data/images/venous/cavernous_sinus.png"
+  },
+  "cephalic_vein": {
+    "name": "Vena cefalică",
+    "latin": "Vena cephalica",
+    "localizare": "Fața laterală a brațului și antebrațului",
+    "tip": "Venă superficială a membrului superior",
+    "descriere": "Urcă pe marginea laterală a antebrațului și brațului, trecând în șanțul deltopectoral și perforând fascia clavipectorală pentru a se vărsa în vena axilară.",
+    "functie": "Drenează sângele din partea laterală a membrului superior.",
+    "drenaj": "Antebraț și braț lateral",
+    "varsare": "Vena axilară",
+    "afluenti": "Venele superficiale ale antebrațului",
+    "relations": [
+      "Situată în șanțul deltopectoral.",
+      "Perforează fascia clavipectorală sub claviculă."
+    ],
+    "clinic": "Utilizată frecvent pentru cateterism venos central (abord cefalic).",
+    "image": "data/images/venous/cephalic_vein.png"
+  },
+  "circumflex_scapular_vein": {
+    "name": "Vena circumflexă scapulară",
+    "latin": "Vena circumflexa scapulae",
+    "localizare": "Regiunea scapulară posterioară",
+    "tip": "Venă profundă a umărului",
+    "descriere": "Însoțește artera circumflexă scapulară și drenează mușchii din jurul scapulei.",
+    "functie": "Drenajul venos al regiunii scapulare.",
+    "drenaj": "Mușchii infraspinos, subscapular, rotund mic",
+    "varsare": "Vena subscapulară sau axilară",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Trece prin spațiul triunghiular (dintre rotund mare, rotund mic și capul lung al tricepsului)."
+    ],
+    "clinic": "Poate fi utilizată ca grefă în chirurgia reconstructivă a capului și gâtului.",
+    "image": "data/images/venous/circumflex_scapular_vein.png"
+  },
+  "common_facial_vein": {
+    "name": "Vena facială comună",
+    "latin": "Vena facialis communis",
+    "localizare": "Gât, sub unghiul mandibulei",
+    "tip": "Venă a feței și gâtului",
+    "descriere": "Formată prin unirea venei faciale cu ramura anterioară a venei retromandibulare; se varsă în vena jugulară internă.",
+    "functie": "Drenajul venos al feței și gâtului superior.",
+    "drenaj": "Față, palat moale, glandă submandibulară",
+    "varsare": "Vena jugulară internă",
+    "afluenti": "Vena facială, ramura anterioară a venei retromandibulare",
+    "relations": [
+      "Situată sub unghiul mandibulei.",
+      "Trece peste glanda submandibulară."
+    ],
+    "clinic": "Poate fi ligaturată în abordurile chirurgicale cervicale.",
+    "image": "data/images/venous/common_facial_vein.png"
+  },
+  "common_iliac_vein": {
+    "name": "Vena iliacă comună",
+    "latin": "Vena iliaca communis",
+    "localizare": "Pelvis, anterior de articulația sacroiliacă",
+    "tip": "Venă pelvină profundă",
+    "descriere": "Formată prin unirea venelor iliace externă și internă; se unește cu vena iliacă comună contralaterală pentru a forma vena cavă inferioară.",
+    "functie": "Colectează sângele din pelvis și membrele inferioare.",
+    "drenaj": "Pelvis, membre inferioare",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Venele iliacă externă, iliacă internă, iliolombară",
+    "relations": [
+      "Situată anterior de articulația sacroiliacă.",
+      "Dreapta: posterior de artera iliacă comună.",
+      "Stânga: medial de artera iliacă comună."
+    ],
+    "clinic": "Compresia venei iliace stângi de către artera iliacă dreaptă (sindromul May-Thurner) crește riscul de tromboză venoasă profundă.",
+    "image": "data/images/venous/common_iliac_vein.png"
+  },
+  "coronary_sinus": {
+    "name": "Sinusul coronar",
+    "latin": "Sinus coronarius",
+    "localizare": "Șanțul coronar, posterior, pe fața diafragmatică a inimii",
+    "tip": "Venă cardiacă",
+    "descriere": "Principalul colector venos al inimii; se varsă în atriul drept, între vena cavă inferioară și valva tricuspidă.",
+    "functie": "Drenajul sângelui venos din miocard.",
+    "drenaj": "Miocardul ventricular și atrial",
+    "varsare": "Atriul drept",
+    "afluenti": "Vena cardiacă mare, vena cardiacă mijlocie, vena cardiacă mică, vena posterioară a ventriculului stâng",
+    "relations": [
+      "Situat în șanțul coronar posterior.",
+      "Acoperit de miocard și pericard."
+    ],
+    "clinic": "Utilizat pentru inserția electrozilor de pacing cardiac (stimulatoare).",
+    "image": "data/images/venous/coronary_sinus.png"
+  },
+  "deep_dorsal_vein_of_penis": {
+    "name": "Vena dorsală profundă a penisului",
+    "latin": "Vena dorsalis profunda penis",
+    "localizare": "Pe fața dorsală a penisului, sub fascia Buck",
+    "tip": "Venă profundă genitală",
+    "descriere": "Drenează sângele din corpurile cavernoase și spongioase, vărsându-se în plexul venos periprostatic.",
+    "functie": "Drenajul venos al penisului.",
+    "drenaj": "Corpurile cavernoase, corpul spongios",
+    "varsare": "Plexul venos periprostatic (vena pudendală internă)",
+    "afluenti": "Venele circumflexe ale penisului",
+    "relations": [
+      "Situată sub fascia Buck.",
+      "Este nepereche, pe linia mediană."
+    ],
+    "clinic": "Tromboza acestei vene poate produce priapism non-ischemic.",
+    "image": "data/images/venous/deep_dorsal_vein_of_penis.png"
+  },
+  "deep_femoral_vein": {
+    "name": "Vena femurală profundă",
+    "latin": "Vena profunda femoris",
+    "localizare": "Coapsă, profund de mușchii adductori",
+    "tip": "Venă profundă a coapsei",
+    "descriere": "Însoțește artera femurală profundă și drenează sângele din compartimentul posterior al coapsei.",
+    "functie": "Drenajul venos profund al coapsei.",
+    "drenaj": "Mușchii adductori, ischiogambieri",
+    "varsare": "Vena femurală",
+    "afluenti": "Venele perforante, venele circumflexe femurale",
+    "relations": [
+      "Se află profund de mușchii adductori.",
+      "Satelită a arterei femurale profunde."
+    ],
+    "clinic": "Tromboza venoasă profundă la acest nivel poate fi sursă de embolie pulmonară.",
+    "image": "data/images/venous/deep_femoral_vein.png"
+  },
+  "deep_venous_palmar_arch": {
+    "name": "Arcul venos palmar profund",
+    "latin": "Arcus venosus palmaris profundus",
+    "localizare": "Palmă, profund, sub tendoanele flexorilor",
+    "tip": "Venă a mâinii",
+    "descriere": "Rețea venoasă profundă care drenează sângele din regiunea palmară profundă.",
+    "functie": "Drenajul venos profund al mâinii.",
+    "drenaj": "Mușchii interosoși, oasele metacarpiene",
+    "varsare": "Venele radiale și ulnare",
+    "afluenti": "Venele metacarpiene palmare",
+    "relations": [
+      "Situat sub tendoanele flexorilor.",
+      "Însoțește arcul arterial palmar profund."
+    ],
+    "clinic": "Leziunile penetrante ale palmei pot afecta acest arc venos.",
+    "image": "data/images/venous/deep_venous_palmar_arch.png"
+  },
+  "dorsal_digital_veins_of_foot": {
+    "name": "Venele digitale dorsale ale piciorului",
+    "latin": "Venae digitales dorsales pedis",
+    "localizare": "Dorsul degetelor piciorului",
+    "tip": "Vene superficiale ale piciorului",
+    "descriere": "Drenează sângele din degetele piciorului și se varsă în arcul venos dorsal al piciorului.",
+    "functie": "Drenajul venos superficial al degetelor piciorului.",
+    "drenaj": "Degetele piciorului",
+    "varsare": "Arcul venos dorsal al piciorului",
+    "afluenti": "Vene intercapitulare",
+    "relations": [
+      "Situate pe fața dorsală a degetelor.",
+      "Formează o rețea anastomotică."
+    ],
+    "clinic": "Pot fi utilizate pentru abord venos periferic la sugar.",
+    "image": "data/images/venous/dorsal_digital_veins_of_foot.png"
+  },
+  "dorsal_digital_veins_of_hand": {
+    "name": "Venele digitale dorsale ale mâinii",
+    "latin": "Venae digitales dorsales manus",
+    "localizare": "Dorsul degetelor mâinii",
+    "tip": "Vene superficiale ale mâinii",
+    "descriere": "Drenează sângele din degete și se varsă în rețeaua venoasă dorsală a mâinii.",
+    "functie": "Drenajul venos superficial al degetelor.",
+    "drenaj": "Degetele mâinii",
+    "varsare": "Rețeaua venoasă dorsală a mâinii",
+    "afluenti": "Vene intercapitulare",
+    "relations": [
+      "Așezate pe fața dorsală a degetelor.",
+      "Anastomoze cu venele palmare."
+    ],
+    "clinic": "Vizibile clinic, utile pentru abord venos periferic.",
+    "image": "data/images/venous/dorsal_digital_veins_of_hand.png"
+  },
+  "dorsal_metatarsal_veins": {
+    "name": "Venele metatarsiene dorsale",
+    "latin": "Venae metatarsales dorsales",
+    "localizare": "Dorsul piciorului, între oasele metatarsiene",
+    "tip": "Vene superficiale ale piciorului",
+    "descriere": "Drenează sângele din antepicior și se varsă în arcul venos dorsal.",
+    "functie": "Drenajul venos al antepiciorului.",
+    "drenaj": "Antepiciorul",
+    "varsare": "Arcul venos dorsal al piciorului",
+    "afluenti": "Venele digitale dorsale",
+    "relations": [
+      "Situate între oasele metatarsiene.",
+      "Anastomoze cu venele plantare."
+    ],
+    "clinic": "Lezarea lor produce echimoze dorsale la traumatisme.",
+    "image": "data/images/venous/dorsal_metatarsal_veins.png"
+  },
+  "dorsal_venous_arch_of_foot": {
+    "name": "Arcul venos dorsal al piciorului",
+    "latin": "Arcus venosus dorsalis pedis",
+    "localizare": "Dorsul piciorului, la baza degetelor",
+    "tip": "Venă superficială a piciorului",
+    "descriere": "Colectează sângele din degete și antepicior, drenând în venele safenă mare (medial) și mică (lateral).",
+    "functie": "Drenajul venos superficial al piciorului.",
+    "drenaj": "Degetele, antepiciorul",
+    "varsare": "Vena safenă mare, vena safenă mică",
+    "afluenti": "Venele digitale dorsale, vene metatarsiene dorsale",
+    "relations": [
+      "Situat pe fața dorsală a piciorului.",
+      "Este vizibil la persoanele slabe."
+    ],
+    "clinic": "Flebita la acest nivel poate semnala insuficiență venoasă cronică.",
+    "image": "data/images/venous/dorsal_venous_arch_of_foot.png"
+  },
+  "dorsal_venous_network_of_hand": {
+    "name": "Rețeaua venoasă dorsală a mâinii",
+    "latin": "Rete venosum dorsale manus",
+    "localizare": "Dorsul mâinii, la nivelul metacarpienilor",
+    "tip": "Venă superficială a mâinii",
+    "descriere": "Rețea venoasă superficială care drenează degetele și mâna, formând originea venelor cefalică și bazilică.",
+    "functie": "Drenajul venos superficial al mâinii.",
+    "drenaj": "Mâna, degetele",
+    "varsare": "Vena cefalică, vena bazilică",
+    "afluenti": "Venele digitale dorsale, vene metacarpiene dorsale",
+    "relations": [
+      "Situată sub piele, pe aponevroza dorsală.",
+      "Ușor vizibilă."
+    ],
+    "clinic": "Utilizată pentru abord venos periferic.",
+    "image": "data/images/venous/dorsal_venous_network_of_hand.png"
+  },
+  "external_iliac_vein": {
+    "name": "Vena iliacă externă",
+    "latin": "Vena iliaca externa",
+    "localizare": "Pelvis, de-a lungul arterei iliace externe, proximal de ligamentul inghinal",
+    "tip": "Venă pelvină profundă",
+    "descriere": "Continuarea venei femurale după ce trece pe sub ligamentul inghinal; se unește cu vena iliacă internă pentru a forma vena iliacă comună.",
+    "functie": "Drenajul membrului inferior.",
+    "drenaj": "Membrul inferior, peretele abdominal inferior",
+    "varsare": "Vena iliacă comună",
+    "afluenti": "Vena femurală, venele epigastrică inferioară, circumflexă iliacă profundă",
+    "relations": [
+      "Trece posterior de ligamentul inghinal.",
+      "Stânga: medial de artera iliacă externă.",
+      "Dreapta: inițial medial, apoi posterior de arteră."
+    ],
+    "clinic": "Punct important de reper în chirurgia vasculară pelvină.",
+    "image": "data/images/venous/external_iliac_vein.png"
+  },
+  "external_jugular_vein": {
+    "name": "Vena jugulară externă",
+    "latin": "Vena jugularis externa",
+    "localizare": "Gât, superficial, pe mușchiul sternocleidomastoidian",
+    "tip": "Venă superficială a gâtului",
+    "descriere": "Formată prin unirea venei auriculare posterioare cu ramura posterioară a venei retromandibulare; se varsă în vena subclaviculară.",
+    "functie": "Drenajul venos superficial al feței și gâtului.",
+    "drenaj": "Scalp, față laterală, gât",
+    "varsare": "Vena subclaviculară",
+    "afluenti": "Vena auriculară posterioară, ramura posterioară a retromandibularei, vene cervicale superficiale",
+    "relations": [
+      "Coboară pe mușchiul sternocleidomastoidian.",
+      "Perforează fascia cervicală pentru a se vărsa în subclaviculară."
+    ],
+    "clinic": "Vizibilă la examinarea gâtului; presiunea venoasă jugulară se evaluează pe jugulara internă, dar și externa oferă indicii.",
+    "image": "data/images/venous/external_jugular_vein.png"
+  },
+  "external_pudendal_veins": {
+    "name": "Venele pudendale externe",
+    "latin": "Venae pudendae externae",
+    "localizare": "Regiunea pubiană, superficial",
+    "tip": "Vene superficiale genitale",
+    "descriere": "Drenează sângele din organele genitale externe și pielea pubiană, vărsându-se în vena safenă mare.",
+    "functie": "Drenajul venos al organelor genitale externe.",
+    "drenaj": "Scrot/labia mare, pielea pubiană",
+    "varsare": "Vena safenă mare",
+    "afluenti": "Vene scrotale/labiale anterioare",
+    "relations": [
+      "Situate superficial, în țesutul subcutanat pubian.",
+      "Tributare ale safenei mari."
+    ],
+    "clinic": "Varicele pot afecta această regiune (varicocel la bărbați pe altă cale).",
+    "image": "data/images/venous/external_pudendal_veins.png"
+  },
+  "facial_vein": {
+    "name": "Vena facială",
+    "latin": "Vena facialis",
+    "localizare": "Față, de la unghiul intern al ochiului la gât",
+    "tip": "Venă superficială a feței",
+    "descriere": "Drenează sângele din regiunea frontală, nazală, bucală și mentală; se unește cu ramura anterioară a venei retromandibulare pentru a forma vena facială comună.",
+    "functie": "Drenajul venos superficial al feței.",
+    "drenaj": "Frunte, nas, buze, bărbie",
+    "varsare": "Vena facială comună",
+    "afluenti": "Vena angulară, venă labială, venă submentonieră",
+    "relations": [
+      "Coboară pe lângă nas și comisura bucală.",
+      "Comunică cu sinusul cavernos prin vena oftalmică."
+    ],
+    "clinic": "Infecțiile feței (furuncule) se pot propaga intracranian prin această cale („triunghiul morții”).",
+    "image": "data/images/venous/facial_vein.png"
+  },
+  "femoral_vein": {
+    "name": "Vena femurală",
+    "latin": "Vena femoralis",
+    "localizare": "Coapsă, în triunghiul femural și canalul adductorilor",
+    "tip": "Venă profundă a membrului inferior",
+    "descriere": "Continuarea venei poplitee; devine venă iliacă externă la ligamentul inghinal.",
+    "functie": "Drenajul venos principal al membrului inferior.",
+    "drenaj": "Gamba, coapsa",
+    "varsare": "Vena iliacă externă",
+    "afluenti": "Vena femurală profundă, vena safenă mare, vene circumflexe femurale",
+    "relations": [
+      "Situată în teaca femurală, medial de artera femurală.",
+      "Este cea mai accesibilă venă profundă pentru cateterism."
+    ],
+    "clinic": "Locul cel mai frecvent al trombozei venoase profunde (TVP) și al puncției venoase centrale de urgență.",
+    "image": "data/images/venous/femoral_vein.png"
+  },
+  "fibular_veins": {
+    "name": "Venele fibulare (peroniere)",
+    "latin": "Venae fibulares",
+    "localizare": "Compartimentul lateral al gambei, însoțind artera fibulară",
+    "tip": "Vene profunde ale gambei",
+    "descriere": "Drenează sângele din mușchii fibulari și se varsă în venele tibiale posterioare.",
+    "functie": "Drenajul venos profund lateral al gambei.",
+    "drenaj": "Mușchii peronieri, compartimentul lateral al gambei",
+    "varsare": "Venele tibiale posterioare",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Însoțesc artera fibulară.",
+      "Situate pe membrana interosoasă."
+    ],
+    "clinic": "Pot fi afectate în sindromul de compartiment.",
+    "image": "data/images/venous/fibular_veins.png"
+  },
+  "genicular_veins": {
+    "name": "Venele geniculare",
+    "latin": "Venae geniculares",
+    "localizare": "Articulația genunchiului",
+    "tip": "Vene profunde ale genunchiului",
+    "descriere": "Drenează sângele din articulația genunchiului și structurile adiacente, vărsându-se în vena poplitee.",
+    "functie": "Drenajul venos al articulației genunchiului.",
+    "drenaj": "Capsula articulară, meniscuri, ligamente",
+    "varsare": "Vena poplitee",
+    "afluenti": "Vene articulare",
+    "relations": [
+      "Însoțesc arterele geniculare.",
+      "Formează o rețea în jurul genunchiului."
+    ],
+    "clinic": "Revărsatul articular poate comprima aceste vene.",
+    "image": "data/images/venous/genicular_veins.png"
+  },
+  "great_cardiac_vein": {
+    "name": "Vena cardiacă mare",
+    "latin": "Vena cardiaca magna",
+    "localizare": "Șanțul interventricular anterior, apoi șanțul coronar stâng",
+    "tip": "Venă cardiacă",
+    "descriere": "Începe la apexul inimii, urcă în șanțul interventricular anterior și se varsă în sinusul coronar.",
+    "functie": "Drenajul venos al ventriculului stâng și al septului interventricular anterior.",
+    "drenaj": "Ventriculul stâng, septul interventricular anterior",
+    "varsare": "Sinusul coronar",
+    "afluenti": "Vena marginală stângă, venele ventriculare",
+    "relations": [
+      "Însoțește ramura interventriculară anterioară a arterei coronare stângi.",
+      "Este acoperită de epicard."
+    ],
+    "clinic": "Utilizată pentru inserția electrozilor de resincronizare cardiacă.",
+    "image": "data/images/venous/great_cardiac_vein.png"
+  },
+  "great_saphenous_vein": {
+    "name": "Vena safenă mare",
+    "latin": "Vena saphena magna",
+    "localizare": "Fața medială a membrului inferior, de la picior până în triunghiul femural",
+    "tip": "Venă superficială a membrului inferior",
+    "descriere": "Cea mai lungă venă a corpului; începe pe marginea medială a piciorului, urcă pe gambă și coapsă și se varsă în vena femurală la nivelul triunghiului femural.",
+    "functie": "Drenajul venos superficial al membrului inferior.",
+    "drenaj": "Picior, gambă, coapsă medială",
+    "varsare": "Vena femurală",
+    "afluenti": "Venele safenă accesorie, pudendale externe, epigastrică superficială, circumflexă iliacă superficială",
+    "relations": [
+      "Situată în țesutul subcutanat.",
+      "Are o teacă fibroasă proprie."
+    ],
+    "clinic": "Frecvent utilizată ca grefă vasculară (bypass coronarian). Varicele safenei mari necesită stripping sau laser.",
+    "image": "data/images/venous/great_saphenous_vein.png"
+  },
+  "hemi-azygos_vein": {
+    "name": "Vena hemi-azygos",
+    "latin": "Vena hemiazygos",
+    "localizare": "Torace posterior, pe partea stângă a coloanei vertebrale",
+    "tip": "Venă toracică profundă",
+    "descriere": "Colectează sângele din venele intercostale stângi inferioare și se varsă în vena azygos.",
+    "functie": "Drenajul peretelui toracic stâng inferior.",
+    "drenaj": "Venele intercostale stângi 9-11",
+    "varsare": "Vena azygos",
+    "afluenti": "Vene intercostale stângi inferioare, vene esofagiene",
+    "relations": [
+      "Urcă pe partea stângă a coloanei vertebrale.",
+      "Posterior de aortă."
+    ],
+    "clinic": "Poate fi utilizată ca grefă venoasă.",
+    "image": "data/images/venous/hemi-azygos_vein.png"
+  },
+  "hepatic_portal_vein": {
+    "name": "Vena portă hepatică",
+    "latin": "Vena portae hepatis",
+    "localizare": "Abdomen, posterior de pancreas, intrând în hilul hepatic",
+    "tip": "Venă viscerală",
+    "descriere": "Formată prin unirea venelor mezenterică superioară și splenică; transportă sângele venos de la organele digestive la ficat.",
+    "functie": "Transportul nutrienților și toxinelor absorbite la ficat pentru metabolizare.",
+    "drenaj": "Tractul digestiv abdominal, splină, pancreas",
+    "varsare": "Sinusoidele hepatice (ficat)",
+    "afluenti": "Vena mezenterică superioară, vena splenică, vena mezenterică inferioară, vene gastrice",
+    "relations": [
+      "Posterior de capul pancreasului.",
+      "Anterior de vena cavă inferioară."
+    ],
+    "clinic": "Hipertensiunea portală produce varice esofagiene, ascită, splenomegalie.",
+    "image": "data/images/venous/hepatic_portal_vein.png"
+  },
+  "hepatic_veins": {
+    "name": "Venele hepatice",
+    "latin": "Venae hepaticae",
+    "localizare": "Ficat, drenând în vena cavă inferioară",
+    "tip": "Vene viscerale",
+    "descriere": "Trei vene mari (dreaptă, mijlocie, stângă) care colectează sângele venos din ficat și se varsă în vena cavă inferioară imediat sub diafragm.",
+    "functie": "Drenajul sângelui venos hepatic.",
+    "drenaj": "Ficatul (segmentele hepatice)",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Venele segmentare hepatice",
+    "relations": [
+      "Situate în interiorul ficatului.",
+      "Venele hepatice dreaptă și stângă au traiect intersegmentar."
+    ],
+    "clinic": "Tromboza venelor hepatice (sindromul Budd-Chiari) produce hepatomegalie dureroasă și ascită.",
+    "image": "data/images/venous/hepatic_veins.png"
+  },
+  "iliolumbar_vein": {
+    "name": "Vena iliolombară",
+    "latin": "Vena iliolumbalis",
+    "localizare": "Regiunea lombară și iliacă",
+    "tip": "Venă pelvină",
+    "descriere": "Drenează mușchii și oasele din regiunea iliacă și lombară; se varsă în vena iliacă comună.",
+    "functie": "Drenajul venos al peretelui pelvin și lombar.",
+    "drenaj": "Mușchiul iliopsoas, vertebrele lombare",
+    "varsare": "Vena iliacă comună (sau vena iliacă internă)",
+    "afluenti": "Ramuri musculare și osoase",
+    "relations": [
+      "Însoțește artera omonimă.",
+      "Situată profund, pe peretele pelvin."
+    ],
+    "clinic": "Poate fi lezată în chirurgia coloanei lombare.",
+    "image": "data/images/venous/iliolumbar_vein.png"
+  },
+  "inferior_basal_vein_of_left_lung": {
+    "name": "Vena bazală inferioară a plămânului stâng",
+    "latin": "Vena basalis inferior pulmonis sinistri",
+    "localizare": "Segmentul bazal inferior al lobului inferior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul bazal inferior stâng.",
+    "functie": "Drenajul venos al segmentului bazal inferior stâng.",
+    "drenaj": "Segmentul bazal inferior al lobului inferior stâng",
+    "varsare": "Vena pulmonară inferioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Importantă în rezecțiile lobului inferior stâng.",
+    "image": "data/images/venous/inferior_basal_vein_of_left_lung.png"
+  },
+  "inferior_basal_vein_of_right_lung": {
+    "name": "Vena bazală inferioară a plămânului drept",
+    "latin": "Vena basalis inferior pulmonis dextri",
+    "localizare": "Segmentul bazal inferior al lobului inferior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul bazal inferior drept.",
+    "functie": "Drenajul venos al segmentului bazal inferior drept.",
+    "drenaj": "Segmentul bazal inferior al lobului inferior drept",
+    "varsare": "Vena pulmonară inferioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Importantă în rezecțiile lobului inferior drept.",
+    "image": "data/images/venous/inferior_basal_vein_of_right_lung.png"
+  },
+  "inferior_epigastric_vein": {
+    "name": "Vena epigastrică inferioară",
+    "latin": "Vena epigastrica inferior",
+    "localizare": "Peretele abdominal anterior, profund",
+    "tip": "Venă profundă a peretelui abdominal",
+    "descriere": "Drenează mușchii abdominali inferiori și se varsă în vena iliacă externă.",
+    "functie": "Drenajul venos al peretelui abdominal inferior.",
+    "drenaj": "Mușchii abdominali inferiori",
+    "varsare": "Vena iliacă externă",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Urcă în teaca mușchiului drept abdominal.",
+      "Anastomozează cu vena epigastrică superioară."
+    ],
+    "clinic": "Importantă în circulația colaterală cavo-cavă.",
+    "image": "data/images/venous/inferior_epigastric_vein.png"
+  },
+  "inferior_gluteal_veins": {
+    "name": "Venele gluteale inferioare",
+    "latin": "Venae gluteae inferiores",
+    "localizare": "Regiunea fesieră, profund",
+    "tip": "Vene profunde ale fesei",
+    "descriere": "Drenează mușchii fesieri și articulația șoldului, vărsându-se în vena iliacă internă.",
+    "functie": "Drenajul venos al regiunii gluteale.",
+    "drenaj": "Mușchiul gluteu maxim, articulația șoldului",
+    "varsare": "Vena iliacă internă",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Însoțesc artera gluteală inferioară.",
+      "Ies din pelvis prin foramenul infrapiriform."
+    ],
+    "clinic": "Lezarea lor produce hemoragie în chirurgia fesieră.",
+    "image": "data/images/venous/inferior_gluteal_veins.png"
+  },
+  "inferior_labial_veins": {
+    "name": "Venele labiale inferioare",
+    "latin": "Venae labiales inferiores",
+    "localizare": "Buza inferioară",
+    "tip": "Vene superficiale faciale",
+    "descriere": "Drenează sângele din buza inferioară și se varsă în vena facială.",
+    "functie": "Drenajul venos al buzei inferioare.",
+    "drenaj": "Buza inferioară",
+    "varsare": "Vena facială",
+    "afluenti": "Ramuri labiale",
+    "relations": [
+      "Situate în submucoasa buzei.",
+      "Comunică cu venele mentoniere."
+    ],
+    "clinic": "Leziunile buzei inferioare pot afecta aceste vene.",
+    "image": "data/images/venous/inferior_labial_veins.png"
+  },
+  "inferior_lingular_vein_of_left_lung": {
+    "name": "Vena lingulară inferioară a plămânului stâng",
+    "latin": "Vena lingularis inferior pulmonis sinistri",
+    "localizare": "Segmentul lingular inferior al lobului superior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul lingular inferior stâng.",
+    "functie": "Drenajul venos al lingulei.",
+    "drenaj": "Segmentul lingular inferior",
+    "varsare": "Vena pulmonară superioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar stâng.",
+      "Însoțește bronhia lingulară."
+    ],
+    "clinic": "Importantă în rezecțiile segmentare ale lingulei.",
+    "image": "data/images/venous/inferior_lingular_vein_of_left_lung.png"
+  },
+  "inferior_mesenteric_vein": {
+    "name": "Vena mezenterică inferioară",
+    "latin": "Vena mesenterica inferior",
+    "localizare": "Abdomen, pe fața posterioară a mezocolonului",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din colonul stâng și rect, vărsându-se în vena splenică sau vena mezenterică superioară.",
+    "functie": "Drenajul venos al intestinului gros stâng.",
+    "drenaj": "Colonul descendent, colonul sigmoid, rectul superior",
+    "varsare": "Vena splenică (sau vena mezenterică superioară)",
+    "afluenti": "Venele colice stângi, sigmoidiene, rectale superioare",
+    "relations": [
+      "Urcă retroperitoneal.",
+      "Posterior de pancreas."
+    ],
+    "clinic": "Hipertensiunea portală determină dilatarea acestei vene și a afluenților (hemoroizi interni).",
+    "image": "data/images/venous/inferior_mesenteric_vein.png"
+  },
+  "inferior_ophthalmic_vein": {
+    "name": "Vena oftalmică inferioară",
+    "latin": "Vena ophthalmica inferior",
+    "localizare": "Orbită, pe planșeul orbitei",
+    "tip": "Venă a orbitei",
+    "descriere": "Drenează sângele din pleoapa inferioară, mușchii orbitali și sinusurile paranazale; comunică cu plexul pterigoidian și sinusul cavernos.",
+    "functie": "Drenajul venos al orbitei inferioare și mijlocii.",
+    "drenaj": "Pleoapa inferioară, mușchii oblic inferior, sinusul maxilar",
+    "varsare": "Sinusul cavernos sau vena oftalmică superioară",
+    "afluenti": "Vene ciliare, vene musculare",
+    "relations": [
+      "Se află pe planșeul orbitei.",
+      "Comunică cu plexul pterigoidian."
+    ],
+    "clinic": "Infecțiile dentare se pot propaga la sinusul cavernos prin această venă.",
+    "image": "data/images/venous/inferior_ophthalmic_vein.png"
+  },
+  "inferior_petrosal_sinus": {
+    "name": "Sinusul petros inferior",
+    "latin": "Sinus petrosus inferior",
+    "localizare": "Șanțul petros inferior, la baza craniului",
+    "tip": "Sinus venos dural",
+    "descriere": "Drenează sinusul cavernos în vena jugulară internă.",
+    "functie": "Drenajul venos al sinusului cavernos.",
+    "drenaj": "Sinusul cavernos",
+    "varsare": "Vena jugulară internă",
+    "afluenti": "Vene pontine, vene labirintice",
+    "relations": [
+      "Situat pe marginea superioară a stâncii temporalului.",
+      "Se varsă în bulboul superior al jugularei interne."
+    ],
+    "clinic": "Tromboza acestui sinus poate produce paralizia nervilor cranieni VI și VII.",
+    "image": "data/images/venous/inferior_petrosal_sinus.png"
+  },
+  "inferior_sagittal_sinus": {
+    "name": "Sinusul sagital inferior",
+    "latin": "Sinus sagittalis inferior",
+    "localizare": "Marginea liberă a coasei creierului, deasupra corpului calos",
+    "tip": "Sinus venos dural",
+    "descriere": "Colectează sângele din emisferele cerebrale și se unește cu vena cerebrală mare pentru a forma sinusul drept.",
+    "functie": "Drenajul venos profund al creierului.",
+    "drenaj": "Emisferele cerebrale, corpul calos",
+    "varsare": "Sinusul drept",
+    "afluenti": "Vene cerebrale mediale",
+    "relations": [
+      "Situat pe marginea inferioară a coasei creierului.",
+      "Superior de corpul calos."
+    ],
+    "clinic": "Lezarea sa poate produce hemoragie subdurală.",
+    "image": "data/images/venous/inferior_sagittal_sinus.png"
+  },
+  "inferior_vein_of_left_ventricle": {
+    "name": "Vena inferioară a ventriculului stâng",
+    "latin": "Vena inferior ventriculi sinistri",
+    "localizare": "Fața diafragmatică a ventriculului stâng",
+    "tip": "Venă cardiacă",
+    "descriere": "Drenează sângele din peretele posterior al ventriculului stâng și se varsă în sinusul coronar.",
+    "functie": "Drenajul venos al ventriculului stâng posterior.",
+    "drenaj": "Ventriculul stâng (fața diafragmatică)",
+    "varsare": "Sinusul coronar",
+    "afluenti": "Vene ventriculare",
+    "relations": [
+      "Situată pe fața diafragmatică a inimii.",
+      "Acoperită de epicard."
+    ],
+    "clinic": "Poate fi utilizată ca abord pentru terapii de resincronizare.",
+    "image": "data/images/venous/inferior_vein_of_left_ventricle.png"
+  },
+  "inferior_vein_of_left_ventricle_posterior": { 
+    "name": "Vena posterioară a ventriculului stâng",
+    "latin": "Vena posterior ventriculi sinistri",
+    "localizare": "Fața diafragmatică a ventriculului stâng, posterior",
+    "tip": "Venă cardiacă",
+    "descriere": "Drenează peretele posterior al ventriculului stâng, vărsându-se în sinusul coronar.",
+    "functie": "Drenajul venos posterior al ventriculului stâng.",
+    "drenaj": "Ventriculul stâng posterior",
+    "varsare": "Sinusul coronar",
+    "afluenti": "Vene ventriculare",
+    "relations": [
+      "Situată pe fața diafragmatică.",
+      "Variabilă."
+    ],
+    "clinic": "Reper în electrofiziologie cardiacă.",
+    "image": "data/images/venous/inferior_vein_of_left_ventricle_posterior.png"
+  },
+  "inferior_vena_cava_abdominal_part": {
+    "name": "Vena cavă inferioară (porțiune abdominală)",
+    "latin": "Vena cava inferior (pars abdominalis)",
+    "localizare": "Abdomen, pe peretele posterior, dreapta de aortă",
+    "tip": "Venă cavă",
+    "descriere": "Partea abdominală a venei cave inferioare se întinde de la confluența venelor iliace comune până la orificiul diafragmatic.",
+    "functie": "Transportă sângele din jumătatea inferioară a corpului la inimă.",
+    "drenaj": "Membrele inferioare, pelvis, abdomen",
+    "varsare": "Atriul drept (prin orificiul diafragmatic)",
+    "afluenti": "Venele hepatice, renale, gonadale, lombare",
+    "relations": [
+      "Dreapta de aortă.",
+      "Posterior de ficat.",
+      "Anterior de coloana vertebrală."
+    ],
+    "clinic": "Compresia tumorilor abdominali poate duce la sindrom de venă cavă inferioară.",
+    "image": "data/images/venous/inferior_vena_cava_abdominal_part.png"
+  },
+  "inferior_vena_cava_thoracic_part": {
+    "name": "Vena cavă inferioară (porțiune toracică)",
+    "latin": "Vena cava inferior (pars thoracica)",
+    "localizare": "Torace, străbate diafragma și se varsă în atriul drept",
+    "tip": "Venă cavă",
+    "descriere": "Porțiunea scurtă intratoracică a venei cave inferioare, care se termină în atriul drept.",
+    "functie": "Conduce sângele din porțiunea abdominală în inimă.",
+    "drenaj": "Vena cavă inferioară abdominală",
+    "varsare": "Atriul drept",
+    "afluenti": "Nu are afluenți majori în torace",
+    "relations": [
+      "Străbate centrul diafragmei.",
+      "Este intrapericardică."
+    ],
+    "clinic": "Lezarea sa este rară, dar catastrofală în traumatisme toracice.",
+    "image": "data/images/venous/inferior_vena_cava_thoracic_part.png"
+  },
+  "intercapitular_veins_of_foot": {
+    "name": "Venele intercapitulare ale piciorului",
+    "latin": "Venae intercapitulares pedis",
+    "localizare": "Spațiile interdigitale ale piciorului",
+    "tip": "Vene superficiale",
+    "descriere": "Conectează venele digitale dorsale și plantare ale degetelor, drenând în arcul venos dorsal.",
+    "functie": "Drenajul degetelor piciorului.",
+    "drenaj": "Degetele piciorului",
+    "varsare": "Arcul venos dorsal al piciorului",
+    "afluenti": "Venele digitale",
+    "relations": [
+      "Situate în pielea interdigitală.",
+      "Mici."
+    ],
+    "clinic": "Pot fi sediul unor hemoragii mici la traumatisme.",
+    "image": "data/images/venous/intercapitular_veins_of_foot.png"
+  },
+  "internal_iliac_vein": {
+    "name": "Vena iliacă internă",
+    "latin": "Vena iliaca interna",
+    "localizare": "Pelvis, posterior de artera iliacă internă",
+    "tip": "Venă pelvină profundă",
+    "descriere": "Colectează sângele din organele pelvine, pereții pelvini și fese, unindu-se cu vena iliacă externă.",
+    "functie": "Drenajul venos al pelvisului.",
+    "drenaj": "Organele pelvine, pereții pelvini, regiunea gluteală",
+    "varsare": "Vena iliacă comună",
+    "afluenti": "Venele gluteale, pudendale interne, obturatorii, vezicale, uterine/vaginale",
+    "relations": [
+      "Posterior de artera iliacă internă.",
+      "Formează plexuri venoase în jurul organelor."
+    ],
+    "clinic": "Plexurile venoase pelvine sunt frecvent sediul varicocelului pelvin.",
+    "image": "data/images/venous/internal_iliac_vein.png"
+  },
+  "internal_jugular_vein": {
+    "name": "Vena jugulară internă",
+    "latin": "Vena jugularis interna",
+    "localizare": "Gât, în teaca carotidă, lateral de artera carotidă",
+    "tip": "Venă profundă a gâtului",
+    "descriere": "Principalul drenaj venos al creierului, feței și gâtului; se unește cu vena subclaviculară pentru a forma vena brahiocefalică.",
+    "functie": "Drenajul venos al capului și gâtului.",
+    "drenaj": "Creier, față, gât",
+    "varsare": "Vena brahiocefalică",
+    "afluenti": "Sinusul sigmoid, vena facială comună, venele tiroidiene, faringiene",
+    "relations": [
+      "Situată în teaca carotidă, lateral de artera carotidă comună și internă.",
+      "Este accesibilă pentru cateterism venos central."
+    ],
+    "clinic": "Presiunea venoasă jugulară oferă informații despre funcția cardiacă dreaptă.",
+    "image": "data/images/venous/internal_jugular_vein.png"
+  },
+  "internal_pudendal_vein": {
+    "name": "Vena pudendală internă",
+    "latin": "Vena pudenda interna",
+    "localizare": "Pelvis, însoțind artera pudendală internă",
+    "tip": "Venă pelvină profundă",
+    "descriere": "Drenează sângele din organele genitale externe și perineu, vărsându-se în vena iliacă internă.",
+    "functie": "Drenajul venos al perineului și organelor genitale.",
+    "drenaj": "Penis/clitoris, scrot/labii, mușchii perineului",
+    "varsare": "Vena iliacă internă",
+    "afluenti": "Vena dorsală profundă a penisului/clitorisului, vene perineale",
+    "relations": [
+      "Străbate canalul pudendal (Alcock).",
+      "Satelită a arterei pudendale interne."
+    ],
+    "clinic": "Poate fi afectată în traumatismele perineale.",
+    "image": "data/images/venous/internal_pudendal_vein.png"
+  },
+  "internal_thoracic_veins": {
+    "name": "Venele toracice interne",
+    "latin": "Venae thoracicae internae",
+    "localizare": "Peretele toracic anterior, bilateral de stern",
+    "tip": "Vene profunde ale peretelui toracic",
+    "descriere": "Însoțesc arterele toracice interne și drenează peretele toracic anterior; se varsă în venele brahiocefalice.",
+    "functie": "Drenajul venos al peretelui toracic anterior.",
+    "drenaj": "Peretele toracic anterior, diafragm, pericard",
+    "varsare": "Vena brahiocefalică",
+    "afluenti": "Venele intercostale anterioare, vene pericardice, musculofrenice",
+    "relations": [
+      "Coboară pe fața internă a toracelui.",
+      "Satelite ale arterelor toracice interne."
+    ],
+    "clinic": "Utilizate pentru bypass coronarian (artera, nu vena). Venele pot servi drept grefe.",
+    "image": "data/images/venous/internal_thoracic_veins.png"
+  },
+  "intrarenal_veins_of_left_kidney": {
+    "name": "Venele intrarenale ale rinichiului stâng",
+    "latin": "Venae intrarenales sinistrae",
+    "localizare": "În interiorul rinichiului stâng",
+    "tip": "Vene viscerale",
+    "descriere": "Drenează sângele din parenchimul renal și se varsă în vena renală stângă.",
+    "functie": "Drenajul venos renal.",
+    "drenaj": "Rinichiul stâng",
+    "varsare": "Vena renală stângă",
+    "afluenti": "Vene interlobare, arcuate",
+    "relations": [
+      "Situate în sinusul renal.",
+      "Înconjoară calicele și pelvisul renal."
+    ],
+    "clinic": "Tromboza venoasă renală poate produce infarct renal.",
+    "image": "data/images/venous/intrarenal_veins_of_left_kidney.png"
+  },
+  "intrarenal_veins_of_right_kidney": {
+    "name": "Venele intrarenale ale rinichiului drept",
+    "latin": "Venae intrarenales dextrae",
+    "localizare": "În interiorul rinichiului drept",
+    "tip": "Vene viscerale",
+    "descriere": "Drenează sângele din parenchimul renal drept.",
+    "functie": "Drenajul venos renal.",
+    "drenaj": "Rinichiul drept",
+    "varsare": "Vena renală dreaptă",
+    "afluenti": "Vene interlobare, arcuate",
+    "relations": [
+      "Similar cu stânga."
+    ],
+    "clinic": "Tromboza venoasă renală este mai frecventă la stânga din cauza lungimii mai mari.",
+    "image": "data/images/venous/intrarenal_veins_of_right_kidney.png"
+  },
+  "lateral_caval_nodes": {
+    "name": "Nodurile cave laterale",
+    "latin": "Nodi cavales laterales",
+    "localizare": "De-a lungul venei cave inferioare",
+    "tip": "Ganglion limfatic",
+    "descriere": "Filtrează limfa din organele abdominale și pelvis.",
+    "functie": "Drenajul limfatic al abdomenului și pelvisului.",
+    "drenaj": "Rinichi, suprarenale, gonade, pelvis",
+    "varsare": "Trunchiurile limfatice lombare",
+    "afluenti": "Vase limfatice",
+    "relations": [
+      "Situate retroperitoneal.",
+      "Lateral de vena cavă inferioară."
+    ],
+    "clinic": "Mărirea acestor noduri apare în cancerele abdominale.",
+    "image": "data/images/venous/lateral_caval_nodes.png"
+  },
+  "lateral_circumflex_femoral_veins": {
+    "name": "Venele circumflexe femurale laterale",
+    "latin": "Venae circumflexae femoris laterales",
+    "localizare": "Coapsa anterioară, în jurul șoldului",
+    "tip": "Vene profunde ale coapsei",
+    "descriere": "Drenează mușchii anteriori ai coapsei și se varsă în vena femurală profundă.",
+    "functie": "Drenajul venos al compartimentului anterior al coapsei.",
+    "drenaj": "Mușchii cvadriceps, tensorul fasciei lata",
+    "varsare": "Vena femurală profundă",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Însoțesc artera circumflexă femurală laterală.",
+      "Trec profund de mușchiul drept femural."
+    ],
+    "clinic": "Pot fi lezate în fracturile de șold.",
+    "image": "data/images/venous/lateral_circumflex_femoral_veins.png"
+  },
+  "lateral_plantar_veins": {
+    "name": "Venele plantare laterale",
+    "latin": "Venae plantares laterales",
+    "localizare": "Planta piciorului, lateral",
+    "tip": "Vene profunde ale piciorului",
+    "descriere": "Drenează sângele din mușchii plantari laterali și se varsă în venele tibiale posterioare.",
+    "functie": "Drenajul venos profund al plantei.",
+    "drenaj": "Mușchii plantari laterali, degetele laterale",
+    "varsare": "Venele tibiale posterioare",
+    "afluenti": "Venele metatarsiene plantare",
+    "relations": [
+      "Însoțesc artera plantară laterală.",
+      "Situate în stratul profund al plantei."
+    ],
+    "clinic": "Tromboza venoasă plantară poate fi sursă de embolie pulmonară.",
+    "image": "data/images/venous/lateral_plantar_veins.png"
+  },
+  "lateral_sacral_veins": {
+    "name": "Venele sacrale laterale",
+    "latin": "Venae sacrales laterales",
+    "localizare": "Fața pelvină a sacrumului",
+    "tip": "Vene pelvine",
+    "descriere": "Drenează sângele din sacrum și țesuturile adiacente, vărsându-se în vena iliacă internă.",
+    "functie": "Drenajul venos al sacrumului.",
+    "drenaj": "Sacrum, mușchii pelvini posteriori",
+    "varsare": "Vena iliacă internă",
+    "afluenti": "Vene osoase",
+    "relations": [
+      "Situate pe fața anterioară a sacrumului.",
+      "Formează plexul venos sacral."
+    ],
+    "clinic": "Pot fi lezate în traumatismele pelvine.",
+    "image": "data/images/venous/lateral_sacral_veins.png"
+  },
+  "lateral_superior_jugular_node": {
+    "name": "Nodul jugular lateral superior",
+    "latin": "Nodus jugularis lateralis superior",
+    "localizare": "Lanțul jugular intern, superior",
+    "tip": "Ganglion limfatic",
+    "descriere": "Primește limfa din regiunile superioare ale capului și gâtului.",
+    "functie": "Filtrarea limfei cefalice.",
+    "drenaj": "Scalp, față, gât superior",
+    "varsare": "Trunchiul jugular",
+    "afluenti": "Vase limfatice",
+    "relations": [
+      "Situat de-a lungul venei jugulare interne.",
+      "Aproape de baza craniului."
+    ],
+    "clinic": "Mărirea poate indica infecții ORL sau metastaze.",
+    "image": "data/images/venous/lateral_superior_jugular_node.png"
+  },
+  "lateral_thoracic_vein": {
+    "name": "Vena toracică laterală",
+    "latin": "Vena thoracica lateralis",
+    "localizare": "Peretele toracic lateral, pe mușchiul dințat anterior",
+    "tip": "Venă superficială a toracelui",
+    "descriere": "Drenează sângele din peretele toracic lateral și se varsă în vena axilară.",
+    "functie": "Drenajul venos al peretelui toracic lateral.",
+    "drenaj": "Mușchiul dințat anterior, țesutul subcutanat toracic",
+    "varsare": "Vena axilară",
+    "afluenti": "Venele toracoepigastrice",
+    "relations": [
+      "Coboară pe mușchiul dințat anterior.",
+      "Comunică cu vena epigastrică superficială."
+    ],
+    "clinic": "Importantă în circulația colaterală cavo-cavă.",
+    "image": "data/images/venous/lateral_thoracic_vein.png"
+  },
+  "lateral_vein_of_right_lung": {
+    "name": "Vena laterală a plămânului drept",
+    "latin": "Vena lateralis pulmonis dextri",
+    "localizare": "Segmentul lateral al lobului mijlociu drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul lateral al lobului mijlociu.",
+    "functie": "Drenajul venos al segmentului lateral al lobului mijlociu.",
+    "drenaj": "Segmentul lateral al lobului mijlociu drept",
+    "varsare": "Vena pulmonară superioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară laterală."
+    ],
+    "clinic": "Rezecția lobului mijlociu necesită identificarea acestei vene.",
+    "image": "data/images/venous/lateral_vein_of_right_lung.png"
+  },
+  "left_ascending_lumbar_vein": {
+    "name": "Vena lombară ascendentă stângă",
+    "latin": "Vena lumbalis ascendens sinistra",
+    "localizare": "Abdomen posterior, pe mușchiul psoas",
+    "tip": "Venă a peretelui abdominal",
+    "descriere": "Urcă pe partea stângă a coloanei vertebrale, conectând venele lombare; contribuie la formarea venei hemi-azygos.",
+    "functie": "Drenajul venos al peretelui abdominal posterior.",
+    "drenaj": "Venele lombare stângi",
+    "varsare": "Vena hemi-azygos",
+    "afluenti": "Venele lombare",
+    "relations": [
+      "Posterior de mușchiul psoas.",
+      "Anterior de procesele transverse lombare."
+    ],
+    "clinic": "Poate fi cateterizată pentru proceduri intervenționale.",
+    "image": "data/images/venous/left_ascending_lumbar_vein.png"
+  },
+  "left_brachiocephalic_vein": {
+    "name": "Vena brahiocefalică stângă",
+    "latin": "Vena brachiocephalica sinistra",
+    "localizare": "Mediastinul superior, posterior de manubriul sternal",
+    "tip": "Venă mare a toracelui",
+    "descriere": "Formată prin unirea venelor jugulară internă și subclaviculară stângi; se unește cu vena brahiocefalică dreaptă pentru a forma vena cavă superioară.",
+    "functie": "Drenajul venos al jumătății stângi a capului, gâtului și membrului superior stâng.",
+    "drenaj": "Cap, gât, membru superior stâng",
+    "varsare": "Vena cavă superioară",
+    "afluenti": "Vena jugulară internă stângă, vena subclaviculară stângă, vena toracică internă stângă",
+    "relations": [
+      "Situată posterior de manubriu.",
+      "Crucează artera brahiocefalică."
+    ],
+    "clinic": "Utilizată frecvent pentru cateterism venos central (abord subclavicular stâng).",
+    "image": "data/images/venous/left_brachiocephalic_vein.png"
+  },
+  "left_gastro-omental_vein": {
+    "name": "Vena gastro-omentală stângă",
+    "latin": "Vena gastroomentalis sinistra",
+    "localizare": "De-a lungul marii curburi a stomacului",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din stomac și epiploon, vărsându-se în vena splenică.",
+    "functie": "Drenajul venos al stomacului și marelui epiploon.",
+    "drenaj": "Stomac, marele epiploon",
+    "varsare": "Vena splenică",
+    "afluenti": "Venele gastrice scurte",
+    "relations": [
+      "Situată pe marea curbură gastrică.",
+      "Însoțește artera omonimă."
+    ],
+    "clinic": "Participă la circulația colaterală în hipertensiunea portală.",
+    "image": "data/images/venous/left_gastro-omental_vein.png"
+  },
+  "left_inferior_pulmonary_vein": {
+    "name": "Vena pulmonară inferioară stângă",
+    "latin": "Vena pulmonalis inferior sinistra",
+    "localizare": "Hilul pulmonar stâng, inferior",
+    "tip": "Venă pulmonară",
+    "descriere": "Aduce sângele oxigenat din lobul inferior stâng în atriul stâng.",
+    "functie": "Întoarcerea sângelui oxigenat din plămân la inimă.",
+    "drenaj": "Lobul inferior stâng",
+    "varsare": "Atriul stâng",
+    "afluenti": "Venele segmentare bazale și superioare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Anterior de bronhia principală stângă."
+    ],
+    "clinic": "Anomaliile de întoarcere venoasă pulmonară pot implica această venă.",
+    "image": "data/images/venous/left_inferior_pulmonary_vein.png"
+  },
+  "left_renal_vein": {
+    "name": "Vena renală stângă",
+    "latin": "Vena renalis sinistra",
+    "localizare": "Abdomen, anterior de aortă, drenând rinichiul stâng",
+    "tip": "Venă viscerală",
+    "descriere": "Mai lungă decât cea dreaptă, primește sânge din rinichi, suprarenală și gonadă stângă; se varsă în vena cavă inferioară.",
+    "functie": "Drenajul venos al rinichiului stâng și organelor adiacente.",
+    "drenaj": "Rinichiul stâng, suprarenala stângă, gonada stângă",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Vena suprarenală stângă, vena testiculară/ovariană stângă",
+    "relations": [
+      "Trece anterior de aortă.",
+      "Poate fi comprimată între aortă și artera mezenterică superioară (sindromul nutcracker)."
+    ],
+    "clinic": "Sindromul nutcracker produce hematurie și dureri lombare.",
+    "image": "data/images/venous/left_renal_vein.png"
+  },
+  "left_subclavian_vein": {
+    "name": "Vena subclaviculară stângă",
+    "latin": "Vena subclavia sinistra",
+    "localizare": "Sub clavicula stângă, continuând vena axilară",
+    "tip": "Venă profundă a toracelui superior",
+    "descriere": "Drenajul principal al membrului superior stâng; se unește cu vena jugulară internă pentru a forma vena brahiocefalică stângă.",
+    "functie": "Drenajul venos al membrului superior stâng.",
+    "drenaj": "Membrul superior stâng",
+    "varsare": "Vena brahiocefalică stângă",
+    "afluenti": "Vena jugulară externă, vena cefalică",
+    "relations": [
+      "Posterior de claviculă.",
+      "Anterior de artera subclaviculară."
+    ],
+    "clinic": "Abord clasic pentru cateterism venos central (acces subclavicular).",
+    "image": "data/images/venous/left_subclavian_vein.png"
+  },
+  "left_subcostal_vein": {
+    "name": "Vena subcostală stângă",
+    "latin": "Vena subcostalis sinistra",
+    "localizare": "Sub coasta 12, pe partea stângă",
+    "tip": "Venă a peretelui toracic",
+    "descriere": "Drenează sângele din peretele toraco-abdominal și se varsă în vena hemi-azygos.",
+    "functie": "Drenajul venos al regiunii subcostale.",
+    "drenaj": "Peretele toracic inferior stâng",
+    "varsare": "Vena hemi-azygos",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Însoțește nervul subcostal.",
+      "Situată sub coasta 12."
+    ],
+    "clinic": "Poate fi lezată în inciziile lombare.",
+    "image": "data/images/venous/left_subcostal_vein.png"
+  },
+  "left_superior_intercostal_vein": {
+    "name": "Vena intercostală superioară stângă",
+    "latin": "Vena intercostalis superior sinistra",
+    "localizare": "Mediastinul posterior stâng",
+    "tip": "Venă toracică",
+    "descriere": "Drenează primele 2-3 spații intercostale stângi și se varsă în vena brahiocefalică stângă.",
+    "functie": "Drenajul venos al toracelui stâng superior.",
+    "drenaj": "Spațiile intercostale 1-3 stângi",
+    "varsare": "Vena brahiocefalică stângă",
+    "afluenti": "Vene intercostale stângi superioare",
+    "relations": [
+      "Urcă pe partea stângă a coloanei vertebrale.",
+      "Posterior de arcada aortică."
+    ],
+    "clinic": "Vizibilă pe radiografia toracică ca „mamelonul aortic”.",
+    "image": "data/images/venous/left_superior_intercostal_vein.png"
+  },
+  "left_superior_pulmonary_vein": {
+    "name": "Vena pulmonară superioară stângă",
+    "latin": "Vena pulmonalis superior sinistra",
+    "localizare": "Hilul pulmonar stâng, superior",
+    "tip": "Venă pulmonară",
+    "descriere": "Aduce sângele oxigenat din lobul superior stâng (inclusiv lingula) în atriul stâng.",
+    "functie": "Întoarcerea sângelui oxigenat din plămân la inimă.",
+    "drenaj": "Lobul superior stâng",
+    "varsare": "Atriul stâng",
+    "afluenti": "Venele apicoposterioare, anterioare, lingulare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Anterior de bronhia principală stângă."
+    ],
+    "clinic": "Importantă în chirurgia lobului superior stâng.",
+    "image": "data/images/venous/left_superior_pulmonary_vein.png"
+  },
+  "left_testicular_vein": {
+    "name": "Vena testiculară stângă",
+    "latin": "Vena testicularis sinistra",
+    "localizare": "Abdomen, din scrot până la vena renală stângă",
+    "tip": "Venă gonadală",
+    "descriere": "Drenează sângele din testicul și epididim stâng; se varsă în vena renală stângă.",
+    "functie": "Drenajul venos al testiculului stâng.",
+    "drenaj": "Testiculul stâng, epididimul",
+    "varsare": "Vena renală stângă",
+    "afluenti": "Venele testiculare",
+    "relations": [
+      "Urcă pe mușchiul psoas.",
+      "Este mai lungă decât cea dreaptă."
+    ],
+    "clinic": "Varicocelul stâng este mai frecvent datorită drenajului în unghi drept în vena renală.",
+    "image": "data/images/venous/left_testicular_vein.png"
+  },
+  "lingual_vein": {
+    "name": "Vena linguală",
+    "latin": "Vena lingualis",
+    "localizare": "Limbă și planșeul bucal",
+    "tip": "Venă a limbii",
+    "descriere": "Drenează sângele din limbă și se varsă în vena jugulară internă.",
+    "functie": "Drenajul venos al limbii.",
+    "drenaj": "Limbă, planșeu bucal",
+    "varsare": "Vena jugulară internă",
+    "afluenti": "Vena profundă a limbii, vene dorsale ale limbii",
+    "relations": [
+      "Însoțește artera linguală.",
+      "Situată pe mușchiul hioglos."
+    ],
+    "clinic": "Poate fi afectată în traumatismele linguale.",
+    "image": "data/images/venous/lingual_vein.png"
+  },
+  "lingular_vein_of_left_lung": {
+    "name": "Vena lingulară a plămânului stâng",
+    "latin": "Vena lingularis pulmonis sinistri",
+    "localizare": "Lingula lobului superior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din lingula pulmonară stângă.",
+    "functie": "Drenajul venos al lingulei.",
+    "drenaj": "Lingula (segmentele lingulare superior și inferior)",
+    "varsare": "Vena pulmonară superioară stângă",
+    "afluenti": "Vene lingulare superioară și inferioară",
+    "relations": [
+      "Situată în hilul pulmonar stâng.",
+      "Corespunde bronhiei lingulare."
+    ],
+    "clinic": "Rezecția lingulei necesită identificarea acestei vene.",
+    "image": "data/images/venous/lingular_vein_of_left_lung.png"
+  },
+  "lumbar_veins": {
+    "name": "Venele lombare",
+    "latin": "Venae lumbales",
+    "localizare": "Abdomen posterior, de-a lungul coloanei vertebrale lombare",
+    "tip": "Vene ale peretelui abdominal",
+    "descriere": "Patru perechi de vene care drenează peretele abdominal posterior și se varsă în vena cavă inferioară.",
+    "functie": "Drenajul venos al peretelui lombar.",
+    "drenaj": "Mușchii lombari, vertebrele lombare",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Venele rahidiene",
+    "relations": [
+      "Însoțesc arterele lombare.",
+      "Comunică cu vena lombară ascendentă."
+    ],
+    "clinic": "Pot fi lezate în chirurgia coloanei lombare.",
+    "image": "data/images/venous/lumbar_veins.png"
+  },
+  "main_portal_fissuret": {
+    "name": "Fisura portală principală",
+    "latin": "Ramus principalis venae portae",
+    "localizare": "Hilul hepatic",
+    "tip": "Venă portală",
+    "descriere": "Ramura principală a venei porte care se divide în ramurile dreaptă și stângă în ficat.",
+    "functie": "Distribuția sângelui portal în ficat.",
+    "drenaj": "Intestin, splină, pancreas",
+    "varsare": "Sinusoidele hepatice",
+    "afluenti": "Vena mezenterică superioară, vena splenică",
+    "relations": [
+      "Situată în hilul hepatic.",
+      "Însoțită de artera hepatică și ductul biliar."
+    ],
+    "clinic": "Tromboza portală produce hipertensiune portală.",
+    "image": "data/images/venous/main_portal_fissuret.png"
+  },
+  "maxillary_veins": {
+    "name": "Venele maxilare",
+    "latin": "Venae maxillares",
+    "localizare": "Fosa infratemporală, plexul pterigoidian",
+    "tip": "Vene profunde ale feței",
+    "descriere": "Drenează sângele din regiunea maxilară și fosa infratemporală, formând plexul pterigoidian și apoi vena retromandibulară.",
+    "functie": "Drenajul venos profund al feței și fosei infratemporale.",
+    "drenaj": "Maxila, dinții superiori, mușchii masticatori",
+    "varsare": "Vena retromandibulară",
+    "afluenti": "Plexul pterigoidian",
+    "relations": [
+      "Situate profund, înconjurând mușchii pterigoidieni.",
+      "Comunică cu sinusul cavernos."
+    ],
+    "clinic": "Infecțiile dentare se pot propaga intracranian prin acest plex.",
+    "image": "data/images/venous/maxillary_veins.png"
+  },
+  "medial_circumflex_femoral_veins": {
+    "name": "Venele circumflexe femurale mediale",
+    "latin": "Venae circumflexae femoris mediales",
+    "localizare": "Coapsa posterioară, în jurul șoldului",
+    "tip": "Vene profunde ale coapsei",
+    "descriere": "Drenează mușchii posteriori ai coapsei și capul femural; se varsă în vena femurală profundă.",
+    "functie": "Drenajul venos al regiunii posterioare a șoldului.",
+    "drenaj": "Mușchii ischiogambieri, articulația șoldului",
+    "varsare": "Vena femurală profundă",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Însoțesc artera circumflexă femurală medială.",
+      "Trec posterior de colul femural."
+    ],
+    "clinic": "Lezarea poate compromite vascularizația capului femural.",
+    "image": "data/images/venous/medial_circumflex_femoral_veins.png"
+  },
+  "medial_plantar_veins": {
+    "name": "Venele plantare mediale",
+    "latin": "Venae plantares mediales",
+    "localizare": "Planta piciorului, medial",
+    "tip": "Vene profunde ale piciorului",
+    "descriere": "Drenează sângele din mușchii plantari mediali și se varsă în venele tibiale posterioare.",
+    "functie": "Drenajul venos profund al plantei mediale.",
+    "drenaj": "Mușchii plantari mediali, degetele mediale",
+    "varsare": "Venele tibiale posterioare",
+    "afluenti": "Venele metatarsiene plantare",
+    "relations": [
+      "Însoțesc artera plantară medială.",
+      "Situate în stratul profund al plantei."
+    ],
+    "clinic": "Tromboza venoasă plantară poate fi confundată cu fasciita plantară.",
+    "image": "data/images/venous/medial_plantar_veins.png"
+  },
+  "medial_vein_of_right_lung": {
+    "name": "Vena medială a plămânului drept",
+    "latin": "Vena medialis pulmonis dextri",
+    "localizare": "Segmentul medial al lobului mijlociu drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul medial al lobului mijlociu.",
+    "functie": "Drenajul venos al segmentului medial al lobului mijlociu.",
+    "drenaj": "Segmentul medial al lobului mijlociu drept",
+    "varsare": "Vena pulmonară superioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară medială."
+    ],
+    "clinic": "Importantă în rezecția lobului mijlociu.",
+    "image": "data/images/venous/medial_vein_of_right_lung.png"
+  },
+  "median_antebrachial_vein": {
+    "name": "Vena mediană antebrahială",
+    "latin": "Vena mediana antebrachii",
+    "localizare": "Fața anterioară a antebrațului",
+    "tip": "Venă superficială a antebrațului",
+    "descriere": "Urcă pe mijlocul antebrațului și se varsă în vena mediană cubitală sau în venele cefalică/bazilică.",
+    "functie": "Drenajul venos superficial al antebrațului anterior.",
+    "drenaj": "Antebrațul anterior",
+    "varsare": "Vena mediană cubitală sau direct în venele brahiale",
+    "afluenti": "Vene superficiale",
+    "relations": [
+      "Situată în țesutul subcutanat.",
+      "Variabilă."
+    ],
+    "clinic": "Utilizată pentru puncție venoasă.",
+    "image": "data/images/venous/median_antebrachial_vein.png"
+  },
+  "median_cubital_vein": {
+    "name": "Vena mediană cubitală",
+    "latin": "Vena mediana cubiti",
+    "localizare": "Pliul cotului, conectând vena cefalică și bazilică",
+    "tip": "Venă superficială a cotului",
+    "descriere": "Comunicare oblică între vena cefalică (lateral) și bazilică (medial) la nivelul cotului.",
+    "functie": "Drenajul venos al antebrațului și brațului; cale de anastomoză.",
+    "drenaj": "Antebraț, mână",
+    "varsare": "Vena bazilică sau cefalică",
+    "afluenti": "Vene superficiale",
+    "relations": [
+      "Situată în țesutul subcutanat al plicii cotului.",
+      "Este acoperită doar de piele și fascia superficială."
+    ],
+    "clinic": "Locul cel mai frecvent utilizat pentru recoltarea de sânge și administrarea de medicamente intravenoase.",
+    "image": "data/images/venous/median_cubital_vein.png"
+  },
+  "middle_cardiac_vein": {
+    "name": "Vena cardiacă mijlocie",
+    "latin": "Vena cardiaca media",
+    "localizare": "Șanțul interventricular posterior",
+    "tip": "Venă cardiacă",
+    "descriere": "Urcă dinspre apexul inimii în șanțul interventricular posterior și se varsă în sinusul coronar.",
+    "functie": "Drenajul venos al ventriculului drept și stâng posterior.",
+    "drenaj": "Ventriculul drept, ventriculul stâng posterior",
+    "varsare": "Sinusul coronar",
+    "afluenti": "Vene ventriculare",
+    "relations": [
+      "Însoțește ramura interventriculară posterioară (de obicei din artera coronară dreaptă).",
+      "Este acoperită de epicard."
+    ],
+    "clinic": "Poate fi utilizată pentru electrozi de pacing.",
+    "image": "data/images/venous/middle_cardiac_vein.png"
+  },
+  "middle_colic_vein": {
+    "name": "Vena colică mijlocie",
+    "latin": "Vena colica media",
+    "localizare": "Mezocolonul transvers",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din colonul transvers și se varsă în vena mezenterică superioară.",
+    "functie": "Drenajul venos al colonului transvers.",
+    "drenaj": "Colonul transvers",
+    "varsare": "Vena mezenterică superioară",
+    "afluenti": "Venele colonice",
+    "relations": [
+      "Însoțește artera colică mijlocie.",
+      "Situată în mezocolonul transvers."
+    ],
+    "clinic": "Lezarea ei poate produce hemoragie în chirurgia colorectală.",
+    "image": "data/images/venous/middle_colic_vein.png"
+  },
+  "musculophrenic_veins": {
+    "name": "Venele musculofrenice",
+    "latin": "Venae musculophrenicae",
+    "localizare": "Peretele toracic anterior inferior",
+    "tip": "Vene profunde ale toracelui",
+    "descriere": "Drenează diafragmul și peretele toracic anterior inferior; se varsă în venele toracice interne.",
+    "functie": "Drenajul venos al diafragmului și toracelui inferior.",
+    "drenaj": "Diafragm, mușchii intercostali inferiori",
+    "varsare": "Venele toracice interne",
+    "afluenti": "Vene intercostale anterioare",
+    "relations": [
+      "Însoțesc artera musculofrenică.",
+      "Coboară pe fața internă a coastelor."
+    ],
+    "clinic": "Pot fi afectate în traumatismele toracice.",
+    "image": "data/images/venous/musculophrenic_veins.png"
+  },
+  "node_of_arch_of_azygos_vein": {
+    "name": "Nodul arcului venei azygos",
+    "latin": "Nodus arcus venae azygos",
+    "localizare": "La nivelul arcului venei azygos deasupra bronhiei principale drepte",
+    "tip": "Ganglion limfatic",
+    "descriere": "Filtrează limfa din structurile toracice posterioare.",
+    "functie": "Drenajul limfatic al toracelui posterior.",
+    "drenaj": "Esofag, trahee, bronhii",
+    "varsare": "Trunchiul bronhomediastinal",
+    "afluenti": "Vase limfatice",
+    "relations": [
+      "Situat în jurul arcului venei azygos.",
+      "Mediastin posterior."
+    ],
+    "clinic": "Mărirea poate indica limfom sau cancer pulmonar.",
+    "image": "data/images/venous/node_of_arch_of_azygos_vein.png"
+  },
+  "occipital_sinus": {
+    "name": "Sinusul occipital",
+    "latin": "Sinus occipitalis",
+    "localizare": "Baza craniului, în coasa cerebeloasă",
+    "tip": "Sinus venos dural",
+    "descriere": "Colectează sângele din plexul venos vertebral și se varsă în confluența sinusurilor (torcular Herophili).",
+    "functie": "Drenajul venos al structurilor posterioare ale craniului.",
+    "drenaj": "Plexurile venoase vertebrale, cerebel",
+    "varsare": "Confluența sinusurilor",
+    "afluenti": "Vene cerebeloase",
+    "relations": [
+      "Situat în coasa cerebeloasă.",
+      "Comunică cu sinusul marginal."
+    ],
+    "clinic": "Lezarea sa poate produce hemoragie în fosa posterioară.",
+    "image": "data/images/venous/occipital_sinus.png"
+  },
+  "occipital_vein": {
+    "name": "Vena occipitală",
+    "latin": "Vena occipitalis",
+    "localizare": "Regiunea occipitală a scalpului",
+    "tip": "Venă superficială a scalpului",
+    "descriere": "Drenează sângele din scalpul occipital și se varsă în vena jugulară externă sau vena vertebrală.",
+    "functie": "Drenajul venos al scalpului posterior.",
+    "drenaj": "Scalpul occipital",
+    "varsare": "Vena jugulară externă, vena vertebrală",
+    "afluenti": "Vene emissare",
+    "relations": [
+      "Situată sub pielea scalpului occipital.",
+      "Comunică cu sinusurile venoase intracraniene prin vene emissare."
+    ],
+    "clinic": "Lezarea produce hemoragie abundentă (scalpul foarte vascularizat).",
+    "image": "data/images/venous/occipital_vein.png"
+  },
+  "palmar_digital_veins": {
+    "name": "Venele digitale palmare",
+    "latin": "Venae digitales palmares",
+    "localizare": "Degetele mâinii, fața palmară",
+    "tip": "Vene superficiale ale mâinii",
+    "descriere": "Drenează sângele din degete și se varsă în arcul venos palmar superficial.",
+    "functie": "Drenajul venos al degetelor.",
+    "drenaj": "Degetele mâinii",
+    "varsare": "Arcul venos palmar superficial",
+    "afluenti": "Vene intercapitulare",
+    "relations": [
+      "Situate pe fața palmară a degetelor.",
+      "Anastomoze cu venele dorsale."
+    ],
+    "clinic": "Utilizate pentru măsurarea glicemiei (recoltare sânge capilar).",
+    "image": "data/images/venous/palmar_digital_veins.png"
+  },
+  "perforating_veins": {
+    "name": "Venele perforante",
+    "latin": "Venae perforantes",
+    "localizare": "Membrul inferior, conectând venele superficiale cu cele profunde",
+    "tip": "Vene comunicante",
+    "descriere": "Perforează fascia pentru a conecta sistemul venos superficial cu cel profund, având valve care direcționează fluxul spre profunzime.",
+    "functie": "Asigură drenajul de la venele superficiale la cele profunde, prevenind refluxul.",
+    "drenaj": "Venele superficiale ale gambei și coapsei",
+    "varsare": "Venele profunde (tibiale, poplitee, femurale)",
+    "afluenti": "Vene superficiale",
+    "relations": [
+      "Străbat fascia.",
+      "Sunt însoțite de artere perforante."
+    ],
+    "clinic": "Insuficiența venelor perforante produce varice și ulcere venoase.",
+    "image": "data/images/venous/perforating_veins.png"
+  },
+  "plantar_digital_veins": {
+    "name": "Venele digitale plantare",
+    "latin": "Venae digitales plantares",
+    "localizare": "Degetele piciorului, fața plantară",
+    "tip": "Vene superficiale ale piciorului",
+    "descriere": "Drenează sângele din degetele piciorului și se varsă în venele metatarsiene plantare.",
+    "functie": "Drenajul venos al degetelor piciorului.",
+    "drenaj": "Degetele piciorului",
+    "varsare": "Venele metatarsiene plantare",
+    "afluenti": "Vene intercapitulare",
+    "relations": [
+      "Situate pe fața plantară a degetelor.",
+      "Anastomoze cu venele dorsale."
+    ],
+    "clinic": "Lezarea lor produce echimoze plantare.",
+    "image": "data/images/venous/plantar_digital_veins.png"
+  },
+  "plantar_metatarsal_veins": {
+    "name": "Venele metatarsiene plantare",
+    "latin": "Venae metatarsales plantares",
+    "localizare": "Planta piciorului, între metatarsiene",
+    "tip": "Vene profunde ale piciorului",
+    "descriere": "Drenează sângele din antepicior și se varsă în arcul venos plantar.",
+    "functie": "Drenajul venos profund al antepiciorului.",
+    "drenaj": "Antepiciorul plantar",
+    "varsare": "Arcul venos plantar",
+    "afluenti": "Venele digitale plantare",
+    "relations": [
+      "Situate între oasele metatarsiene.",
+      "Însoțesc arterele metatarsiene plantare."
+    ],
+    "clinic": "Pot fi afectate în sindromul de tunel tarsian.",
+    "image": "data/images/venous/plantar_metatarsal_veins.png"
+  },
+  "plantar_venous_arch": {
+    "name": "Arcul venos plantar",
+    "latin": "Arcus venosus plantaris",
+    "localizare": "Planta piciorului, la baza metatarsienilor",
+    "tip": "Venă profundă a piciorului",
+    "descriere": "Colectează sângele din degete și antepicior, drenând în venele plantare medială și laterală.",
+    "functie": "Drenajul venos profund al plantei.",
+    "drenaj": "Degetele, antepiciorul plantar",
+    "varsare": "Venele plantare medială și laterală",
+    "afluenti": "Venele metatarsiene plantare",
+    "relations": [
+      "Situat profund, sub mușchii plantari.",
+      "Paralel cu arcul arterial plantar."
+    ],
+    "clinic": "Tromboza venoasă plantară poate fi sursă de embolie.",
+    "image": "data/images/venous/plantar_venous_arch.png"
+  },
+  "popliteal_vein": {
+    "name": "Vena poplitee",
+    "latin": "Vena poplitea",
+    "localizare": "Fosa poplitee, posterior de genunchi",
+    "tip": "Venă profundă a membrului inferior",
+    "descriere": "Formată prin unirea venelor tibiale anterioare și posterioare; devine vena femurală la inelul adductorilor.",
+    "functie": "Drenajul venos al gambei și genunchiului.",
+    "drenaj": "Gamba, genunchiul",
+    "varsare": "Vena femurală",
+    "afluenti": "Venele tibiale, safenă mică, vene geniculare",
+    "relations": [
+      "Situată posterior de artera poplitee.",
+      "Este cea mai profundă structură din fosa poplitee."
+    ],
+    "clinic": "Loc frecvent de tromboză venoasă profundă; chistul popliteu (Baker) o poate comprima.",
+    "image": "data/images/venous/popliteal_vein.png"
+  },
+  "posterior_auricular_vein": {
+    "name": "Vena auriculară posterioară",
+    "latin": "Vena auricularis posterior",
+    "localizare": "Regiunea retroauriculară",
+    "tip": "Venă superficială a scalpului",
+    "descriere": "Drenează sângele din scalpul retroauricular și pavilionul urechii, vărsându-se în vena jugulară externă.",
+    "functie": "Drenajul venos al regiunii auriculare.",
+    "drenaj": "Scalpul retroauricular, pavilionul urechii",
+    "varsare": "Vena jugulară externă",
+    "afluenti": "Vene auriculare",
+    "relations": [
+      "Coboară posterior de ureche.",
+      "Se unește cu ramura posterioară a venei retromandibulare."
+    ],
+    "clinic": "Poate fi utilizată pentru abord venos la nou-născuți.",
+    "image": "data/images/venous/posterior_auricular_vein.png"
+  },
+  "posterior_circumflex_humeral_vein": {
+    "name": "Vena circumflexă humerală posterioară",
+    "latin": "Vena circumflexa humeri posterior",
+    "localizare": "Fața posterioară a umărului",
+    "tip": "Venă profundă a brațului",
+    "descriere": "Însoțește artera circumflexă humerală posterioară și drenează sângele din mușchii deltoid și rotund mic.",
+    "functie": "Drenajul venos al regiunii deltoidiene.",
+    "drenaj": "Mușchiul deltoid, mușchiul rotund mic",
+    "varsare": "Vena axilară",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Trece prin spațiul patrulateral (cu nervul axilar).",
+      "Posterior de colul humeral."
+    ],
+    "clinic": "Poate fi lezată în fracturile de humerus proximal.",
+    "image": "data/images/venous/posterior_circumflex_humeral_vein.png"
+  },
+  "posterior_division_of_retromandibular_vein": {
+    "name": "Ramura posterioară a venei retromandibulare",
+    "latin": "Ramus posterior venae retromandibularis",
+    "localizare": "Glanda parotidă, posterior",
+    "tip": "Venă a feței",
+    "descriere": "Se unește cu vena auriculară posterioară pentru a forma vena jugulară externă.",
+    "functie": "Drenajul venos al regiunii parotido-maseterine.",
+    "drenaj": "Regiunea parotidiană, scalpul temporal",
+    "varsare": "Vena jugulară externă",
+    "afluenti": "Vena temporală superficială, vena maxilară",
+    "relations": [
+      "Străbate glanda parotidă.",
+      "Se unește cu vena auriculară posterioară."
+    ],
+    "clinic": "Poate fi afectată în parotidectomie.",
+    "image": "data/images/venous/posterior_division_of_retromandibular_vein.png"
+  },
+  "posterior_intercavernous_sinus": {
+    "name": "Sinusul intercavernos posterior",
+    "latin": "Sinus intercavernosus posterior",
+    "localizare": "Posterior de hipofiză, între sinusurile cavernoase",
+    "tip": "Sinus venos dural",
+    "descriere": "Conectează cele două sinusuri cavernoase posterior de glanda hipofiză.",
+    "functie": "Anastomoză venoasă între sinusurile cavernoase.",
+    "drenaj": "Hipofiza, sinusurile cavernoase",
+    "varsare": "Sinusul cavernos",
+    "afluenti": "Vene hipofizare",
+    "relations": [
+      "Posterior de hipofiză.",
+      "Poate lipsi."
+    ],
+    "clinic": "Chirurgia transsfenoidală poate implica acest sinus.",
+    "image": "data/images/venous/posterior_intercavernous_sinus.png"
+  },
+  "posterior_tibial_veins": {
+    "name": "Venele tibiale posterioare",
+    "latin": "Venae tibiales posteriores",
+    "localizare": "Compartimentul posterior al gambei",
+    "tip": "Vene profunde ale gambei",
+    "descriere": "Însoțesc artera tibială posterioară și drenează mușchii posteriori ai gambei, unindu-se cu venele tibiale anterioare pentru a forma vena poplitee.",
+    "functie": "Drenajul venos profund al gambei posterioare.",
+    "drenaj": "Mușchii gastrocnemian, solear, tibial posterior",
+    "varsare": "Vena poplitee",
+    "afluenti": "Vene fibulare, vene musculare",
+    "relations": [
+      "Situate profund, între mușchii gambei.",
+      "În teaca neurovasculară tibială posterioară."
+    ],
+    "clinic": "Tromboza venoasă profundă a gambei implică frecvent aceste vene.",
+    "image": "data/images/venous/posterior_tibial_veins.png"
+  },
+  "posterior_vein_of_right_lung": {
+    "name": "Vena posterioară a plămânului drept",
+    "latin": "Vena posterior pulmonis dextri",
+    "localizare": "Segmentul posterior al lobului superior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul posterior al lobului superior drept.",
+    "functie": "Drenajul venos al segmentului posterior superior drept.",
+    "drenaj": "Segmentul posterior al lobului superior drept",
+    "varsare": "Vena pulmonară superioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară posterioară."
+    ],
+    "clinic": "Rezecția segmentului posterior necesită identificarea acestei vene.",
+    "image": "data/images/venous/posterior_vein_of_right_lung.png"
+  },
+  "precaval_nodes": {
+    "name": "Nodurile precave",
+    "latin": "Nodi precavales",
+    "localizare": "Anterior de vena cavă inferioară",
+    "tip": "Ganglion limfatic",
+    "descriere": "Filtrează limfa din organele retroperitoneale.",
+    "functie": "Drenajul limfatic abdominal.",
+    "drenaj": "Rinichi, suprarenale, gonade",
+    "varsare": "Trunchiul lombar",
+    "afluenti": "Vase limfatice",
+    "relations": [
+      "Situate retroperitoneal, anterior de vena cavă."
+    ],
+    "clinic": "Afectate în cancerele renale și testiculare.",
+    "image": "data/images/venous/precaval_nodes.png"
+  },
+  "radial_veins": {
+    "name": "Venele radiale",
+    "latin": "Venae radiales",
+    "localizare": "Antebraț lateral, însoțind artera radială",
+    "tip": "Vene profunde ale antebrațului",
+    "descriere": "Două vene care drenează compartimentul lateral al antebrațului și se unesc cu venele ulnare pentru a forma venele brahiale.",
+    "functie": "Drenajul venos profund al antebrațului lateral.",
+    "drenaj": "Mușchii radiali, mâna laterală",
+    "varsare": "Venele brahiale",
+    "afluenti": "Vene musculare, arcul venos palmar profund",
+    "relations": [
+      "Însoțesc artera radială.",
+      "Sunt conectate prin anastomoze frecvente."
+    ],
+    "clinic": "Utilizate pentru cateterism arterial (nu venos) dar și pentru abord venos.",
+    "image": "data/images/venous/radial_veins.png"
+  },
+  "retrocaval_nodes": {
+    "name": "Nodurile retrocave",
+    "latin": "Nodi retrocavales",
+    "localizare": "Posterior de vena cavă inferioară",
+    "tip": "Ganglion limfatic",
+    "descriere": "Filtrează limfa din peretele posterior al abdomenului.",
+    "functie": "Drenajul limfatic al regiunii lombare.",
+    "drenaj": "Mușchii psoas, coloana vertebrală",
+    "varsare": "Trunchiul lombar",
+    "afluenti": "Vase limfatice",
+    "relations": [
+      "Posterior de vena cavă inferioară.",
+      "Situate pe fața anterioară a coloanei vertebrale."
+    ],
+    "clinic": "Pot fi sediul metastazelor în cancerele de prostată.",
+    "image": "data/images/venous/retrocaval_nodes.png"
+  },
+  "retromandibular_vein": {
+    "name": "Vena retromandibulară",
+    "latin": "Vena retromandibularis",
+    "localizare": "Glanda parotidă, posterior de ramul mandibulei",
+    "tip": "Venă a feței",
+    "descriere": "Formată prin unirea venelor temporală superficială și maxilară; se divide în ramurile anterioară și posterioară.",
+    "functie": "Drenajul venos al regiunii temporale și infratemporale.",
+    "drenaj": "Scalpul temporal, fosa infratemporală, glanda parotidă",
+    "varsare": "Ramura anterioară → vena facială comună; ramura posterioară → vena jugulară externă",
+    "afluenti": "Vena temporală superficială, vena maxilară, vena facială transversă",
+    "relations": [
+      "Străbate glanda parotidă.",
+      "Superficial de artera carotidă externă."
+    ],
+    "clinic": "Poate fi lezată în chirurgia parotidiană.",
+    "image": "data/images/venous/retromandibular_vein.png"
+  },
+  "right_ascending_lumbar_vein": {
+    "name": "Vena lombară ascendentă dreaptă",
+    "latin": "Vena lumbalis ascendens dextra",
+    "localizare": "Abdomen posterior drept, pe mușchiul psoas",
+    "tip": "Venă a peretelui abdominal",
+    "descriere": "Urcă pe partea dreaptă a coloanei vertebrale, conectând venele lombare și contribuind la formarea venei azygos.",
+    "functie": "Drenajul venos al peretelui abdominal posterior drept.",
+    "drenaj": "Venele lombare drepte",
+    "varsare": "Vena azygos",
+    "afluenti": "Venele lombare",
+    "relations": [
+      "Posterior de vena cavă inferioară.",
+      "Anterior de procesele transverse lombare."
+    ],
+    "clinic": "Poate fi cateterizată pentru proceduri endovasculare.",
+    "image": "data/images/venous/right_ascending_lumbar_vein.png"
+  },
+  "right_brachiocephalic_vein": {
+    "name": "Vena brahiocefalică dreaptă",
+    "latin": "Vena brachiocephalica dextra",
+    "localizare": "Mediastinul superior drept",
+    "tip": "Venă mare a toracelui",
+    "descriere": "Formată prin unirea venelor jugulară internă și subclaviculară drepte; se unește cu vena brahiocefalică stângă pentru a forma vena cavă superioară.",
+    "functie": "Drenajul venos al jumătății drepte a capului, gâtului și membrului superior drept.",
+    "drenaj": "Cap, gât, membru superior drept",
+    "varsare": "Vena cavă superioară",
+    "afluenti": "Vena jugulară internă dreaptă, vena subclaviculară dreaptă, vena toracică internă dreaptă",
+    "relations": [
+      "Posterior de manubriu.",
+      "Este mai scurtă și mai verticală decât stânga."
+    ],
+    "clinic": "Utilizată pentru cateterism venos central (abord jugular intern drept).",
+    "image": "data/images/venous/right_brachiocephalic_vein.png"
+  },
+  "right_colic_vein": {
+    "name": "Vena colică dreaptă",
+    "latin": "Vena colica dextra",
+    "localizare": "Abdomen, din colonul ascendent",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din colonul ascendent și se varsă în vena mezenterică superioară.",
+    "functie": "Drenajul venos al colonului ascendent.",
+    "drenaj": "Colonul ascendent",
+    "varsare": "Vena mezenterică superioară",
+    "afluenti": "Venele colonice",
+    "relations": [
+      "Însoțește artera colică dreaptă.",
+      "Retroperitoneală parțial."
+    ],
+    "clinic": "Lezarea în timpul colectomiei drepte produce hemoragie.",
+    "image": "data/images/venous/right_colic_vein.png"
+  },
+  "right_gastro-omental_vein": {
+    "name": "Vena gastro-omentală dreaptă",
+    "latin": "Vena gastroomentalis dextra",
+    "localizare": "De-a lungul marii curburi a stomacului",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din stomac și epiploon, vărsându-se în vena mezenterică superioară.",
+    "functie": "Drenajul venos al stomacului și epiploonului.",
+    "drenaj": "Stomac, marele epiploon",
+    "varsare": "Vena mezenterică superioară",
+    "afluenti": "Vene gastrice",
+    "relations": [
+      "Pe marea curbură gastrică.",
+      "Însoțește artera gastro-omentală dreaptă."
+    ],
+    "clinic": "Hipertensiunea portală poate produce varice la acest nivel.",
+    "image": "data/images/venous/right_gastro-omental_vein.png"
+  },
+  "right_inferior_pulmonary_vein": {
+    "name": "Vena pulmonară inferioară dreaptă",
+    "latin": "Vena pulmonalis inferior dextra",
+    "localizare": "Hilul pulmonar drept, inferior",
+    "tip": "Venă pulmonară",
+    "descriere": "Aduce sângele oxigenat din lobul inferior drept în atriul stâng.",
+    "functie": "Întoarcerea sângelui oxigenat din plămân.",
+    "drenaj": "Lobul inferior drept",
+    "varsare": "Atriul stâng",
+    "afluenti": "Venele segmentare bazale și superioare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Posterior de bronhia principală dreaptă."
+    ],
+    "clinic": "Anomaliile de întoarcere venoasă pulmonară pot implica această venă.",
+    "image": "data/images/venous/right_inferior_pulmonary_vein.png"
+  },
+  "right_portal_fissuret": {
+    "name": "Fisura portală dreaptă (ramura dreaptă a venei porte)",
+    "latin": "Ramus dexter venae portae",
+    "localizare": "Ficat, hilul hepatic drept",
+    "tip": "Venă portală",
+    "descriere": "Ramura dreaptă a venei porte care irigă lobul drept al ficatului.",
+    "functie": "Distribuția sângelui portal în lobul hepatic drept.",
+    "drenaj": "Intestin, splină, pancreas",
+    "varsare": "Sinusoidele hepatice drepte",
+    "afluenti": "Vena mezenterică superioară, vena splenică",
+    "relations": [
+      "Intraparenchimatos, în ficat.",
+      "Împreună cu artera hepatică dreaptă și ductul biliar drept."
+    ],
+    "clinic": "Tromboza ramurii drepte poate produce atrofie hepatică dreaptă.",
+    "image": "data/images/venous/right_portal_fissuret.png"
+  },
+  "right_renal_vein": {
+    "name": "Vena renală dreaptă",
+    "latin": "Vena renalis dextra",
+    "localizare": "Abdomen, drenând rinichiul drept",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din rinichiul drept și se varsă în vena cavă inferioară. Este mai scurtă decât cea stângă.",
+    "functie": "Drenajul venos al rinichiului drept.",
+    "drenaj": "Rinichiul drept",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Vene capsulare",
+    "relations": [
+      "Posterior de artera renală dreaptă.",
+      "Este scurtă, ceea ce face nefrectomia dreaptă mai dificilă."
+    ],
+    "clinic": "Tromboza venei renale drepte este mai rară.",
+    "image": "data/images/venous/right_renal_vein.png"
+  },
+  "right_subclavian_vein": {
+    "name": "Vena subclaviculară dreaptă",
+    "latin": "Vena subclavia dextra",
+    "localizare": "Sub clavicula dreaptă",
+    "tip": "Venă profundă a toracelui superior",
+    "descriere": "Continuarea venei axilare; se unește cu vena jugulară internă pentru a forma vena brahiocefalică dreaptă.",
+    "functie": "Drenajul membrului superior drept.",
+    "drenaj": "Membrul superior drept",
+    "varsare": "Vena brahiocefalică dreaptă",
+    "afluenti": "Vena jugulară externă, vena cefalică",
+    "relations": [
+      "Posterior de claviculă.",
+      "Anterior de artera subclaviculară."
+    ],
+    "clinic": "Abord preferat pentru cateterism venos central de lungă durată.",
+    "image": "data/images/venous/right_subclavian_vein.png"
+  },
+  "right_subcostal_vein": {
+    "name": "Vena subcostală dreaptă",
+    "latin": "Vena subcostalis dextra",
+    "localizare": "Sub coasta 12, partea dreaptă",
+    "tip": "Venă a peretelui toracic",
+    "descriere": "Drenează peretele toraco-abdominal drept și se varsă în vena azygos.",
+    "functie": "Drenajul venos al regiunii subcostale drepte.",
+    "drenaj": "Peretele toracic inferior drept",
+    "varsare": "Vena azygos",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Însoțește nervul subcostal.",
+      "Sub coasta 12."
+    ],
+    "clinic": "Poate fi lezată în inciziile lombare.",
+    "image": "data/images/venous/right_subcostal_vein.png"
+  },
+  "right_superior_intercostal_vein": {
+    "name": "Vena intercostală superioară dreaptă",
+    "latin": "Vena intercostalis superior dextra",
+    "localizare": "Mediastinul posterior drept",
+    "tip": "Venă toracică",
+    "descriere": "Drenează primele 2-3 spații intercostale drepte și se varsă în vena azygos.",
+    "functie": "Drenajul venos al toracelui superior drept.",
+    "drenaj": "Spațiile intercostale 1-3 drepte",
+    "varsare": "Vena azygos",
+    "afluenti": "Vene intercostale drepte superioare",
+    "relations": [
+      "Urcă pe partea dreaptă a coloanei vertebrale.",
+      "Posterior de esofag."
+    ],
+    "clinic": "Vizibilă pe radiografia toracică ca o mică umbră paravertebrală.",
+    "image": "data/images/venous/right_superior_intercostal_vein.png"
+  },
+  "right_superior_phrenic_vein": {
+    "name": "Vena frenică superioară dreaptă",
+    "latin": "Vena phrenica superior dextra",
+    "localizare": "Fața superioară a diafragmului, dreapta",
+    "tip": "Venă a diafragmului",
+    "descriere": "Drenează sângele din cupola diafragmatică dreaptă și se varsă în vena cavă inferioară.",
+    "functie": "Drenajul venos al diafragmului.",
+    "drenaj": "Diafragmul drept",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Vene diafragmatice",
+    "relations": [
+      "Situată pe fața superioară a diafragmului.",
+      "Posterior de ficat."
+    ],
+    "clinic": "Lezarea poate produce hemoragie în chirurgia hepatică.",
+    "image": "data/images/venous/right_superior_phrenic_vein.png"
+  },
+  "right_superior_pulmonary_vein": {
+    "name": "Vena pulmonară superioară dreaptă",
+    "latin": "Vena pulmonalis superior dextra",
+    "localizare": "Hilul pulmonar drept, superior",
+    "tip": "Venă pulmonară",
+    "descriere": "Aduce sângele oxigenat din lobii superior și mijlociu drept în atriul stâng.",
+    "functie": "Întoarcerea sângelui oxigenat din plămân.",
+    "drenaj": "Lobii superior și mijlociu drept",
+    "varsare": "Atriul stâng",
+    "afluenti": "Venele apicale, anterioare, posterioare, laterale, mediale",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Anterior de bronhia principală dreaptă."
+    ],
+    "clinic": "Anomaliile de întoarcere venoasă pulmonară pot implica această venă.",
+    "image": "data/images/venous/right_superior_pulmonary_vein.png"
+  },
+  "right_testicular_vein": {
+    "name": "Vena testiculară dreaptă",
+    "latin": "Vena testicularis dextra",
+    "localizare": "Abdomen, din scrot până la vena cavă inferioară",
+    "tip": "Venă gonadală",
+    "descriere": "Drenează sângele din testiculul drept și se varsă direct în vena cavă inferioară.",
+    "functie": "Drenajul venos al testiculului drept.",
+    "drenaj": "Testiculul drept",
+    "varsare": "Vena cavă inferioară",
+    "afluenti": "Vene testiculare",
+    "relations": [
+      "Urcă pe mușchiul psoas.",
+      "Se varsă în cavă la un unghi ascuțit."
+    ],
+    "clinic": "Varicocelul drept poate indica o tumoră renală sau cavală.",
+    "image": "data/images/venous/right_testicular_vein.png"
+  },
+  "sigmoid_sinus": {
+    "name": "Sinusul sigmoid",
+    "latin": "Sinus sigmoideus",
+    "localizare": "Șanțul sigmoid al osului temporal și occipital",
+    "tip": "Sinus venos dural",
+    "descriere": "Continuarea sinusului transvers; se varsă în vena jugulară internă.",
+    "functie": "Drenajul venos al creierului către jugulara internă.",
+    "drenaj": "Creier, cerebel, urechea internă",
+    "varsare": "Vena jugulară internă",
+    "afluenti": "Sinusul transvers, sinusul petros superior, vene cerebeloase",
+    "relations": [
+      "Situat în șanțul sigmoid.",
+      "Posterior de urechea medie și mastoidă."
+    ],
+    "clinic": "Tromboza sinusului sigmoid apare în otitele medii complicate (otită mastoidiană).",
+    "image": "data/images/venous/sigmoid_sinus.png"
+  },
+  "sigmoid_veins": {
+    "name": "Venele sigmoidiene",
+    "latin": "Venae sigmoideae",
+    "localizare": "Mezocolonul sigmoid",
+    "tip": "Vene viscerale",
+    "descriere": "Drenează sângele din colonul sigmoid și se varsă în vena mezenterică inferioară.",
+    "functie": "Drenajul venos al colonului sigmoid.",
+    "drenaj": "Colonul sigmoid",
+    "varsare": "Vena mezenterică inferioară",
+    "afluenti": "Venele sigmoidiene",
+    "relations": [
+      "Însoțesc arterele sigmoidiene.",
+      "Situate în mezocolon."
+    ],
+    "clinic": "Varicele sigmoidiene pot sângera în hipertensiunea portală.",
+    "image": "data/images/venous/sigmoid_veins.png"
+  },
+  "small_saphenous_vein": {
+    "name": "Vena safenă mică",
+    "latin": "Vena saphena parva",
+    "localizare": "Fața posterioară a gambei, de la maleola laterală la fosa poplitee",
+    "tip": "Venă superficială a membrului inferior",
+    "descriere": "Urcă pe partea posterioară a gambei și se varsă în vena poplitee.",
+    "functie": "Drenajul venos superficial al gambei posterioare și piciorului lateral.",
+    "drenaj": "Piciorul lateral, gamba posterioară",
+    "varsare": "Vena poplitee",
+    "afluenti": "Vene superficiale, vena comunicantă safenă",
+    "relations": [
+      "Situată în țesutul subcutanat posterior.",
+      "Însoțită de nervul sural."
+    ],
+    "clinic": "Varicele safenei mici pot produce durere și ulcerații.",
+    "image": "data/images/venous/small_saphenous_vein.png"
+  },
+  "splenic_vein": {
+    "name": "Vena splenică",
+    "latin": "Vena splenica",
+    "localizare": "Abdomen, posterior de pancreas",
+    "tip": "Venă viscerală",
+    "descriere": "Drenajul sângelui din splină, stomac și pancreas; se unește cu vena mezenterică superioară pentru a forma vena portă.",
+    "functie": "Drenajul venos al splinei și al unei părți din stomac și pancreas.",
+    "drenaj": "Splină, stomac, pancreas",
+    "varsare": "Vena portă hepatică",
+    "afluenti": "Vena gastro-omentală stângă, venele gastrice scurte, venele pancreatice",
+    "relations": [
+      "Posterior de pancreas.",
+      "Superior de artera splenică."
+    ],
+    "clinic": "Tromboza venei splenice produce varice gastrice izolate.",
+    "image": "data/images/venous/splenic_vein.png"
+  },
+  "straight_sinus": {
+    "name": "Sinusul drept",
+    "latin": "Sinus rectus",
+    "localizare": "Joncțiunea coasei creierului cu coasa cerebeloasă",
+    "tip": "Sinus venos dural",
+    "descriere": "Format prin unirea sinusului sagital inferior cu vena cerebrală mare (Galen); se varsă în confluența sinusurilor.",
+    "functie": "Drenajul venos profund al creierului.",
+    "drenaj": "Creierul profund, corpul calos, ventriculii",
+    "varsare": "Confluența sinusurilor (torcular Herophili)",
+    "afluenti": "Sinusul sagital inferior, vena cerebrală mare",
+    "relations": [
+      "Situat între cele două coase (falx cerebri și tentorium cerebelli).",
+      "Posterior de corpul calos."
+    ],
+    "clinic": "Tromboza produce edem cerebral și hipertensiune intracraniană.",
+    "image": "data/images/venous/straight_sinus.png"
+  },
+  "submental_vein": {
+    "name": "Vena submentonieră",
+    "latin": "Vena submentalis",
+    "localizare": "Sub bărbie, superficial",
+    "tip": "Venă superficială a feței",
+    "descriere": "Drenează sângele din regiunea submentonieră și se varsă în vena facială.",
+    "functie": "Drenajul venos al bărbiei.",
+    "drenaj": "Regiunea submentonieră, buza inferioară",
+    "varsare": "Vena facială",
+    "afluenti": "Vene mentoniere",
+    "relations": [
+      "Coboară pe mușchiul milohioidian.",
+      "Superficial de glanda submandibulară."
+    ],
+    "clinic": "Poate fi lezată în traumatismele bărbiei.",
+    "image": "data/images/venous/submental_vein.png"
+  },
+  "subscapular_vein": {
+    "name": "Vena subscapulară",
+    "latin": "Vena subscapularis",
+    "localizare": "Regiunea scapulară, profund",
+    "tip": "Venă profundă a umărului",
+    "descriere": "Drenează mușchii subscapular și rotund mare, vărsându-se în vena axilară.",
+    "functie": "Drenajul venos al regiunii scapulare anterioare.",
+    "drenaj": "Mușchiul subscapular, rotund mare",
+    "varsare": "Vena axilară",
+    "afluenti": "Vena circumflexă scapulară",
+    "relations": [
+      "Situată profund, pe fața costală a scapulei.",
+      "Însoțește artera subscapulară."
+    ],
+    "clinic": "Poate fi utilizată ca grefă microvasculară.",
+    "image": "data/images/venous/subscapular_vein.png"
+  },
+  "superficial_dorsal_veins_of_penis": {
+    "name": "Venele dorsale superficiale ale penisului",
+    "latin": "Venae dorsales superficiales penis",
+    "localizare": "Fața dorsală a penisului, sub piele",
+    "tip": "Vene superficiale genitale",
+    "descriere": "Drenează pielea și țesutul subcutanat al penisului, vărsându-se în vena pudendală externă.",
+    "functie": "Drenajul venos superficial al penisului.",
+    "drenaj": "Pielea penisului",
+    "varsare": "Vena pudendală externă",
+    "afluenti": "Vene superficiale",
+    "relations": [
+      "Situate sub piele, pe fascia superficială.",
+      "Anastomozează cu vena dorsală profundă."
+    ],
+    "clinic": "Tromboza acestor vene poate fi confundată cu o fractură de penis.",
+    "image": "data/images/venous/superficial_dorsal_veins_of_penis.png"
+  },
+  "superficial_epigastric_vein": {
+    "name": "Vena epigastrică superficială",
+    "latin": "Vena epigastrica superficialis",
+    "localizare": "Peretele abdominal anterior, superficial",
+    "tip": "Venă superficială a abdomenului",
+    "descriere": "Drenează sângele din pielea abdomenului inferior și se varsă în vena safenă mare.",
+    "functie": "Drenajul venos superficial al abdomenului inferior.",
+    "drenaj": "Pielea abdomenului inferior",
+    "varsare": "Vena safenă mare",
+    "afluenti": "Vene superficiale",
+    "relations": [
+      "Situată în țesutul subcutanat.",
+      "Anastomozează cu vena epigastrică inferioară."
+    ],
+    "clinic": "Vizibilă în ciroza hepatică ca circulație colaterală („cap de meduză”).",
+    "image": "data/images/venous/superficial_epigastric_vein.png"
+  },
+  "superficial_temporal_veins": {
+    "name": "Venele temporale superficiale",
+    "latin": "Venae temporales superficiales",
+    "localizare": "Scalpul temporal, în fața urechii",
+    "tip": "Vene superficiale ale scalpului",
+    "descriere": "Drenează sângele din scalpul temporal și se unesc cu vena maxilară pentru a forma vena retromandibulară.",
+    "functie": "Drenajul venos al scalpului temporal.",
+    "drenaj": "Scalpul temporal, fața laterală",
+    "varsare": "Vena retromandibulară",
+    "afluenti": "Venele temporale, auriculare anterioare",
+    "relations": [
+      "Situate superficial, încrucișând arcul zigomatic.",
+      "Însoțesc artera temporală superficială."
+    ],
+    "clinic": "Vizibile la persoanele în vârstă; pot fi utilizate pentru abord venos de urgență.",
+    "image": "data/images/venous/superficial_temporal_veins.png"
+  },
+  "superficial_venous_palmar_arch": {
+    "name": "Arcul venos palmar superficial",
+    "latin": "Arcus venosus palmaris superficialis",
+    "localizare": "Palmă, superficial, sub piele",
+    "tip": "Venă superficială a mâinii",
+    "descriere": "Colectează sângele din degete și palmă și drenează în venele cefalică și bazilică.",
+    "functie": "Drenajul venos superficial al mâinii.",
+    "drenaj": "Degetele, palma",
+    "varsare": "Venele cefalică și bazilică",
+    "afluenti": "Venele digitale palmare",
+    "relations": [
+      "Situat în țesutul subcutanat al palmei.",
+      "Superficial de aponevroza palmară."
+    ],
+    "clinic": "Utilizat pentru abord venos periferic.",
+    "image": "data/images/venous/superficial_venous_palmar_arch.png"
+  },
+  "superior_basal_vein_of_left_lung": {
+    "name": "Vena bazală superioară a plămânului stâng",
+    "latin": "Vena basalis superior pulmonis sinistri",
+    "localizare": "Segmentul bazal superior al lobului inferior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul bazal superior stâng.",
+    "functie": "Drenajul venos al segmentului bazal superior stâng.",
+    "drenaj": "Segmentul bazal superior al lobului inferior stâng",
+    "varsare": "Vena pulmonară inferioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Importantă în rezecțiile lobului inferior stâng.",
+    "image": "data/images/venous/superior_basal_vein_of_left_lung.png"
+  },
+  "superior_basal_vein_of_right_lung": {
+    "name": "Vena bazală superioară a plămânului drept",
+    "latin": "Vena basalis superior pulmonis dextri",
+    "localizare": "Segmentul bazal superior al lobului inferior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul bazal superior drept.",
+    "functie": "Drenajul venos al segmentului bazal superior drept.",
+    "drenaj": "Segmentul bazal superior al lobului inferior drept",
+    "varsare": "Vena pulmonară inferioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Importantă în rezecțiile lobului inferior drept.",
+    "image": "data/images/venous/superior_basal_vein_of_right_lung.png"
+  },
+  "superior_epigastric_veins": {
+    "name": "Venele epigastrice superioare",
+    "latin": "Venae epigastricae superiores",
+    "localizare": "Peretele abdominal superior, în teaca mușchiului drept abdominal",
+    "tip": "Vene profunde ale peretelui abdominal",
+    "descriere": "Drenează sângele din peretele abdominal superior și se varsă în venele toracice interne.",
+    "functie": "Drenajul venos al peretelui abdominal superior.",
+    "drenaj": "Mușchii abdominali superiori",
+    "varsare": "Venele toracice interne",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Coboară în teaca mușchiului drept abdominal.",
+      "Anastomozează cu vena epigastrică inferioară."
+    ],
+    "clinic": "Importantă în circulația colaterală cavo-cavă.",
+    "image": "data/images/venous/superior_epigastric_veins.png"
+  },
+  "superior_gluteal_veins": {
+    "name": "Venele gluteale superioare",
+    "latin": "Venae gluteae superiores",
+    "localizare": "Regiunea fesieră, profund",
+    "tip": "Vene profunde ale fesei",
+    "descriere": "Drenează mușchii fesieri mijlociu și mic, vărsându-se în vena iliacă internă.",
+    "functie": "Drenajul venos al regiunii gluteale superioare.",
+    "drenaj": "Mușchii gluteu mijlociu și mic, tensorul fasciei lata",
+    "varsare": "Vena iliacă internă",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Ies din pelvis prin foramenul suprapiriform.",
+      "Însoțesc artera gluteală superioară."
+    ],
+    "clinic": "Lezarea poate produce hemoragie masivă în fracturile de bazin.",
+    "image": "data/images/venous/superior_gluteal_veins.png"
+  },
+  "superior_labial_vein": {
+    "name": "Vena labială superioară",
+    "latin": "Vena labialis superior",
+    "localizare": "Buza superioară",
+    "tip": "Venă superficială facială",
+    "descriere": "Drenează sângele din buza superioară și se varsă în vena facială.",
+    "functie": "Drenajul venos al buzei superioare.",
+    "drenaj": "Buza superioară",
+    "varsare": "Vena facială",
+    "afluenti": "Ramuri labiale",
+    "relations": [
+      "Situată în submucoasa buzei.",
+      "Comunică cu vena angulară."
+    ],
+    "clinic": "Lezarea produce sângerare abundentă (buza este bine vascularizată).",
+    "image": "data/images/venous/superior_labial_vein.png"
+  },
+  "superior_lingular_vein_of_left_lung": {
+    "name": "Vena lingulară superioară a plămânului stâng",
+    "latin": "Vena lingularis superior pulmonis sinistri",
+    "localizare": "Segmentul lingular superior al lobului superior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul lingular superior.",
+    "functie": "Drenajul venos al lingulei superioare.",
+    "drenaj": "Segmentul lingular superior",
+    "varsare": "Vena pulmonară superioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia lingulară superioară."
+    ],
+    "clinic": "Rezecția segmentară necesită identificarea acestei vene.",
+    "image": "data/images/venous/superior_lingular_vein_of_left_lung.png"
+  },
+  "superior_mesenteric_vein": {
+    "name": "Vena mezenterică superioară",
+    "latin": "Vena mesenterica superior",
+    "localizare": "Abdomen, pe fața posterioară a mezenterului",
+    "tip": "Venă viscerală",
+    "descriere": "Colectează sângele din intestinul subțire, colonul drept și mijlociu; se unește cu vena splenică pentru a forma vena portă.",
+    "functie": "Drenajul venos al intestinului subțire și al jumătății drepte a colonului.",
+    "drenaj": "Jejun, ileon, cec, colon ascendent, colon transvers",
+    "varsare": "Vena portă hepatică",
+    "afluenti": "Venele jejunale, ileale, colice drepte, colice medii, gastro-omentală dreaptă",
+    "relations": [
+      "Urcă în rădăcina mezenterului.",
+      "Anterior de duoden."
+    ],
+    "clinic": "Tromboza venei mezenterice superioare produce infarct intestinal.",
+    "image": "data/images/venous/superior_mesenteric_vein.png"
+  },
+  "superior_ophthalmic_vein": {
+    "name": "Vena oftalmică superioară",
+    "latin": "Vena ophthalmica superior",
+    "localizare": "Orbită, supero-medial",
+    "tip": "Venă a orbitei",
+    "descriere": "Drenează sângele din ochi și structurile orbitale superioare; comunică cu sinusul cavernos.",
+    "functie": "Drenajul venos al orbitei.",
+    "drenaj": "Ochi, mușchii orbitali, pleoapa superioară",
+    "varsare": "Sinusul cavernos",
+    "afluenti": "Vena angulară, vene ciliare, vene musculare",
+    "relations": [
+      "Străbate fisura orbitală superioară.",
+      "Comunicare directă cu sinusul cavernos."
+    ],
+    "clinic": "Infecțiile faciale se pot propaga la sinusul cavernos prin această venă (tromboza de sinus cavernos).",
+    "image": "data/images/venous/superior_ophthalmic_vein.png"
+  },
+  "superior_petrosal_sinus": {
+    "name": "Sinusul petros superior",
+    "latin": "Sinus petrosus superior",
+    "localizare": "Marginea superioară a stâncii temporalului",
+    "tip": "Sinus venos dural",
+    "descriere": "Drenează sinusul cavernos în sinusul transvers.",
+    "functie": "Conectează sinusul cavernos cu sinusul transvers.",
+    "drenaj": "Sinusul cavernos",
+    "varsare": "Sinusul transvers",
+    "afluenti": "Vene pontine, vene cerebeloase",
+    "relations": [
+      "Situat pe creasta stâncii temporalului.",
+      "Este atașat de tentorium cerebelli."
+    ],
+    "clinic": "Lezarea sa produce hemoragie în fosa posterioară.",
+    "image": "data/images/venous/superior_petrosal_sinus.png"
+  },
+  "superior_sagittal_sinus": {
+    "name": "Sinusul sagital superior",
+    "latin": "Sinus sagittalis superior",
+    "localizare": "Marginea superioară a coasei creierului, de-a lungul suturii sagitale",
+    "tip": "Sinus venos dural",
+    "descriere": "Cel mai lung sinus dural; colectează sângele din emisferele cerebrale, drenând în confluența sinusurilor.",
+    "functie": "Drenajul venos superficial al creierului.",
+    "drenaj": "Emisferele cerebrale, scalpul (prin vene emissare)",
+    "varsare": "Confluența sinusurilor (de obicei sinusul transvers drept)",
+    "afluenti": "Vene cerebrale superioare, lacunele laterale",
+    "relations": [
+      "Situat în marginea superioară a coasei creierului.",
+      "Este expus la traumatismele craniene."
+    ],
+    "clinic": "Tromboza produce hipertensiune intracraniană, cefalee, edem papilar.",
+    "image": "data/images/venous/superior_sagittal_sinus.png"
+  },
+  "superior_thyroid_vein": {
+    "name": "Vena tiroidiană superioară",
+    "latin": "Vena thyroidea superior",
+    "localizare": "Gât, deasupra glandei tiroide",
+    "tip": "Venă a gâtului",
+    "descriere": "Drenează sângele din polul superior al tiroidei și laringe, vărsându-se în vena jugulară internă.",
+    "functie": "Drenajul venos al tiroidei superioare și laringelui.",
+    "drenaj": "Glanda tiroidă, laringe",
+    "varsare": "Vena jugulară internă",
+    "afluenti": "Vena laringiană superioară",
+    "relations": [
+      "Însoțește artera tiroidiană superioară.",
+      "Coboară pe mușchiul sternocleidomastoidian."
+    ],
+    "clinic": "Trebuie ligaturată în tiroidectomie.",
+    "image": "data/images/venous/superior_thyroid_vein.png"
+  },
+  "superior_vein_of_left_lung": {
+    "name": "Vena superioară a plămânului stâng (segmentară)",
+    "latin": "Vena superior pulmonis sinistri",
+    "localizare": "Segmentul superior al lobului inferior stâng",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul superior al lobului inferior stâng.",
+    "functie": "Drenajul venos al segmentului superior al lobului inferior.",
+    "drenaj": "Segmentul superior al lobului inferior stâng",
+    "varsare": "Vena pulmonară inferioară stângă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Rezecția segmentului superior necesită atenție la această venă.",
+    "image": "data/images/venous/superior_vein_of_left_lung.png"
+  },
+  "superior_vein_of_right_lung": {
+    "name": "Vena superioară a plămânului drept (segmentară)",
+    "latin": "Vena superior pulmonis dextri",
+    "localizare": "Segmentul superior al lobului inferior drept",
+    "tip": "Venă pulmonară segmentară",
+    "descriere": "Drenează sângele oxigenat din segmentul superior al lobului inferior drept.",
+    "functie": "Drenajul venos al segmentului superior al lobului inferior.",
+    "drenaj": "Segmentul superior al lobului inferior drept",
+    "varsare": "Vena pulmonară inferioară dreaptă",
+    "afluenti": "Vene intersegmentare",
+    "relations": [
+      "Situată în hilul pulmonar.",
+      "Însoțește bronhia segmentară."
+    ],
+    "clinic": "Rezecția segmentului superior (lob inferior) este frecventă în bronșiectazii.",
+    "image": "data/images/venous/superior_vein_of_right_lung.png"
+  },
+  "superior_vena_cava": {
+    "name": "Vena cavă superioară",
+    "latin": "Vena cava superior",
+    "localizare": "Mediastinul superior, posterior de stern",
+    "tip": "Venă cavă",
+    "descriere": "Formată prin unirea venelor brahiocefalice; colectează sângele din jumătatea superioară a corpului și se varsă în atriul drept.",
+    "functie": "Drenajul venos al capului, gâtului, membrelor superioare și toracelui.",
+    "drenaj": "Cap, gât, membre superioare, torace",
+    "varsare": "Atriul drept",
+    "afluenti": "Venele brahiocefalice, vena azygos",
+    "relations": [
+      "Posterior de stern.",
+      "Dreapta de aortă ascendentă.",
+      "Este intrapericardică parțial."
+    ],
+    "clinic": "Sindromul de venă cavă superioară (compresie tumorală) produce edem în „pelering” și cefalee.",
+    "image": "data/images/venous/superior_vena_cava.png"
+  },
+  "suprascapular_vein": {
+    "name": "Vena suprascapulară",
+    "latin": "Vena suprascapularis",
+    "localizare": "Regiunea scapulară superioară",
+    "tip": "Venă profundă a umărului",
+    "descriere": "Drenează mușchii supraspinos și infraspinos, vărsându-se în vena jugulară externă sau vena subclaviculară.",
+    "functie": "Drenajul venos al mușchilor fosei scapulare.",
+    "drenaj": "Mușchii supraspinos, infraspinos",
+    "varsare": "Vena jugulară externă, vena subclaviculară",
+    "afluenti": "Vene musculare",
+    "relations": [
+      "Trece prin incizura scapulară.",
+      "Însoțește artera suprascapulară."
+    ],
+    "clinic": "Poate fi lezată în fracturile de scapulă.",
+    "image": "data/images/venous/suprascapular_vein.png"
+  },
+  "thoracodorsal_vein": {
+    "name": "Vena toracodorsală",
+    "latin": "Vena thoracodorsalis",
+    "localizare": "Axilă, pe mușchiul latissimus dorsi",
+    "tip": "Venă profundă a toracelui",
+    "descriere": "Drenează mușchiul latissimus dorsi și se varsă în vena subscapulară.",
+    "functie": "Drenajul venos al marelui dorsal.",
+    "drenaj": "Mușchiul latissimus dorsi",
+    "varsare": "Vena subscapulară",
+    "afluenti": "Ramuri musculare",
+    "relations": [
+      "Însoțește artera toracodorsală.",
+      "Este utilizată ca pedicul în chirurgia reconstructivă."
+    ],
+    "clinic": "Importantă în lambourile de mușchi latissimus dorsi.",
+    "image": "data/images/venous/thoracodorsal_vein.png"
+  },
+  "transverse_sinus": {
+    "name": "Sinusul transvers",
+    "latin": "Sinus transversus",
+    "localizare": "Șanțul transvers al osului occipital, bilateral",
+    "tip": "Sinus venos dural",
+    "descriere": "Drenează confluența sinusurilor în sinusul sigmoid; primește sinusul petros superior.",
+    "functie": "Drenajul venos al creierului către sigmoid.",
+    "drenaj": "Creier, cerebel, sinusul sagital superior",
+    "varsare": "Sinusul sigmoid",
+    "afluenti": "Sinusul sagital superior, sinusul drept, sinusul petros superior",
+    "relations": [
+      "Situat în șanțul transvers.",
+      "Posterior de lobii occipitali."
+    ],
+    "clinic": "Tromboza produce cefalee, edem papilar și semne de hipertensiune intracraniană.",
+    "image": "data/images/venous/transverse_sinus.png"
+  },
+  "ulnar_veins": {
+    "name": "Venele ulnare",
+    "latin": "Venae ulnares",
+    "localizare": "Antebraț medial, însoțind artera ulnară",
+    "tip": "Vene profunde ale antebrațului",
+    "descriere": "Drenează compartimentul medial al antebrațului și se unesc cu venele radiale pentru a forma venele brahiale.",
+    "functie": "Drenajul venos profund al antebrațului medial.",
+    "drenaj": "Mușchii ulnari, mâna medială",
+    "varsare": "Venele brahiale",
+    "afluenti": "Vene musculare, arcul venos palmar profund",
+    "relations": [
+      "Însoțesc artera ulnară.",
+      "Sunt conectate prin anastomoze."
+    ],
+    "clinic": "Utilizate pentru abord venos la nivelul cotului.",
+    "image": "data/images/venous/ulnar_veins.png"
+  },
+  "vertebral_vein": {
+    "name": "Vena vertebrală",
+    "latin": "Vena vertebralis",
+    "localizare": "Gât, în găurile transversare ale vertebrelor cervicale",
+    "tip": "Venă profundă a gâtului",
+    "descriere": "Drenează sângele din plexurile venoase vertebrale și mușchii cervicali profunzi, vărsându-se în vena brahiocefalică.",
+    "functie": "Drenajul venos al coloanei cervicale și al structurilor înconjurătoare.",
+    "drenaj": "Coloana cervicală, mușchii cefei",
+    "varsare": "Vena brahiocefalică",
+    "afluenti": "Plexuri venoase vertebrale, vene cervicale profunde",
+    "relations": [
+      "Urcă prin găurile transversare.",
+      "Posterior de artera vertebrală."
+    ],
+    "clinic": "Poate fi utilizată pentru abord venos când jugularele sunt inaccesibile.",
+    "image": "data/images/venous/vertebral_vein.png"
+  },
+  "inferior_vein_of_left_ventricle_posterio": {
+    "name": "Vena posterioară a ventriculului stâng (alias)",
+    "latin": "Vena posterior ventriculi sinistri",
+    "localizare": "Fața diafragmatică a ventriculului stâng, posterior",
+    "tip": "Venă cardiacă",
+    "descriere": "Drenează peretele posterior al ventriculului stâng, vărsându-se în sinusul coronar.",
+    "functie": "Drenajul venos posterior al ventriculului stâng.",
+    "drenaj": "Ventriculul stâng posterior",
+    "varsare": "Sinusul coronar",
+    "afluenti": "Vene ventriculare",
+    "relations": [
+      "Situată pe fața diafragmatică.",
+      "Variabilă."
+    ],
+    "clinic": "Reper în electrofiziologie cardiacă.",
+    "image": "data/images/venous/inferior_vein_of_left_ventricle_posterior.png"
+  },
+    "left_gastro_omental_vein": {
+    "name": "Vena gastro-omentală stângă",
+    "latin": "Vena gastroomentalis sinistra",
+    "localizare": "De-a lungul marii curburi a stomacului",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din stomac și epiploon, vărsându-se în vena splenică.",
+    "functie": "Drenajul venos al stomacului și marelui epiploon.",
+    "drenaj": "Stomac, marele epiploon",
+    "varsare": "Vena splenică",
+    "afluenti": "Venele gastrice scurte",
+    "relations": [
+      "Situată pe marea curbură gastrică.",
+      "Însoțește artera omonimă."
+    ],
+    "clinic": "Participă la circulația colaterală în hipertensiunea portală.",
+    "image": "data/images/venous/left_gastro_omental_vein.png"
+  },
+  "right_gastro_omental_vein": {
+    "name": "Vena gastro-omentală dreaptă",
+    "latin": "Vena gastroomentalis dextra",
+    "localizare": "De-a lungul marii curburi a stomacului",
+    "tip": "Venă viscerală",
+    "descriere": "Drenează sângele din stomac și epiploon, vărsându-se în vena mezenterică superioară.",
+    "functie": "Drenajul venos al stomacului și epiploonului.",
+    "drenaj": "Stomac, marele epiploon",
+    "varsare": "Vena mezenterică superioară",
+    "afluenti": "Vene gastrice",
+    "relations": [
+      "Pe marea curbură gastrică.",
+      "Însoțește artera gastro-omentală dreaptă."
+    ],
+    "clinic": "Hipertensiunea portală poate produce varice la acest nivel.",
+    "image": "data/images/venous/right_gastro_omental_vein.png"
+  },
+  "accessory_hemi_azygos_vein": {
+    "name": "Vena hemi-azygos accesorie",
+    "latin": "Vena hemiazygos accessoria",
+    "localizare": "Torace posterior, pe partea stângă a coloanei vertebrale",
+    "tip": "Venă azygos",
+    "descriere": "Drenează venele intercostale stângi superioare și se varsă în vena azygos.",
+    "functie": "Colectarea sângelui venos din peretele toracic stâng superior.",
+    "drenaj": "Venele intercostale stângi 4-8",
+    "varsare": "Vena azygos sau vena hemi-azygos",
+    "afluenti": "Venele intercostale stângi superioare",
+    "relations": [
+      "Se află pe fața anterioară a coloanei vertebrale toracice.",
+      "Anterior: aortă, esofag.",
+      "Posterior: corpurile vertebrale."
+    ],
+    "clinic": "Poate fi lezată în traumatisme toracice.",
+    "image": "data/images/venous/accessory_hemi_azygos_vein.png"
+  },
+  "hemi_azygos_vein": {
+    "name": "Vena hemi-azygos",
+    "latin": "Vena hemiazygos",
+    "localizare": "Torace posterior, pe partea stângă a coloanei vertebrale",
+    "tip": "Venă toracică profundă",
+    "descriere": "Colectează sângele din venele intercostale stângi inferioare și se varsă în vena azygos.",
+    "functie": "Drenajul peretelui toracic stâng inferior.",
+    "drenaj": "Venele intercostale stângi 9-11",
+    "varsare": "Vena azygos",
+    "afluenti": "Vene intercostale stângi inferioare, vene esofagiene",
+    "relations": [
+      "Urcă pe partea stângă a coloanei vertebrale.",
+      "Posterior de aortă."
+    ],
+    "clinic": "Poate fi utilizată ca grefă venoasă.",
+    "image": "data/images/venous/hemi_azygos_vein.png"
+  },
+  "anterior_inferior_jugular_nodes": {
+    "name": "Nodul jugular anterior inferior",
+    "latin": "Nodus jugularis anterior inferior",
+    "localizare": "Anterior de vena jugulară internă, la rădăcina gâtului",
+    "tip": "Ganglion limfatic",
+    "descriere": "Face parte din lanțul jugular anterior; primește limfa de la structurile cervicale anterioare.",
+    "functie": "Filtrarea limfei din regiunea cervicală anterioară.",
+    "drenaj": "Gât, laringe, glanda tiroidă",
+    "varsare": "Trunchiul jugular",
+    "afluenti": "Vase limfatice cervicale",
+    "relations": [
+      "Situat lângă vena jugulară internă.",
+      "Aproape de mușchii infrahioidieni."
+    ],
+    "clinic": "Mărirea acestor ganglioni apare în infecții cervicale sau metastaze.",
+    "image": "data/images/venous/anterior_inferior_jugular_node.png"
+  }
+}

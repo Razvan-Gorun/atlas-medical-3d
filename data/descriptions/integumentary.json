@@ -1,0 +1,1649 @@
+{
+  "ala_of_nose": {
+    "name": "Aripa nasului",
+    "latin": "Ala nasi",
+    "localizare": "Nas, lateral",
+    "tip": "Structură cutanată",
+    "descriere": "Porțiunea laterală, mobilă, a nasului extern, formată din cartilajul alar mare și piele. Participă la dilatarea și constricția narinelor.",
+    "repere_anatomice": ["Este situată lateral de vârful nasului", "Acoperită de piele și mușchiul nazal"],
+    "clinic": "Inflamația foliculilor piloși de pe aripa nasului poate produce furuncule nazale."
+  },
+  "anal_region": {
+    "name": "Regiunea anală",
+    "latin": "Regio analis",
+    "localizare": "Perineu posterior, în jurul anusului",
+    "tip": "Regiune cutanată",
+    "descriere": "Zona tegumentară care înconjoară orificiul anal, cu piele pigmentată, fire de păr și glande sudoripare și sebacee.",
+    "repere_anatomice": ["Este delimitată de șanțul intergluteal", "Conține sfincterul anal extern sub piele"],
+    "clinic": "Fisurile anale și hemoroizii externi afectează această regiune."
+  },
+  "angle_of_mouth": {
+    "name": "Unghiul gurii (comisura bucală)",
+    "latin": "Angulus oris",
+    "localizare": "Față, joncțiunea buzelor superioare și inferioare",
+    "tip": "Reper cutanat",
+    "descriere": "Punctul de întâlnire a buzelor la extremitățile laterale ale orificiului bucal. Modificarea poziției sale reflectă expresiile faciale.",
+    "repere_anatomice": ["Este situat la întâlnirea buzelor", "Mușchii ridicători și depresori se inseră aici"],
+    "clinic": "Cheilita angulară („bube la colțul gurii”) apare prin infecții sau carențe vitaminice."
+  },
+  "antebrachial_region": {
+    "name": "Regiunea antebrahială",
+    "latin": "Regio antebrachii",
+    "localizare": "Antebraț, între cot și încheietura mâinii",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă antebrațul, împărțit în regiunea anterioară și posterioară. Conține foliculi piloși mai dezvoltați pe fața posterioară.",
+    "repere_anatomice": ["Este delimitată de cot (proximal) și încheietura mâinii (distal)", "Fața anterioară are piele mai fină"],
+    "clinic": "Tatuajele și arsurile solare afectează frecvent această regiune."
+  },
+  "anterior_notch_of_auricle": {
+    "name": "Incizura anterioară a pavilionului urechii",
+    "latin": "Incisura anterior auriculae",
+    "localizare": "Pavilionul urechii, anterior",
+    "tip": "Reper cutanat",
+    "descriere": "Mică incizură situată între tragus și rădăcina helixului. Servește ca reper pentru puncte de acupunctură.",
+    "repere_anatomice": ["Este situată anterior de meatul auditiv extern", "Delimitată de tragus și helix"],
+    "clinic": "Poate fi utilizată ca reper în otoplastie."
+  },
+  "anterior_region_of_ankle": {
+    "name": "Regiunea anterioară a gleznei",
+    "latin": "Regio anterior talocruralis",
+    "localizare": "Gleznă, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă fața anterioară a articulației gleznei, între maleole. Conține tendoanele extensorilor vizibile sub piele.",
+    "repere_anatomice": ["Este delimitată de maleola medială și laterală", "Tendonul tibialului anterior este palpabil aici"],
+    "clinic": "Edemele cardiace sau renale se evidențiază prin presiune digitală în această regiune (semnul godeului)."
+  },
+  "anterior_region_of_arm": {
+    "name": "Regiunea anterioară a brațului",
+    "latin": "Regio brachii anterior",
+    "localizare": "Braț, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă fața anterioară a brațului, de la umăr la cot. Conține mușchii biceps brahial și coracobrahial dedesubt.",
+    "repere_anatomice": ["Este delimitată de șanțurile bicipitale medial și lateral", "Pielea este mai subțire și mai mobilă decât posterior"],
+    "clinic": "Loc frecvent pentru administrarea injecțiilor intramusculare (în mușchiul deltoid, nu direct pe această față)."
+  },
+  "anterior_region_of_elbow": {
+    "name": "Regiunea anterioară a cotului (fosa cubitală)",
+    "latin": "Regio cubitalis anterior",
+    "localizare": "Cot, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă fosa cubitală, unde se palpează tendonul bicepsului brahial și pulsațiile arterei brahiale.",
+    "repere_anatomice": ["Este situată anterior de articulația cotului", "Conține vena cubitală mediană (loc de puncție venoasă)"],
+    "clinic": "Este sediul frecvent al puncțiilor venoase și al măsurării tensiunii arteriale."
+  },
+  "anterior_region_of_forearm": {
+    "name": "Regiunea anterioară a antebrațului",
+    "latin": "Regio antebrachii anterior",
+    "localizare": "Antebraț, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă compartimentul flexor al antebrațului. Prezintă pliuri de flexie la încheietura mâinii.",
+    "repere_anatomice": ["Este delimitată de cot și încheietura mâinii", "Tendoanele flexorilor pot fi vizibile sub piele"],
+    "clinic": "Cicatricile post‑operatorii sau arsurile pot limita flexia pumnului."
+  },
+  "anterior_region_of_knee": {
+    "name": "Regiunea anterioară a genunchiului",
+    "latin": "Regio genus anterior",
+    "localizare": "Genunchi, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă patela, ligamentul patelar și articulația genunchiului anterior. Este mobil și ușor de pliat.",
+    "repere_anatomice": ["Este situată peste rotulă și tendonul patelar", "Bursa prepatelară se află sub piele"],
+    "clinic": "Bursita prepatelară („genunchiul femeii de serviciu”) apare prin presiune repetată pe această regiune."
+  },
+  "anterior_region_of_leg": {
+    "name": "Regiunea anterioară a gambei",
+    "latin": "Regio cruris anterior",
+    "localizare": "Gambă, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă compartimentul anterior al gambei, deasupra tibiei. Pielea este subțire și are puțin țesut adipos subcutanat.",
+    "repere_anatomice": ["Este situată peste tibie (creasta tibială)", "Pielea este foarte apropiată de os"],
+    "clinic": "Leziunile tibiale (contuzii, fracturi deschise) implică frecvent această regiune. Vindecarea este lentă datorită vascularizației reduse."
+  },
+  "anterior_region_of_neck": {
+    "name": "Regiunea anterioară a gâtului",
+    "latin": "Regio cervicalis anterior",
+    "localizare": "Gât, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul gâtului anterior, care acoperă musculatura infrahioidiană, glanda tiroidă și traheea. Formează pliurile orizontale ale gâtului.",
+    "repere_anatomice": ["Este delimitată de mandibulă (superior) și incizura jugulară (inferior)", "Conține cartilajul tiroidian (mărul lui Adam) vizibil"],
+    "clinic": "Traheostomia se efectuează prin incizia pielii acestei regiuni."
+  },
+  "anterior_region_of_thigh": {
+    "name": "Regiunea anterioară a coapsei",
+    "latin": "Regio femoris anterior",
+    "localizare": "Coapsă, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchiul cvadriceps femural. Este mai groasă și mai puțin mobilă decât pe fața medială.",
+    "repere_anatomice": ["Este delimitată de triunghiul femural (superior) și genunchi (inferior)", "Conține foliculi piloși"],
+    "clinic": "Este sediul frecvent al lipoamelor și al vergeturilor."
+  },
+  "anterior_region_of_thorax": {
+    "name": "Regiunea anterioară a toracelui",
+    "latin": "Regio thoracica anterior",
+    "localizare": "Torace, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă sternul, coastele anterioare și mușchii pectorali. La femei, conține glandele mamare.",
+    "repere_anatomice": ["Este delimitată de clavicule (superior) și rebordul costal (inferior)", "Prezintă pliul submamar la femei"],
+    "clinic": "Este sediul frecvent al erupțiilor acneice și al intervențiilor de chirurgie estetică (mastopexie, augmentare mamară)."
+  },
+  "anterior_region_of_wrist": {
+    "name": "Regiunea anterioară a încheieturii mâinii",
+    "latin": "Regio carpalis anterior",
+    "localizare": "Încheietura mâinii, anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația radiocarpiană pe fața palmară. Prezintă pliurile de flexie și permite palparea pulsului radial.",
+    "repere_anatomice": ["Este situată între antebraț și palmă", "Conține retinaculul flexorilor sub piele"],
+    "clinic": "Sindromul de tunel carpian se manifestă prin durere și furnicături în această regiune."
+  },
+  "antihelix": {
+    "name": "Antihelixul",
+    "latin": "Antihelix",
+    "localizare": "Pavilionul urechii",
+    "tip": "Reper cutanat cartilaginos",
+    "descriere": "Pliu cartilaginos al pavilionului urechii, situat paralel cu helixul, în interiorul acestuia. Se bifurcă superior formând cele două crura.",
+    "repere_anatomice": ["Este situat anterior de helix", "Separă concha de helix"],
+    "clinic": "Este un reper important în chirurgia estetică a urechii (otoplastie)."
+  },
+  "antitragus": {
+    "name": "Antitragusul",
+    "latin": "Antitragus",
+    "localizare": "Pavilionul urechii, inferior",
+    "tip": "Reper cutanat cartilaginos",
+    "descriere": "Mică proeminență cartilaginoasă situată opus tragusului, deasupra lobulului urechii.",
+    "repere_anatomice": ["Este situat superior de lobul", "Este separat de tragus prin incizura intertragică"],
+    "clinic": "Poate fi perforat pentru bijuterii în unele culturi."
+  },
+  "apex_of_auricle": {
+    "name": "Vârful pavilionului urechii",
+    "latin": "Apex auriculae",
+    "localizare": "Pavilionul urechii, superior",
+    "tip": "Reper cutanat",
+    "descriere": "Punctul cel mai superior al pavilionului urechii, situat la joncțiunea marginii posterioare cu helixul.",
+    "repere_anatomice": ["Este situat la extremitatea superioară a pavilionului", "Este acoperit de piele și conține cartilaj"],
+    "clinic": "Reprezintă un reper pentru măsurători craniometrice."
+  },
+  "apex_of_nose": {
+    "name": "Vârful nasului (lobulul nazal)",
+    "latin": "Apex nasi",
+    "localizare": "Nas, anterior",
+    "tip": "Reper cutanat",
+    "descriere": "Punctul cel mai anterior al nasului extern, format din cartilajele alare mari. Are o mobilitate redusă și este bogat inervat.",
+    "repere_anatomice": ["Este situat între aripile nazale", "Acoperit de piele și mușchiul nazal"],
+    "clinic": "Rinofima (hipertrofia glandelor sebacee) afectează frecvent vârful nasului."
+  },
+  "auricular_region": {
+    "name": "Regiunea auriculară",
+    "latin": "Regio auricularis",
+    "localizare": "Față laterală, în jurul pavilionului urechii",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă pavilionul urechii și zonele adiacente (temporal și mastoidian). Conține cartilajul auricular și glande sebacee.",
+    "repere_anatomice": ["Este situată lateral pe craniu", "Include helixul, antihelixul, tragusul și lobulul"],
+    "clinic": "Otita externă („urechea înotătorului”) afectează această regiune. Piercing‑urile sunt frecvente."
+  },
+  "auricular_tubercle": {
+    "name": "Tuberculul auricular (Darwin)",
+    "latin": "Tuberculum auriculare",
+    "localizare": "Helixul pavilionului urechii, la joncțiunea dintre partea posterioară și superioară",
+    "tip": "Mică proeminență cartilaginoasă",
+    "descriere": "Proeminență inconstantă pe marginea liberă a helixului, considerată un vestigiu al vârfului urechii la mamifere.",
+    "repere_anatomice": ["Este situat pe helix, la ~1/3 de vârf", "Poate fi absent"],
+    "clinic": "Nu are semnificație patologică; este o trăsătură genetică autosomal dominantă."
+  },
+  "brachial_region": {
+    "name": "Regiunea brahială (brațul)",
+    "latin": "Regio brachii",
+    "localizare": "Braț, între umăr și cot",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă brațul. Conține foliculi piloși pe fața posterioară și este mai subțire pe fața anterioară.",
+    "repere_anatomice": ["Este delimitată de linia axilară (superior) și plica cotului (inferior)", "Conține șanțurile bicipitale medial și lateral"],
+    "clinic": "Este sediul frecvent al leziunilor de psoriazis și al keratozei pilare."
+  },
+  "buccal_region": {
+    "name": "Regiunea bucală (obrazul)",
+    "latin": "Regio buccalis",
+    "localizare": "Față, între nas și ureche, deasupra mandibulei",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul obrazului, care acoperă mușchiul buccinator și corpul adipos bucal (Bichat). La copii, este proeminent datorită grăsimii bucale.",
+    "repere_anatomice": ["Este delimitată de șanțul nazolabial (anterior) și ureche (posterior)", "Conține glande sebacee"],
+    "clinic": "Acneea vulgară afectează frecvent această regiune la adolescenți."
+  },
+  "carotid_triangle": {
+    "name": "Triunghiul carotidian",
+    "latin": "Trigonum caroticum",
+    "localizare": "Gât anterior, sub mușchiul sternocleidomastoidian",
+    "tip": "Regiune cutanată și reper anatomic",
+    "descriere": "Regiune triunghiulară delimitată de mușchii sternocleidomastoidian, digastric posterior și omohioidian superior. Pielea care o acoperă este subțire și mobilă.",
+    "repere_anatomice": ["Este situată anterior de SCM", "Conține bifurcația arterei carotide comune sub piele"],
+    "clinic": "Pulsul carotidian se palpează în acest triunghi. Masajul sinusului carotidian poate produce bradicardie."
+  },
+  "carpal_region": {
+    "name": "Regiunea carpiană (încheietura mâinii)",
+    "latin": "Regio carpalis",
+    "localizare": "Mână, proximal, între antebraț și metacarp",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă oasele carpiene și articulația radiocarpiană. Prezintă pliuri de flexie și permite palparea pulsului radial.",
+    "repere_anatomice": ["Este situată distal de antebraț", "Conține retinaculul flexorilor și extensorilor"],
+    "clinic": "Fractura de radius distal (Colles) deformează această regiune („în furculiță”)."
+  },
+  "cavity_of_concha": {
+    "name": "Cavitatea conchei",
+    "latin": "Cavitas conchae",
+    "localizare": "Pavilionul urechii, central",
+    "tip": "Reper cutanat",
+    "descriere": "Depresiunea centrală a pavilionului urechii, care conduce undele sonore spre meatul auditiv extern. Este formată din cymba conchae (superior) și cavum conchae (inferior).",
+    "repere_anatomice": ["Este situată anterior de antihelix", "Este separată de meatul auditiv extern prin tragus"],
+    "clinic": "Forma conchei este importantă în adaptarea protezelor auditive."
+  },
+  "cheek": {
+    "name": "Obrazul",
+    "latin": "Bucca",
+    "localizare": "Față, lateral de gură",
+    "tip": "Structură cutanată",
+    "descriere": "Sinonim pentru regiunea bucală. Pielea obrazului este bogată în glande sebacee și foliculi piloși.",
+    "repere_anatomice": ["A se vedea regiunea bucală"],
+    "clinic": "Roșeața obrajilor (eritroza) poate indica febră sau rozacee."
+  },
+  "chin": {
+    "name": "Bărbia (mentonul)",
+    "latin": "Mentum",
+    "localizare": "Față, anterior, sub gură",
+    "tip": "Proeminență cutanată",
+    "descriere": "Proeminența simfizei mandibulare acoperită de piele și mușchiul mentonier. Forma sa variază individual și sexual (mai proeminentă la bărbați).",
+    "repere_anatomice": ["Este situată inferior de buza inferioară", "Mușchiul mentonier se inseră pe pielea bărbiei"],
+    "clinic": "Cicatricile de la căzături sunt frecvente pe bărbie la copii."
+  },
+  "concha_of_auricle": {
+    "name": "Concha pavilionului urechii",
+    "latin": "Concha auriculae",
+    "localizare": "Pavilionul urechii, central",
+    "tip": "Reper cutanat cartilaginos",
+    "descriere": "A se vedea cavitatea conchei. Include cymba conchae (superior) și cavum conchae (inferior).",
+    "repere_anatomice": ["A se vedea cavitatea conchei"],
+    "clinic": "Este un reper în acupunctura auriculară."
+  },
+  "crura_of_antihelix": {
+    "name": "Ramurile antihelixului",
+    "latin": "Crura antihelicis",
+    "localizare": "Pavilionul urechii, superior",
+    "tip": "Repere cutanate cartilaginoase",
+    "descriere": "Cele două ramuri (superioară și inferioară) în care se bifurcă antihelixul superior, delimitând fosa triunghiulară.",
+    "repere_anatomice": ["Sunt situate superior de conchă", "Delimitează fosa triunghiulară"],
+    "clinic": "Sunt repere în chirurgia estetică a urechii."
+  },
+  "cubital_fossa": {
+    "name": "Fosa cubitală (plica cotului)",
+    "latin": "Fossa cubitalis",
+    "localizare": "Cot, anterior",
+    "tip": "Depresiune cutanată",
+    "descriere": "Arie triunghiulară situată anterior de articulația cotului, unde se palpează tendonul bicepsului și se recoltează sânge venos.",
+    "repere_anatomice": ["Este delimitată de mușchii brahioradial (lateral) și pronator rotund (medial)", "Conține vena cubitală mediană"],
+    "clinic": "Este locul de elecție pentru puncția venoasă periferică."
+  },
+  "cubital_region": {
+    "name": "Regiunea cubitală (cotul)",
+    "latin": "Regio cubitalis",
+    "localizare": "Cot",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația cotului. Este lax și permite mișcarea liberă. Formează pliuri de flexie.",
+    "repere_anatomice": ["Este situată între braț și antebraț", "Conține olecranul palpabil sub piele"],
+    "clinic": "Bursita olecraniană („cotul studentului”) apare prin presiune repetată pe această regiune."
+  },
+  "cymba_conchae": {
+    "name": "Cymba conchae",
+    "latin": "Cymba conchae",
+    "localizare": "Concha pavilionului urechii, superior",
+    "tip": "Reper cutanat",
+    "descriere": "Porțiunea superioară, îngustă, a conchei, situată între ramurile antihelixului.",
+    "repere_anatomice": ["Este situată superior de cavum conchae", "Este delimitată de crura antihelixului"],
+    "clinic": "Este un punct de acupunctură (punctul Shen Men)."
+  },
+  "deltoid_region": {
+    "name": "Regiunea deltoidiană",
+    "latin": "Regio deltoidea",
+    "localizare": "Umăr, peste mușchiul deltoid",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchiul deltoid. Este o regiune frecvent utilizată pentru injecții intramusculare.",
+    "repere_anatomice": ["Este delimitată de claviculă, acromion și humerus", "Pielea este mobilă și bine vascularizată"],
+    "clinic": "Este locul preferat pentru vaccinuri intramusculare la adulți."
+  },
+  "deltopectoral_triangle": {
+    "name": "Triunghiul deltopectoral (Mohrenheim)",
+    "latin": "Trigonum deltopectorale",
+    "localizare": "Torace superior, între mușchii deltoid și pectoral mare",
+    "tip": "Depresiune cutanată",
+    "descriere": "Mică depresiune subcutanată situată între marginea claviculară a deltoidului și marginea superioară a pectoralului mare. Conține vena cefalică.",
+    "repere_anatomice": ["Este situată inferior de claviculă", "Vena cefalică se găsește aici"],
+    "clinic": "Este un reper pentru abordul chirurgical al venei cefalice (cateterism cardiac)."
+  },
+  "distal_transverse_arch_of_foot": {
+    "name": "Arcul transvers distal al piciorului",
+    "latin": "Arcus transversus distalis pedis",
+    "localizare": "Antepicior, la nivelul capetelor metatarsienelor",
+    "tip": "Arc cutanat și osos",
+    "descriere": "Arcul format de capetele metatarsienelor, vizibil pe talpa piciorului. Pielea plantară de deasupra sa formează zona de sprijin anterioară.",
+    "repere_anatomice": ["Este situat la baza degetelor", "Susținut de ligamentele transvers metatarsiene"],
+    "clinic": "Prăbușirea acestui arc produce metatarsalgie și formarea calozităților plantare."
+  },
+  "dorsal_surfaces_of_digits_of_foot": {
+    "name": "Fețele dorsale ale degetelor piciorului",
+    "latin": "Facies dorsales digitorum pedis",
+    "localizare": "Degetele piciorului, dorsal",
+    "tip": "Suprafață cutanată",
+    "descriere": "Tegumentul care acoperă partea superioară a degetelor de la picioare. Conține unghii și foliculi piloși (mai rari).",
+    "repere_anatomice": ["Este acoperită de piele fină", "Unghiile sunt anexe ale acestei regiuni"],
+    "clinic": "Unghiile incarnate și infecțiile fungice (onicomicoza) afectează frecvent această regiune."
+  },
+  "dorsal_surfaces_of_digits_of_hand": {
+    "name": "Fețele dorsale ale degetelor mâinii",
+    "latin": "Facies dorsales digitorum manus",
+    "localizare": "Degetele mâinii, dorsal",
+    "tip": "Suprafață cutanată",
+    "descriere": "Tegumentul care acoperă dosul degetelor. Prezintă pliuri articulare, unghii și foliculi piloși pe falangele proximale.",
+    "repere_anatomice": ["Este acoperită de piele fină și elastică", "Unghiile acoperă falangele distale dorsal"],
+    "clinic": "Artroza interfalangiană produce nodulii Heberden (IFD) și Bouchard (IFP), vizibili pe această față."
+  },
+  "dorsum_of_foot": {
+    "name": "Dorsul piciorului",
+    "latin": "Dorsum pedis",
+    "localizare": "Picior, superior",
+    "tip": "Suprafață cutanată",
+    "descriere": "Fața superioară a piciorului, de la gleznă la degete. Pielea este subțire, mobilă și lasă să se vadă tendoanele extensorilor.",
+    "repere_anatomice": ["Este delimitată de maleole (proximal) și degete (distal)", "Artera dorsală a piciorului se palpează aici"],
+    "clinic": "Edemul piciorului se evidențiază prin ștergerea reliefului tendoanelor de pe dorsul piciorului."
+  },
+  "dorsum_of_hand": {
+    "name": "Dorsul mâinii",
+    "latin": "Dorsum manus",
+    "localizare": "Mână, posterior",
+    "tip": "Suprafață cutanată",
+    "descriere": "Fața posterioară a mâinii. Pielea este subțire, elastică și lasă să se vadă venele superficiale și tendoanele extensorilor.",
+    "repere_anatomice": ["Este acoperită de piele fină", "Venele dorsale sunt vizibile și utilizate pentru abord venos"],
+    "clinic": "Pielea de pe dorsul mâinii este folosită pentru evaluarea turgescenței cutanate (deshidratare)."
+  },
+  "eminentia_conchae": {
+    "name": "Eminența conchei",
+    "latin": "Eminentia conchae",
+    "localizare": "Fața posterioară a pavilionului urechii, opusă conchei",
+    "tip": "Proeminență cutanată",
+    "descriere": "Proeminența de pe fața posterioară a urechii, corespunzând concavității conchei de pe fața anterioară.",
+    "repere_anatomice": ["Este situată pe fața posterioară a urechii", "Este acoperită de piele"],
+    "clinic": "Poate fi vizibilă la urechile proeminente (urechi decolate)."
+  },
+  "eminentia_fossae_triangularis": {
+    "name": "Eminența fosei triunghiulare",
+    "latin": "Eminentia fossae triangularis",
+    "localizare": "Fața posterioară a pavilionului urechii, opusă fosei triunghiulare",
+    "tip": "Proeminență cutanată",
+    "descriere": "Proeminența de pe fața posterioară a urechii, corespunzând fosei triunghiulare.",
+    "repere_anatomice": ["Este situată pe fața posterioară a urechii"],
+    "clinic": "Importantă în modelarea urechii în otoplastie."
+  },
+  "eminentia_scaphae": {
+    "name": "Eminența scafei",
+    "latin": "Eminentia scaphae",
+    "localizare": "Fața posterioară a pavilionului urechii, opusă scafei",
+    "tip": "Proeminență cutanată",
+    "descriere": "Proeminența de pe fața posterioară a urechii, corespunzând șanțului scafoid (scapha).",
+    "repere_anatomice": ["Este situată pe fața posterioară a urechii"],
+    "clinic": "Reper în chirurgia estetică a urechii."
+  },
+  "epigastric_region": {
+    "name": "Regiunea epigastrică",
+    "latin": "Regio epigastrica",
+    "localizare": "Abdomen superior, între rebordurile costale",
+    "tip": "Regiune cutanată",
+    "descriere": "Zona tegumentară a abdomenului superior, situată deasupra ombilicului. Acoperă stomacul, ficatul și pancreasul.",
+    "repere_anatomice": ["Este delimitată de rebordurile costale și linia ombilicală", "Pielea este mai groasă și conține mai multe glande sebacee"],
+    "clinic": "Durerea din ulcerul gastric sau pancreatită se proiectează în această regiune."
+  },
+  "external_nose": {
+    "name": "Nasul extern",
+    "latin": "Nasus externus",
+    "localizare": "Față, central",
+    "tip": "Structură cutanată",
+    "descriere": "Partea vizibilă a nasului, formată din cartilaje și oase acoperite de piele. Include rădăcina, dosul, vârful, aripile și nările.",
+    "repere_anatomice": ["Este situat între frunte și buza superioară", "Conține oasele nazale (superior) și cartilajele (inferior)"],
+    "clinic": "Rinoplastia modifică forma nasului extern."
+  },
+  "eyebrow": {
+    "name": "Sprânceana",
+    "latin": "Supercilium",
+    "localizare": "Față, deasupra orbitei",
+    "tip": "Structură cutanată cu peri",
+    "descriere": "Bandă arcuită de piele acoperită cu peri groși, situată deasupra marginii orbitale. Protejează ochii de sudoare și lumină.",
+    "repere_anatomice": ["Este situată deasupra orbitei", "Conține mușchiul corugator al sprâncenei sub piele"],
+    "clinic": "Madaroza (pierderea sprâncenelor) apare în lepră și hipotiroidism."
+  },
+  "eyelashes": {
+    "name": "Genele",
+    "latin": "Cilia",
+    "localizare": "Marginea liberă a pleoapelor",
+    "tip": "Peri specializați",
+    "descriere": "Peri curbați, dispuși pe 2‑3 rânduri pe marginea pleoapelor, care protejează ochii de praf și corpii străini.",
+    "repere_anatomice": ["Sunt situate pe pleoapa superioară și inferioară", "Glandele sebacee (Zeiss) și sudoripare (Moll) se deschid la baza genelor"],
+    "clinic": "Blefarita (inflamația marginii pleoapei) afectează foliculii genelor."
+  },
+  "eyelids": {
+    "name": "Pleoapele",
+    "latin": "Palpebrae",
+    "localizare": "Ochi, anterior",
+    "tip": "Structuri cutanate mobile",
+    "descriere": "Pliuri cutanate care acoperă și protejează globul ocular. Conțin tarsuri, glande Meibomius și mușchi (orbicular, ridicător).",
+    "repere_anatomice": ["Sunt situate anterior de globul ocular", "Pleoapa superioară este mai mobilă și mai mare"],
+    "clinic": "Ptoza palpebrală (căderea pleoapei) poate fi congenitală sau dobândită."
+  },
+  "femoral_region": {
+    "name": "Regiunea femurală (coapsa)",
+    "latin": "Regio femoris",
+    "localizare": "Coapsă, între șold și genunchi",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă coapsa. Este mai gros pe fața laterală și conține foliculi piloși.",
+    "repere_anatomice": ["Este delimitată de plica inghinală (superior) și genunchi (inferior)", "Conține triunghiul femural anterior"],
+    "clinic": "Este sediul frecvent al vergeturilor și al celulitei."
+  },
+  "femoral_triangle": {
+    "name": "Triunghiul femural (Scarpa)",
+    "latin": "Trigonum femorale",
+    "localizare": "Coapsă anterioară, superior",
+    "tip": "Regiune cutanată și reper anatomic",
+    "descriere": "Regiune triunghiulară delimitată de ligamentul inghinal, mușchiul croitor și mușchiul adductor lung. Pielea care îl acoperă este subțire.",
+    "repere_anatomice": ["Este situat sub plica inghinală", "Conține vasele femurale palpabile sub piele"],
+    "clinic": "Pulsul femural se palpează în acest triunghi. Este sediul herniilor femurale."
+  },
+  "fossa_antihelica": {
+    "name": "Fosa antihelicală",
+    "latin": "Fossa antihelica",
+    "localizare": "Pavilionul urechii, între antihelix și helix",
+    "tip": "Depresiune cutanată",
+    "descriere": "Șanțul care separă helixul de antihelix pe fața anterioară a pavilionului urechii.",
+    "repere_anatomice": ["Este situată între helix și antihelix", "Face parte din relieful normal al urechii"],
+    "clinic": "Poate fi accentuată sau ștearsă în malformațiile congenitale ale urechii."
+  },
+  "frontal_region": {
+    "name": "Regiunea frontală (fruntea)",
+    "latin": "Regio frontalis",
+    "localizare": "Față, superior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă osul frontal, de la sprâncene la linia de implant a părului. Conține mușchiul frontal sub piele.",
+    "repere_anatomice": ["Este delimitată de sprâncene (inferior) și scalp (superior)", "Pielea este mobilă și formează riduri transversale"],
+    "clinic": "Ridurile frontale sunt primele semne ale îmbătrânirii cutanate. Injecțiile cu toxină botulinică relaxează mușchiul frontal."
+  },
+  "gluteal_fold": {
+    "name": "Plica fesieră (șanțul subfesier)",
+    "latin": "Sulcus glutealis",
+    "localizare": "Fesă, inferior, între fesă și coapsă",
+    "tip": "Pliu cutanat",
+    "descriere": "Pliul cutanat orizontal care separă regiunea gluteală de coapsa posterioară. Nu corespunde marginii inferioare a gluteului maxim.",
+    "repere_anatomice": ["Este situată la limita dintre fesă și coapsă", "Este mai evidentă la persoanele cu țesut adipos dezvoltat"],
+    "clinic": "Intertrigo (iritația pliurilor) poate afecta această regiune la persoanele obeze."
+  },
+  "gluteal_region": {
+    "name": "Regiunea gluteală (fesa)",
+    "latin": "Regio glutealis",
+    "localizare": "Fesă, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii fesieri. Este gros, bogat în țesut adipos și conține foliculi piloși.",
+    "repere_anatomice": ["Este delimitată de creasta iliacă (superior) și plica fesieră (inferior)", "Conține orificiul anal în centru (posterior)"],
+    "clinic": "Este sediul injecțiilor intramusculare (cadranul supero‑extern). Escarele de decubit apar pe această regiune la pacienții imobilizați."
+  },
+  "greater_supraclavicular_fossa": {
+    "name": "Fosa supraclaviculară mare",
+    "latin": "Fossa supraclavicularis major",
+    "localizare": "Gât, posterior de claviculă",
+    "tip": "Depresiune cutanată",
+    "descriere": "Depresiunea situată posterior de claviculă, între mușchii sternocleidomastoidian (anterior) și trapez (posterior). Conține vasele subclaviculare și plexul brahial.",
+    "repere_anatomice": ["Este situată superior de claviculă", "Este mai profundă la persoanele slabe"],
+    "clinic": "Adenopatiile supraclaviculare (ganglionul Virchow) pot indica metastaze abdominale."
+  },
+  "hairs_of_eyebrow": {
+    "name": "Perii sprâncenelor",
+    "latin": "Pili supercilii",
+    "localizare": "Sprâncene",
+    "tip": "Peri specializați",
+    "descriere": "Perii groși, arcuiți, care formează sprâncenele. Sunt mai groși și mai pigmentați decât părul de pe scalp.",
+    "repere_anatomice": ["Sunt implantați în pielea sprâncenelor", "Au o direcție de creștere specifică"],
+    "clinic": "Pierderea cozii sprâncenei (semnul Hertoghe) este un semn de hipotiroidism."
+  },
+  "hairs_of_head": {
+    "name": "Părul de pe cap (scalpul)",
+    "latin": "Capilli",
+    "localizare": "Scalp",
+    "tip": "Anexe cutanate (peri)",
+    "descriere": "Perii lungi care acoperă scalpul, cu funcție de protecție termică și împotriva radiațiilor UV. Cresc din foliculi piloși localizați în derm.",
+    "repere_anatomice": ["Acoperă bolta craniană", "Fiecare fir are un ciclu de creștere (anagen, catagen, telogen)"],
+    "clinic": "Alopecia androgenică (chelia) este cea mai frecventă cauză de cădere a părului."
+  },
+  "hallucial_eminence": {
+    "name": "Eminența halucelui (baza degetului mare)",
+    "latin": "Eminentia hallucis",
+    "localizare": "Plantă, proximal de haluce",
+    "tip": "Proeminență cutanată",
+    "descriere": "Proeminența de pe fața plantară, corespunzând capului metatarsianului I și oaselor sesamoide. Este o zonă de sprijin importantă în mers.",
+    "repere_anatomice": ["Este situată la baza halucelui", "Conține cele două oase sesamoide sub piele"],
+    "clinic": "Calozitățile plantare (duriculoanele) se formează frecvent pe această eminență."
+  },
+  "heel_region": {
+    "name": "Regiunea calcaneană (călcâiul)",
+    "latin": "Regio calcanea",
+    "localizare": "Picior, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă calcaneul. Pielea este groasă, cu țesut adipos dens, adaptată pentru suportul greutății corporale.",
+    "repere_anatomice": ["Este situată posterior de gleznă", "Conține tuberozitatea calcaneană palpabilă"],
+    "clinic": "Fasciita plantară și pintenul calcanean produc durere în această regiune."
+  },
+  "helix": {
+    "name": "Helixul",
+    "latin": "Helix",
+    "localizare": "Pavilionul urechii, marginea externă",
+    "tip": "Reper cutanat cartilaginos",
+    "descriere": "Marginea liberă, curbată, a pavilionului urechii, formată din cartilaj acoperit de piele. Se întinde de la rădăcină (crus helicis) până la lobul.",
+    "repere_anatomice": ["Este marginea cea mai externă a urechii", "Conține tuberculul Darwin (inconstant)"],
+    "clinic": "Pericondrita helixului apare prin infecții sau traumatisme (piercing)."
+  },
+  "hip_region": {
+    "name": "Regiunea șoldului",
+    "latin": "Regio coxae",
+    "localizare": "Șold, lateral",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația șoldului și trohanterul mare. Conține bursele trohanterice sub piele.",
+    "repere_anatomice": ["Este situată lateral, la nivelul bazinului", "Trohanterul mare este palpabil sub piele"],
+    "clinic": "Bursita trohanterică produce durere la presiunea pe această regiune."
+  },
+  "hypochondriac_region": {
+    "name": "Regiunea hipocondriacă",
+    "latin": "Regio hypochondriaca",
+    "localizare": "Abdomen superior, sub rebordul costal",
+    "tip": "Regiune cutanată",
+    "descriere": "Zona tegumentară situată sub coaste, de o parte și de alta a epigastrului. Acoperă ficatul (dreapta) și splina/stomacul (stânga).",
+    "repere_anatomice": ["Este delimitată de rebordul costal (superior) și linia ombilicală (inferior)", "Pielea este similară cu restul abdomenului"],
+    "clinic": "Semnul Murphy (durerea la palparea hipocondrului drept) sugerează colecistită acută."
+  },
+  "hypogastric_region": {
+    "name": "Regiunea hipogastrică (suprapubiană)",
+    "latin": "Regio hypogastrica",
+    "localizare": "Abdomen inferior, deasupra pubisului",
+    "tip": "Regiune cutanată",
+    "descriere": "Zona tegumentară situată inferior de ombilic, deasupra simfizei pubiene. Conține fire de păr pubiene la adulți.",
+    "repere_anatomice": ["Este delimitată de ombilic (superior) și pubis (inferior)", "Conține linia de implant a părului pubian"],
+    "clinic": "Incizia Pfannenstiel (cezariană) se face transversal în această regiune."
+  },
+  "infra_orbital_region": {
+    "name": "Regiunea infraorbitală",
+    "latin": "Regio infraorbitalis",
+    "localizare": "Față, sub orbită",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul situat sub marginea inferioară a orbitei, deasupra obrazului. Conține foramenul infraorbital și mușchiul ridicător al buzei superioare.",
+    "repere_anatomice": ["Este situată între ochi și obraz", "Foramenul infraorbital este palpabil sub piele"],
+    "clinic": "Nevralgia de trigemen (ramura V2) se manifestă prin durere în această regiune."
+  },
+  "infraclavicular_fossa": {
+    "name": "Fosa infraclaviculară (Mohrenheim)",
+    "latin": "Fossa infraclavicularis",
+    "localizare": "Torace superior, sub claviculă",
+    "tip": "Depresiune cutanată",
+    "descriere": "Depresiunea triunghiulară situată sub claviculă, între mușchii deltoid și pectoral mare. A se vedea triunghiul deltopectoral.",
+    "repere_anatomice": ["Este situată inferior de claviculă", "Conține vena cefalică"],
+    "clinic": "Este un reper pentru abordul chirurgical al venei cefalice."
+  },
+  "infrahyoid_region": {
+    "name": "Regiunea infrahioidiană",
+    "latin": "Regio infrahyoidea",
+    "localizare": "Gât anterior, sub osul hioid",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii infrahioidieni (sternohioidian, sternotiroidian, tirohioidian, omohioidian). Conține glanda tiroidă și traheea.",
+    "repere_anatomice": ["Este situată între osul hioid și incizura jugulară", "Pielea este mobilă și subțire"],
+    "clinic": "Incizia pentru tiroidectomie se face în această regiune (plică cutanată transversală)."
+  },
+  "inframammary_region": {
+    "name": "Regiunea inframamară",
+    "latin": "Regio inframammaria",
+    "localizare": "Torace anterior, sub glanda mamară",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul situat imediat sub sâni, formând pliul submamar (plică naturală a pielii).",
+    "repere_anatomice": ["Este situată sub glanda mamară", "Formează șanțul submamar"],
+    "clinic": "Inciziile pentru mastopexie și augmentare mamară se plasează frecvent în acest șanț."
+  },
+  "infrascapular_region": {
+    "name": "Regiunea infrascapulară",
+    "latin": "Regio infrascapularis",
+    "localizare": "Spate, sub scapulă",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă zona posterioară a toracelui, inferior de unghiul inferior al scapulei.",
+    "repere_anatomice": ["Este situată sub scapulă", "Acoperă mușchiul dorsal mare și dințatul anterior"],
+    "clinic": "Durerea de spate inferioară poate iradia în această regiune."
+  },
+  "inguinal_region": {
+    "name": "Regiunea inghinală",
+    "latin": "Regio inguinalis",
+    "localizare": "Abdomen inferior, la joncțiunea cu coapsa",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă canalul inghinal și ligamentul inghinal. Conține foliculi piloși și glande sudoripare apocrine.",
+    "repere_anatomice": ["Este situată de o parte și de alta a pubisului", "Conține inelul inghinal superficial sub piele"],
+    "clinic": "Hernia inghinală se manifestă prin bombarea acestei regiuni."
+  },
+  "interscapular_region": {
+    "name": "Regiunea interscapulară",
+    "latin": "Regio interscapularis",
+    "localizare": "Spate, între omoplați",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă zona dintre cele două scapule, corespunzând vertebrelor T2‑T7.",
+    "repere_anatomice": ["Este situată între omoplați", "Acoperă mușchii romboizi și trapez"],
+    "clinic": "Durerea interscapulară poate fi de origine vertebrală sau referită dinspre vezicula biliară."
+  },
+  "intertragic_incisure": {
+    "name": "Incizura intertragică",
+    "latin": "Incisura intertragica",
+    "localizare": "Pavilionul urechii, între tragus și antitragus",
+    "tip": "Incizură cutanată",
+    "descriere": "Depresiunea care separă tragusul de antitragus, situată deasupra lobulului urechii.",
+    "repere_anatomice": ["Este situată între tragus și antitragus", "Este un reper pentru meatul auditiv extern"],
+    "clinic": "Poate fi utilizată ca punct de referință în acupunctură."
+  },
+  "knee_region": {
+    "name": "Regiunea genunchiului",
+    "latin": "Regio genus",
+    "localizare": "Genunchi",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația genunchiului. Este lax și formează pliuri în extensie. Include fosa poplitee posterior.",
+    "repere_anatomice": ["Este situat între coapsă și gambă", "Conține patela palpabilă anterior"],
+    "clinic": "Revărsatul articular (hidrartroza) șterge relieful normal al genunchiului."
+  },
+  "labial_commissure": {
+    "name": "Comisura labială (unghiul gurii)",
+    "latin": "Commissura labiorum",
+    "localizare": "Față, la joncțiunea buzelor",
+    "tip": "Reper cutanat",
+    "descriere": "Sinonim pentru unghiul gurii. A se vedea acea secțiune.",
+    "repere_anatomice": [],
+    "clinic": "A se vedea unghiul gurii."
+  },
+  "lateral_bicipital_groove": {
+    "name": "Șanțul bicipital lateral",
+    "latin": "Sulcus bicipitalis lateralis",
+    "localizare": "Braț anterior, lateral",
+    "tip": "Reper cutanat",
+    "descriere": "Depresiunea longitudinală de pe fața anterioară a brațului, situată lateral de mușchiul biceps brahial. Indică limita dintre compartimentele anterior și posterior.",
+    "repere_anatomice": ["Este situată lateral de biceps", "Se întinde de la umăr la cot"],
+    "clinic": "Este un reper pentru palparea humerusului."
+  },
+  "lateral_border_of_foot": {
+    "name": "Marginea laterală a piciorului",
+    "latin": "Margo lateralis pedis",
+    "localizare": "Picior, lateral",
+    "tip": "Reper cutanat",
+    "descriere": "Marginea externă a piciorului, formată de calcaneu, cuboid și metatarsienele IV‑V. Pielea de aici este mai subțire.",
+    "repere_anatomice": ["Se întinde de la călcâi la degetul mic", "Este mai puțin arcuită decât marginea medială"],
+    "clinic": "Entorsele de gleznă în inversiune produc durere pe această margine."
+  },
+  "lateral_border_of_forearm": {
+    "name": "Marginea laterală a antebrațului",
+    "latin": "Margo lateralis antebrachii",
+    "localizare": "Antebraț, lateral (radial)",
+    "tip": "Reper cutanat",
+    "descriere": "Marginea care urmărește radiusul, de la cot la procesul stiloid radial. Este palpabilă sub piele.",
+    "repere_anatomice": ["Se întinde de la epicondilul lateral la stiloida radială", "Mușchiul brahioradial o acoperă parțial"],
+    "clinic": "Fracturile de radius distal modifică această margine."
+  },
+  "lateral_malleolus": {
+    "name": "Maleola laterală (peroneală)",
+    "latin": "Malleolus lateralis",
+    "localizare": "Gleznă, lateral",
+    "tip": "Proeminență osoasă cutanată",
+    "descriere": "Proeminența distală a fibulei, palpabilă sub piele pe fața laterală a gleznei. Servește ca inserție pentru ligamentele gleznei.",
+    "repere_anatomice": ["Este situată pe fața laterală a gleznei", "Este mai proeminentă și mai distală decât maleola medială"],
+    "clinic": "Fractura de maleolă laterală apare frecvent în entorsele de gleznă."
+  },
+  "lateral_part_of_longitudinal_arch_of_foot": {
+    "name": "Partea laterală a arcului longitudinal al piciorului",
+    "latin": "Pars lateralis arcus longitudinalis pedis",
+    "localizare": "Picior, lateral",
+    "tip": "Arc cutanat și osos",
+    "descriere": "Porțiunea externă, mai joasă, a arcului plantar. Formată din calcaneu, cuboid și metatarsienele IV‑V. Pielea tălpii se sprijină pe sol în această zonă.",
+    "repere_anatomice": ["Este situată pe marginea laterală a piciorului", "Suportă greutatea în ortostatism"],
+    "clinic": "Piciorul plat valg implică prăbușirea acestui arc."
+  },
+  "lateral_region_of_abdomen": {
+    "name": "Regiunea laterală a abdomenului (flancul)",
+    "latin": "Regio lateralis abdominis",
+    "localizare": "Abdomen, lateral",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă flancurile, între rebordul costal și creasta iliacă. Conține mușchii oblici abdominali sub piele.",
+    "repere_anatomice": ["Este situată lateral de regiunea ombilicală", "Se continuă posterior cu regiunea lombară"],
+    "clinic": "Durerea de flanc apare în colica renală."
+  },
+  "lateral_region_of_neck": {
+    "name": "Regiunea laterală a gâtului",
+    "latin": "Regio cervicalis lateralis",
+    "localizare": "Gât, lateral",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă triunghiul posterior al gâtului, delimitat de mușchii sternocleidomastoidian, trapez și claviculă.",
+    "repere_anatomice": ["Este situată între SCM și trapez", "Conține vasele cervicale superficiale"],
+    "clinic": "Adenopatiile cervicale laterale pot indica limfom sau tuberculoză ganglionară."
+  },
+  "lateral_region_of_thorax": {
+    "name": "Regiunea laterală a toracelui",
+    "latin": "Regio thoracica lateralis",
+    "localizare": "Torace, lateral",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă peretele toracic lateral, între axilă și rebordul costal. Conține mușchiul dințat anterior sub piele.",
+    "repere_anatomice": ["Este situată sub axilă", "Este delimitată de mușchii pectorali (anterior) și dorsal mare (posterior)"],
+    "clinic": "Tumorile de sân pot invada pielea acestei regiuni (cancer mamar avansat)."
+  },
+  "lateral_retromalleolar_region": {
+    "name": "Regiunea retromaleolară laterală",
+    "latin": "Regio retromalleolaris lateralis",
+    "localizare": "Gleznă, posterior de maleola laterală",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă șanțul retromaleolar lateral, prin care trec tendoanele fibularilor. Este o zonă de palpare a pulsului tibial posterior? (nu, aici e lateral, deci tendoanele fibularilor).",
+    "repere_anatomice": ["Este situată posterior de maleola laterală", "Conține tendoanele fibularului lung și scurt"],
+    "clinic": "Tenosinovita fibularilor produce durere și tumefiere în această regiune."
+  },
+  "leg_region": {
+    "name": "Regiunea gambei",
+    "latin": "Regio cruris",
+    "localizare": "Gambă, între genunchi și gleznă",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă gamba. Fața anteromedială are piele subțire (peste tibie), iar posteriorul este mai gros și acoperă mușchii gastrocnemieni.",
+    "repere_anatomice": ["Este delimitată de genunchi (superior) și gleznă (inferior)", "Conține creasta tibială palpabilă anterior"],
+    "clinic": "Ulcerele venoase se dezvoltă frecvent pe fața medială a gambei."
+  },
+  "lesser_supraclavicular_fossa": {
+    "name": "Fosa supraclaviculară mică",
+    "latin": "Fossa supraclavicularis minor",
+    "localizare": "Gât, între capetele sternal și clavicular ale SCM",
+    "tip": "Depresiune cutanată",
+    "descriere": "Mică depresiune situată între cele două capete ale mușchiului sternocleidomastoidian, imediat deasupra claviculei.",
+    "repere_anatomice": ["Este situată între capul sternal și capul clavicular al SCM", "Este mai puțin evidentă decât fosa mare"],
+    "clinic": "Poate fi utilizată ca reper pentru anestezia plexului brahial."
+  },
+  "lobule_of_auricle": {
+    "name": "Lobulul pavilionului urechii",
+    "latin": "Lobulus auriculae",
+    "localizare": "Pavilionul urechii, inferior",
+    "tip": "Structură cutanată fără cartilaj",
+    "descriere": "Porțiunea inferioară, moale, a urechii, formată doar din piele și țesut adipos, fără cartilaj. Este bogat vascularizată.",
+    "repere_anatomice": ["Este situat inferior de antitragus", "Nu conține cartilaj"],
+    "clinic": "Lobulul este frecvent perforat pentru bijuterii. Se poate folosi pentru recoltarea de sânge capilar."
+  },
+  "lower_eyelid": {
+    "name": "Pleoapa inferioară",
+    "latin": "Palpebra inferior",
+    "localizare": "Ochi, inferior",
+    "tip": "Structură cutanată mobilă",
+    "descriere": "Pliul cutanat inferior care acoperă globul ocular. Este mai puțin mobilă decât pleoapa superioară.",
+    "repere_anatomice": ["Este situată sub ochi", "Conține tarsul inferior și genele"],
+    "clinic": "Ectropionul (răsfrângerea în afară) și entropionul (înăuntru) afectează pleoapa inferioară."
+  },
+  "lumbar_region": {
+    "name": "Regiunea lombară (zona renală)",
+    "latin": "Regio lumbalis",
+    "localizare": "Spate inferior, între coaste și pelvis",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă vertebrele lombare și mușchii paravertebrali. Este o zonă frecventă a durerii de spate.",
+    "repere_anatomice": ["Este situată între torace și sacrum", "Conține mușchii erectori spinali sub piele"],
+    "clinic": "Lumbago (durerea lombară acută) este una dintre cele mai frecvente afecțiuni umane."
+  },
+  "mammary_region": {
+    "name": "Regiunea mamară",
+    "latin": "Regio mammaria",
+    "localizare": "Torace anterior, peste mușchii pectorali",
+    "tip": "Regiune cutanată specializată",
+    "descriere": "Tegumentul care acoperă glandele mamare. La femei, conține areola, mamelonul și țesut glandular sub piele. La bărbați, este rudimentară.",
+    "repere_anatomice": ["Este situată pe toracele anterior", "La femei, se întinde de la coasta 2 la coasta 6"],
+    "clinic": "Cancerul de sân se manifestă prin noduli palpabili sau modificări cutanate („coajă de portocală”)."
+  },
+  "mastoid_region": {
+    "name": "Regiunea mastoidiană",
+    "latin": "Regio mastoidea",
+    "localizare": "Craniu, posterior de pavilionul urechii",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă procesul mastoid al osului temporal. Conține inserția mușchiului sternocleidomastoidian.",
+    "repere_anatomice": ["Este situată posterior de ureche", "Procesul mastoid este palpabil sub piele"],
+    "clinic": "Mastoidita (infecția procesului mastoid) produce tumefiere și durere locală."
+  },
+  "medial_bicipital_groove": {
+    "name": "Șanțul bicipital medial",
+    "latin": "Sulcus bicipitalis medialis",
+    "localizare": "Braț anterior, medial",
+    "tip": "Reper cutanat",
+    "descriere": "Depresiunea longitudinală situată medial de mușchiul biceps brahial. Conține pachetul vasculo‑nervos brahial (artera brahială, nervul median).",
+    "repere_anatomice": ["Este situată medial de biceps", "Artera brahială se palpează aici"],
+    "clinic": "Pulsul brahial se palpează în acest șanț, iar tensiunea arterială se măsoară aici."
+  },
+  "medial_border_of_foot": {
+    "name": "Marginea medială a piciorului",
+    "latin": "Margo medialis pedis",
+    "localizare": "Picior, medial",
+    "tip": "Reper cutanat",
+    "descriere": "Marginea internă a piciorului, formată de calcaneu, talus, navicular, cuneiforme și metatarsianul I. Prezintă arcul longitudinal medial.",
+    "repere_anatomice": ["Se întinde de la călcâi la haluce", "Este mai arcuită decât marginea laterală"],
+    "clinic": "Piciorul plat se definește prin prăbușirea arcului de pe această margine."
+  },
+  "medial_border_of_forearm": {
+    "name": "Marginea medială a antebrațului",
+    "latin": "Margo medialis antebrachii",
+    "localizare": "Antebraț, medial (ulnar)",
+    "tip": "Reper cutanat",
+    "descriere": "Marginea care urmărește ulna, de la cot la procesul stiloid ulnar. Este palpabilă sub piele pe toată lungimea sa.",
+    "repere_anatomice": ["Se întinde de la epicondilul medial la stiloida ulnară", "Este subcutanată și ușor palpabilă"],
+    "clinic": "Fracturile de ulnă („fractura de apărare”) modifică această margine."
+  },
+  "medial_malleolus": {
+    "name": "Maleola medială (tibială)",
+    "latin": "Malleolus medialis",
+    "localizare": "Gleznă, medial",
+    "tip": "Proeminență osoasă cutanată",
+    "descriere": "Proeminența distală a tibiei, palpabilă sub piele pe fața medială a gleznei. Servește ca inserție pentru ligamentul deltoid.",
+    "repere_anatomice": ["Este situată pe fața medială a gleznei", "Este mai proximală decât maleola laterală"],
+    "clinic": "Fractura de maleolă medială apare în traumatismele de gleznă."
+  },
+  "medial_part_of_longitudinal_arch_of_foot": {
+    "name": "Partea medială a arcului longitudinal al piciorului",
+    "latin": "Pars medialis arcus longitudinalis pedis",
+    "localizare": "Picior, medial",
+    "tip": "Arc cutanat și osos",
+    "descriere": "Arcul plantar intern, mai înalt și mai elastic, format din calcaneu, talus, navicular, cuneiforme și metatarsienele I‑III. Este esențial pentru mers.",
+    "repere_anatomice": ["Este situată pe marginea medială a piciorului", "Este vizibil ca o boltă pe talpă"],
+    "clinic": "Prăbușirea acestui arc produce piciorul plat (pes planus)."
+  },
+  "medial_retromalleolar_region": {
+    "name": "Regiunea retromaleolară medială",
+    "latin": "Regio retromalleolaris medialis",
+    "localizare": "Gleznă, posterior de maleola medială",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă șanțul retromaleolar medial, prin care trec tendoanele flexorilor, artera și nervul tibial posterior.",
+    "repere_anatomice": ["Este situată posterior de maleola medială", "Conține pulsul arterei tibiale posterioare"],
+    "clinic": "Pulsul tibial posterior se palpează aici pentru evaluarea circulației periferice."
+  },
+  "mental_region": {
+    "name": "Regiunea mentonieră (bărbia)",
+    "latin": "Regio mentalis",
+    "localizare": "Față, anterior, sub gură",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mentonul (bărbia). Conține mușchiul mentonier și foliculi piloși (barba la bărbați).",
+    "repere_anatomice": ["Este situată inferior de buza inferioară", "Proeminența mentonieră este palpabilă sub piele"],
+    "clinic": "Cicatricile traumatice sunt frecvente pe bărbie la copii."
+  },
+  "mentolabial_sulcus": {
+    "name": "Șanțul mentolabial",
+    "latin": "Sulcus mentolabialis",
+    "localizare": "Față, între buza inferioară și bărbie",
+    "tip": "Pliu cutanat",
+    "descriere": "Pliul cutanat orizontal care separă buza inferioară de proeminența bărbiei.",
+    "repere_anatomice": ["Este situat între buză și bărbie", "Este mai profund la persoanele vârstnice"],
+    "clinic": "Se șterge în paralizia facială periferică."
+  },
+  "metatarsal_region": {
+    "name": "Regiunea metatarsiană",
+    "latin": "Regio metatarsalis",
+    "localizare": "Picior, distal, pe dorsul metatarsienelor",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă oasele metatarsiene pe fața dorsală. Conține tendoanele extensorilor și artera dorsală a piciorului.",
+    "repere_anatomice": ["Este situată între tars și degete", "Pielea este subțire și mobilă"],
+    "clinic": "Fracturile de stres metatarsiene („march fracture”) produc durere și edem în această regiune."
+  },
+  "muscular_triangle": {
+    "name": "Triunghiul muscular (omotraheal)",
+    "latin": "Trigonum musculare",
+    "localizare": "Gât anterior, între mușchii infrahioidieni",
+    "tip": "Regiune cutanată",
+    "descriere": "Regiune triunghiulară delimitată de mușchii sternocleidomastoidian, omohioidian superior și linia mediană. Conține mușchii infrahioidieni și glanda tiroidă.",
+    "repere_anatomice": ["Este situată anterior, sub osul hioid", "Glanda tiroidă se palpează în acest triunghi"],
+    "clinic": "Tiroidectomia se efectuează prin incizia acestei regiuni."
+  },
+  "nail_plate": {
+    "name": "Placa unghială (unghia)",
+    "latin": "Lamina unguis",
+    "localizare": "Fața dorsală a falangelor distale",
+    "tip": "Anexă cutanată cheratinizată",
+    "descriere": "Lamă cornee, dură, care acoperă și protejează extremitatea distală a degetelor. Crește din matricea unghială (lunula).",
+    "repere_anatomice": ["Este situată pe dosul degetelor", "Prezintă lunula (semiluna albicioasă proximală)"],
+    "clinic": "Onicomicoza (infecția fungică) și unghia incarnată sunt patologii frecvente."
+  },
+  "nasal_region": {
+    "name": "Regiunea nazală",
+    "latin": "Regio nasalis",
+    "localizare": "Față, central",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă nasul extern. Conține glande sebacee numeroase și foliculi piloși (la vârf).",
+    "repere_anatomice": ["Acoperă scheletul osteocartilaginos al nasului", "Este bogat vascularizată (anastomoze între artera facială și oftalmică)"],
+    "clinic": "Rinofima (hipertrofia glandelor sebacee) și acneea rozacee afectează frecvent această regiune."
+  },
+  "nasolabial_sulcus": {
+    "name": "Șanțul nazolabial",
+    "latin": "Sulcus nasolabialis",
+    "localizare": "Față, de la aripa nasului la comisura bucală",
+    "tip": "Pliu cutanat",
+    "descriere": "Pliul cutanat care delimitează obrazul de buza superioară și nas. Se accentuează la zâmbet.",
+    "repere_anatomice": ["Se întinde de la nas la unghiul gurii", "Este mai profund la vârstnici"],
+    "clinic": "Ștergerea șanțului nazolabial apare în paralizia de nerv facial."
+  },
+  "occipital_region": {
+    "name": "Regiunea occipitală",
+    "latin": "Regio occipitalis",
+    "localizare": "Craniu, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă osul occipital, deasupra gâtului. Conține mușchii occipitali și inserția ligamentului nucal.",
+    "repere_anatomice": ["Este situată posterior pe craniu", "Protuberanța occipitală externă este palpabilă"],
+    "clinic": "Cefaleea occipitală (nevralgia Arnold) se localizează în această regiune."
+  },
+  "oral_region": {
+    "name": "Regiunea orală",
+    "latin": "Regio oralis",
+    "localizare": "Față, în jurul orificiului bucal",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care înconjoară orificiul bucal, incluzând buzele și comisurile. Conține mușchiul orbicular al gurii.",
+    "repere_anatomice": ["Este situată în jurul gurii", "Buzele sunt acoperite de piele (extern) și mucoasă (intern)"],
+    "clinic": "Herpesul labial („febra”) afectează frecvent această regiune."
+  },
+  "orbital_region": {
+    "name": "Regiunea orbitală",
+    "latin": "Regio orbitalis",
+    "localizare": "Față, în jurul ochilor",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă orbitele osoase, incluzând pleoapele și sprâncenele. Conține mușchiul orbicular al ochiului.",
+    "repere_anatomice": ["Este situată în jurul globului ocular", "Sprâncenele delimitează superior regiunea"],
+    "clinic": "Echimozele periorbitare („ochi de raton”) apar în fracturile de bază de craniu."
+  },
+  "palm": {
+    "name": "Palma",
+    "latin": "Palma manus",
+    "localizare": "Mână, anterior",
+    "tip": "Suprafață cutanată specializată",
+    "descriere": "Fața palmară a mâinii, acoperită de piele groasă, fără peri, cu papile dermice (dermatoglife – amprente). Conține aponevroza palmară sub piele.",
+    "repere_anatomice": ["Este situată pe fața anterioară a mâinii", "Prezintă pliurile palmare (linia vieții, a inimii, a capului)"],
+    "clinic": "Contractura Dupuytren produce retracția aponevrozei palmare, deformând palma."
+  },
+  "palmar_surfaces_of_digits_of_hand": {
+    "name": "Fețele palmare ale degetelor mâinii",
+    "latin": "Facies palmares digitorum manus",
+    "localizare": "Degete, palmar",
+    "tip": "Suprafață cutanată",
+    "descriere": "Tegumentul care acoperă fața anterioară a degetelor. Conține papile dermice (amprente digitale) și numeroase terminații nervoase senzitive.",
+    "repere_anatomice": ["Este acoperită de piele glabră (fără peri)", "Prezintă dermatoglife unice fiecărui individ"],
+    "clinic": "Amprentele digitale sunt utilizate pentru identificare biometrică."
+  },
+  "parietal_region": {
+    "name": "Regiunea parietală",
+    "latin": "Regio parietalis",
+    "localizare": "Craniu, superior și lateral",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă oasele parietale, formând partea superioară și laterală a scalpului.",
+    "repere_anatomice": ["Este situată superior de urechi", "Acoperă oasele parietale"],
+    "clinic": "Alopecia areata (căderea circulară a părului) poate afecta această regiune."
+  },
+  "parotideomasseteric_region": {
+    "name": "Regiunea parotideomaseterină",
+    "latin": "Regio parotideomasseterica",
+    "localizare": "Față laterală, peste glanda parotidă și mușchiul maseter",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă glanda parotidă (posterior) și mușchiul maseter (anterior). Se întinde de la arcul zigomatic la mandibulă.",
+    "repere_anatomice": ["Este situată anterior de ureche", "Conține glanda parotidă și canalul Stenon sub piele"],
+    "clinic": "Parotidita epidemică (oreionul) produce tumefierea acestei regiuni."
+  },
+  "pectoral_region": {
+    "name": "Regiunea pectorală",
+    "latin": "Regio pectoralis",
+    "localizare": "Torace anterior, peste mușchii pectorali",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii pectorali. La bărbați, conține peri pectorali; la femei, este acoperită de glandele mamare.",
+    "repere_anatomice": ["Este situată pe toracele anterior", "Delimitată de claviculă, stern și rebordul costal"],
+    "clinic": "Ginecomastia (dezvoltarea sânilor la bărbați) afectează această regiune."
+  },
+  "perionyx": {
+    "name": "Perionixul (țesutul periunghial)",
+    "latin": "Perionychium",
+    "localizare": "În jurul plăcii unghiale",
+    "tip": "Pliu cutanat",
+    "descriere": "Țesutul cutanat care înconjoară unghia, format din eponichium (cuticula proximală) și paronychium (marginile laterale). Protejează matricea unghială.",
+    "repere_anatomice": ["Este situat la baza și marginile unghiei", "Cuticula acoperă lunula proximal"],
+    "clinic": "Panarițiul (infecția periunghială) este frecvent la persoanele care își rod unghiile."
+  },
+  "philtrum": {
+    "name": "Philtrumul (șanțul subnazal)",
+    "latin": "Philtrum",
+    "localizare": "Față, între nas și buza superioară",
+    "tip": "Depresiune cutanată mediană",
+    "descriere": "Șanțul vertical median situat deasupra buzei superioare, format prin unirea proceselor nazale mediale în embriogeneză.",
+    "repere_anatomice": ["Se întinde de la septul nazal la buza superioară", "Este delimitat de crestele philtrale"],
+    "clinic": "Absența sau ștergerea philtrumului este un semn al sindromului alcoolic fetal."
+  },
+  "plantar_surfaces_of_digits_of_foot": {
+    "name": "Fețele plantare ale degetelor piciorului",
+    "latin": "Facies plantares digitorum pedis",
+    "localizare": "Degetele piciorului, plantar",
+    "tip": "Suprafață cutanată",
+    "descriere": "Tegumentul care acoperă fața inferioară a degetelor de la picioare. Pielea este groasă și formează calozități la presiune.",
+    "repere_anatomice": ["Este acoperită de piele groasă", "Conține papile dermice"],
+    "clinic": "Calozitățile (duriculoanele) și verucile plantare afectează această regiune."
+  },
+  "popliteal_fossa": {
+    "name": "Fosa poplitee",
+    "latin": "Fossa poplitea",
+    "localizare": "Genunchi, posterior",
+    "tip": "Depresiune cutanată",
+    "descriere": "Regiunea romboidală situată posterior de articulația genunchiului, delimitată de mușchii ischiogambieri și gastrocnemieni. Conține vasele poplitee și nervul tibial.",
+    "repere_anatomice": ["Este situată posterior de genunchi", "Conține țesut adipos și ganglioni limfatici"],
+    "clinic": "Chistul Baker (popliteu) se manifestă prin tumefiere în această fosă."
+  },
+  "posterior_auricular_groove": {
+    "name": "Șanțul auricular posterior",
+    "latin": "Sulcus auricularis posterior",
+    "localizare": "Posterior de pavilionul urechii, la joncțiunea cu scalpul",
+    "tip": "Pliu cutanat",
+    "descriere": "Depresiunea dintre pavilionul urechii și apofiza mastoidă. Pielea de aici este fină și bogat vascularizată.",
+    "repere_anatomice": ["Este situată posterior de ureche", "Conține ganglioni limfatici retroauriculari"],
+    "clinic": "Adenopatiile retroauriculare apar în rubeolă și mononucleoză."
+  },
+  "posterior_region_of_ankle": {
+    "name": "Regiunea posterioară a gleznei",
+    "latin": "Regio posterior talocruralis",
+    "localizare": "Gleznă, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă tendonul calcanean (Ahile) și șanțurile retromaleolare.",
+    "repere_anatomice": ["Conține tendonul lui Ahile proeminent sub piele", "Este situată între maleole și călcâi"],
+    "clinic": "Tendinita ahiliană produce durere și tumefiere în această regiune."
+  },
+  "posterior_region_of_arm": {
+    "name": "Regiunea posterioară a brațului",
+    "latin": "Regio brachii posterior",
+    "localizare": "Braț, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchiul triceps brahial. Conține mai mulți foliculi piloși decât fața anterioară.",
+    "repere_anatomice": ["Este situată posterior pe braț", "Tricepsul este palpabil sub piele"],
+    "clinic": "Loc de injecții subcutanate (mai rar)."
+  },
+  "posterior_region_of_elbow": {
+    "name": "Regiunea posterioară a cotului",
+    "latin": "Regio cubitalis posterior",
+    "localizare": "Cot, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă olecranul și bursa olecraniană. Pielea este laxă și formează pliuri.",
+    "repere_anatomice": ["Olecranul este palpabil sub piele", "Bursa olecraniană se află între piele și os"],
+    "clinic": "Bursita olecraniană („cotul studentului”) produce tumefiere fluctuentă."
+  },
+  "posterior_region_of_forearm": {
+    "name": "Regiunea posterioară a antebrațului",
+    "latin": "Regio antebrachii posterior",
+    "localizare": "Antebraț, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă compartimentul extensor al antebrațului. Conține mai mulți foliculi piloși.",
+    "repere_anatomice": ["Este situată posterior pe antebraț", "Tendoanele extensorilor pot fi vizibile"],
+    "clinic": "Tatuajele sunt frecvente pe această regiune."
+  },
+  "posterior_region_of_knee": {
+    "name": "Regiunea posterioară a genunchiului (fosa poplitee)",
+    "latin": "Regio genus posterior",
+    "localizare": "Genunchi, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Sinonim pentru fosa poplitee. A se vedea acea secțiune.",
+    "repere_anatomice": [],
+    "clinic": ""
+  },
+  "posterior_region_of_leg": {
+    "name": "Regiunea posterioară a gambei (sura)",
+    "latin": "Regio cruris posterior",
+    "localizare": "Gambă, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii gastrocnemieni și solear. Conține foliculi piloși și vene superficiale (safena mică).",
+    "repere_anatomice": ["Este situată posterior pe gambă", "Mușchii gambei formează relieful caracteristic"],
+    "clinic": "Varicele (dilatații venoase) sunt frecvente în această regiune."
+  },
+  "posterior_region_of_neck": {
+    "name": "Regiunea posterioară a gâtului (ceafa)",
+    "latin": "Regio cervicalis posterior",
+    "localizare": "Gât, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă coloana cervicală și mușchii cefei. Conține inserția ligamentului nucal și mușchiul trapez.",
+    "repere_anatomice": ["Este situată între occipital și vertebra proeminentă (C7)", "Conține foliculi piloși (părul cefei)"],
+    "clinic": "Cefaleea cervicogenă își are originea în tensiunea musculară a acestei regiuni."
+  },
+  "posterior_region_of_thigh": {
+    "name": "Regiunea posterioară a coapsei",
+    "latin": "Regio femoris posterior",
+    "localizare": "Coapsă, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii ischiogambieri. Conține foliculi piloși și este mai subțire decât fața anterioară.",
+    "repere_anatomice": ["Este situată posterior pe coapsă", "Este delimitată de plica fesieră (superior) și fosa poplitee (inferior)"],
+    "clinic": "Leziunile musculare ale ischiogambierilor („ruptura de fibră”) produc echimoze vizibile pe această regiune."
+  },
+  "posterior_region_of_wrist": {
+    "name": "Regiunea posterioară a încheieturii mâinii",
+    "latin": "Regio carpalis posterior",
+    "localizare": "Încheietura mâinii, posterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația radiocarpiană pe fața dorsală. Lasă să se vadă tendoanele extensorilor și tabachera anatomică.",
+    "repere_anatomice": ["Este situată pe dosul încheieturii", "Tabachera anatomică este o depresiune vizibilă aici"],
+    "clinic": "Ganglionii (chisturile sinoviale) apar frecvent pe această regiune."
+  },
+  "presternal_region": {
+    "name": "Regiunea presternală",
+    "latin": "Regio presternalis",
+    "localizare": "Torace anterior, peste stern",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă sternul. Pielea este subțire, aderentă la os și predispusă la formarea de cheloizi.",
+    "repere_anatomice": ["Este situată pe linia mediană a toracelui anterior", "Acoperă sternul"],
+    "clinic": "Cicatricile cheloide se dezvoltă frecvent pe această regiune după intervenții chirurgicale."
+  },
+  "proximal_transverse_arch_of_foot": {
+    "name": "Arcul transvers proximal al piciorului",
+    "latin": "Arcus transversus proximalis pedis",
+    "localizare": "Antepicior, la baza metatarsienelor",
+    "tip": "Arc cutanat și osos",
+    "descriere": "Arcul format de bazele metatarsienelor și oasele cuneiforme, mai proximal și mai rigid decât arcul distal.",
+    "repere_anatomice": ["Este situat la nivelul tarsometatarsian", "Susținut de ligamentele Lisfranc"],
+    "clinic": "Leziunile Lisfranc (luxații tarsometatarsiene) afectează acest arc."
+  },
+  "pubic_hairs": {
+    "name": "Perii pubieni",
+    "latin": "Pubes",
+    "localizare": "Regiunea pubiană și organele genitale externe",
+    "tip": "Peri sexuali",
+    "descriere": "Peri groși, pigmentați, care apar la pubertate în regiunea pubiană, cu funcție de protecție și feromoni.",
+    "repere_anatomice": ["Sunt situați pe muntele pubian și organele genitale externe", "Apar la pubertate sub influența hormonilor sexuali"],
+    "clinic": "Pediculoza pubiană („păduchii lați”) este o infestație parazitară specifică acestei regiuni."
+  },
+  "radial_foveola": {
+    "name": "Foveola radială (tabachera anatomică)",
+    "latin": "Foveola radialis",
+    "localizare": "Încheietura mâinii, lateral",
+    "tip": "Depresiune cutanată",
+    "descriere": "Depresiune triunghiulară vizibilă pe fața dorsală a pumnului, când policele este extins. Delimitată de tendoanele extensorilor policelui.",
+    "repere_anatomice": ["Este situată la baza policelui", "Conține artera radială palpabilă aici"],
+    "clinic": "Pulsul radial se palpează în tabachera anatomică. Fractura de scafoid produce durere la presiunea acestei foveole."
+  },
+  "regions_of_abdomen": {
+    "name": "Regiunile abdomenului",
+    "latin": "Regiones abdominis",
+    "localizare": "Abdomen",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Abdomenul este împărțit în 9 regiuni (3 pe verticală: epigastru, ombilicală, hipogastru; 3 pe orizontală: hipocondrii, flancuri, fose iliace) pentru localizarea organelor interne.",
+    "repere_anatomice": ["Delimitate de linii verticale (medioclaviculare) și orizontale (subcostală, intertuberculară)", "Fiecare regiune corespunde unor organe specifice"],
+    "clinic": "Durerea abdominală se localizează în funcție de aceste regiuni (ex: apendicita în fosa iliacă dreaptă)."
+  },
+  "regions_of_back": {
+    "name": "Regiunile spatelui",
+    "latin": "Regiones dorsi",
+    "localizare": "Spate",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Spatele este împărțit în regiuni vertebrale, sacrale, scapulare, infrascapulare și lombare.",
+    "repere_anatomice": ["Regiunea vertebrală (centrală)", "Regiunile scapulare (peste omoplați)", "Regiunea lombară (inferior)"],
+    "clinic": "Durerile de spate se descriu în funcție de regiunea afectată (cervical, toracic, lombar, sacral)."
+  },
+  "regions_of_digits_of_foot": {
+    "name": "Regiunile degetelor piciorului",
+    "latin": "Regiones digitorum pedis",
+    "localizare": "Degetele piciorului",
+    "tip": "Regiuni cutanate",
+    "descriere": "Fiecare deget are fețe dorsală, plantară și margini laterale. Pielea este mai groasă plantar.",
+    "repere_anatomice": ["Degetul I (haluce) este cel mai voluminos", "Degetul V este cel mai mic"],
+    "clinic": "Deformările degetelor (hammertoe, claw toe) implică aceste regiuni."
+  },
+  "regions_of_digits_of_hand": {
+    "name": "Regiunile degetelor mâinii",
+    "latin": "Regiones digitorum manus",
+    "localizare": "Degetele mâinii",
+    "tip": "Regiuni cutanate",
+    "descriere": "Fiecare deget are fețe dorsală, palmară și margini laterale. Policele are o mobilitate mai mare și este opozabil.",
+    "repere_anatomice": ["Policele (degetul I) are doar două falange", "Degetele II‑V au câte trei falange"],
+    "clinic": "Degetul în resort (trigger finger) afectează frecvent policele și inelarul."
+  },
+  "regions_of_epicranium": {
+    "name": "Regiunile epicraniului (scalpul)",
+    "latin": "Regiones epicranii",
+    "localizare": "Scalp",
+    "tip": "Regiuni cutanate",
+    "descriere": "Scalpul este împărțit în regiuni frontală, parietală, temporală și occipitală.",
+    "repere_anatomice": ["Regiunea frontală (fruntea)", "Regiunea parietală (superior)", "Regiunea occipitală (posterior)", "Regiunea temporală (lateral)"],
+    "clinic": "Plăgile scalpului sângerează abundent datorită vascularizației bogate."
+  },
+  "regions_of_face": {
+    "name": "Regiunile feței",
+    "latin": "Regiones faciei",
+    "localizare": "Față",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Fața este împărțită în regiuni frontală, orbitală, nazală, infraorbitală, bucală, orală, mentală, zigomatică etc.",
+    "repere_anatomice": ["Fiecare regiune are caracteristici specifice (piele mai groasă, glande sebacee, mușchi mimici)"],
+    "clinic": "Acneea afectează preponderent regiunile bogate în glande sebacee (frunte, nas, obraji)."
+  },
+  "regions_of_foot": {
+    "name": "Regiunile piciorului",
+    "latin": "Regiones pedis",
+    "localizare": "Picior",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Piciorul este împărțit în dors, plantă, calcaneu, metatars și degete.",
+    "repere_anatomice": ["Dorsul piciorului (superior)", "Planta (inferior)", "Călcâiul (posterior)"],
+    "clinic": "Piciorul diabetic necesită îngrijire atentă a tuturor acestor regiuni."
+  },
+  "regions_of_hand": {
+    "name": "Regiunile mâinii",
+    "latin": "Regiones manus",
+    "localizare": "Mână",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Mâna este împărțită în palmă, dors, degete și police.",
+    "repere_anatomice": ["Palma (anterior)", "Dorsul (posterior)", "Degetele (II‑V)", "Policele (I)"],
+    "clinic": "Articulațiile mâinii sunt frecvent afectate de artrita reumatoidă."
+  },
+  "regions_of_head": {
+    "name": "Regiunile capului",
+    "latin": "Regiones capitis",
+    "localizare": "Cap",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Capul este împărțit în neurocraniu (scalp) și viscerocraniu (față).",
+    "repere_anatomice": ["Neurocraniul: frontal, parietal, temporal, occipital", "Viscerocraniul: regiunile feței"],
+    "clinic": "Traumatismele cranio‑cerebrale pot afecta atât scalpul, cât și structurile profunde."
+  },
+  "regions_of_lower_limb": {
+    "name": "Regiunile membrului inferior",
+    "latin": "Regiones membri inferioris",
+    "localizare": "Membrul inferior",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Membrul inferior este împărțit în regiunile: gluteală, coapsă, genunchi, gambă, gleznă, picior.",
+    "repere_anatomice": ["Fiecare segment are fețe anterioare, posterioare, mediale și laterale"],
+    "clinic": "Examenul neurologic al membrului inferior include testarea sensibilității pe fiecare regiune cutanată (dermatomuri)."
+  },
+  "regions_of_neck": {
+    "name": "Regiunile gâtului",
+    "latin": "Regiones cervicales",
+    "localizare": "Gât",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Gâtul este împărțit în regiunile: anterioară (triunghiuri), laterale, posterioară și sternocleidomastoidiană.",
+    "repere_anatomice": ["Triunghiul anterior (carotidian, muscular, submandibular, submental)", "Triunghiul posterior"],
+    "clinic": "Ganglionii limfatici cervicali se palpează pe regiuni specifice."
+  },
+  "regions_of_perineum": {
+    "name": "Regiunile perineului",
+    "latin": "Regiones perinei",
+    "localizare": "Perineu",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Perineul este împărțit în triunghiul urogenital (anterior) și triunghiul anal (posterior).",
+    "repere_anatomice": ["Triunghiul urogenital conține organele genitale externe", "Triunghiul anal conține anusul"],
+    "clinic": "Epiziotomia se efectuează în triunghiul urogenital în timpul nașterii."
+  },
+  "regions_of_thorax": {
+    "name": "Regiunile toracelui",
+    "latin": "Regiones thoracicae",
+    "localizare": "Torace",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Toracele este împărțit în regiunile presternală, pectorală, mamară, inframamară, axilară, laterală, vertebrală, scapulară etc.",
+    "repere_anatomice": ["Liniile de referință (medioclaviculară, axilară, scapulară) delimitează regiunile"],
+    "clinic": "Auscultația pulmonară se realizează pe regiuni toracice specifice."
+  },
+  "regions_of_upper_limb": {
+    "name": "Regiunile membrului superior",
+    "latin": "Regiones membri superioris",
+    "localizare": "Membrul superior",
+    "tip": "Împărțire topografică cutanată",
+    "descriere": "Membrul superior este împărțit în regiunile: deltoidiană, braț, cot, antebraț, încheietură, mână.",
+    "repere_anatomice": ["Fiecare segment are fețe anterioare și posterioare"],
+    "clinic": "Dermatomurile membrului superior sunt testate în examinarea neurologică."
+  },
+  "root_of_nose": {
+    "name": "Rădăcina nasului",
+    "latin": "Radix nasi",
+    "localizare": "Nas, superior, între ochi",
+    "tip": "Reper cutanat",
+    "descriere": "Porțiunea superioară, îngustă, a nasului extern, situată între cele două orbite. Este formată din oasele nazale.",
+    "repere_anatomice": ["Este situată între sprâncene", "Oasele nazale sunt palpabile sub piele"],
+    "clinic": "Fracturile oaselor nazale afectează această regiune."
+  },
+  "sacral_region": {
+    "name": "Regiunea sacrală",
+    "latin": "Regio sacralis",
+    "localizare": "Spate inferior, peste sacrum",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă osul sacrum. Conține fosa sacrală (la copii) și foliculi piloși (zona lombosacrală).",
+    "repere_anatomice": ["Este situată între vertebrele lombare și coccis", "Prezintă o depresiune triunghiulară (fosa sacrală)"],
+    "clinic": "Escarele de decubit se dezvoltă frecvent pe această regiune la pacienții imobilizați."
+  },
+  "scapha": {
+    "name": "Scapha (șanțul scafoid al urechii)",
+    "latin": "Scapha",
+    "localizare": "Pavilionul urechii, între helix și antihelix",
+    "tip": "Depresiune cutanată",
+    "descriere": "Șanțul longitudinal situat pe fața anterioară a pavilionului urechii, între helix (extern) și antihelix (intern).",
+    "repere_anatomice": ["Este situată între helix și antihelix", "Face parte din relieful normal al urechii"],
+    "clinic": "Este un reper în chirurgia estetică a urechii."
+  },
+  "scapular_region": {
+    "name": "Regiunea scapulară",
+    "latin": "Regio scapularis",
+    "localizare": "Spate superior, peste omoplat",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă scapula și mușchii periscapulari (trapez, romboizi, supraspinos, infraspinos).",
+    "repere_anatomice": ["Este situată pe spatele superior", "Spina scapulei este palpabilă sub piele"],
+    "clinic": "Durerile interscapulovertebrale sunt frecvente la persoanele sedentare."
+  },
+  "sole": {
+    "name": "Talpa (planta piciorului)",
+    "latin": "Planta pedis",
+    "localizare": "Picior, inferior",
+    "tip": "Suprafață cutanată specializată",
+    "descriere": "Fața plantară a piciorului, acoperită de piele groasă, fără peri, cu țesut adipos dens. Suportă greutatea corporală și prezintă arcurile plantare.",
+    "repere_anatomice": ["Este situată pe fața inferioară a piciorului", "Conține dermatoglife (amprente plantare)"],
+    "clinic": "Fasciita plantară și verucile plantare afectează frecvent această regiune."
+  },
+  "sternocleidomastoid_region": {
+    "name": "Regiunea sternocleidomastoidiană",
+    "latin": "Regio sternocleidomastoidea",
+    "localizare": "Gât lateral, peste mușchiul SCM",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchiul sternocleidomastoidian. Acest mușchi este vizibil și palpabil sub piele, servind ca reper chirurgical.",
+    "repere_anatomice": ["Se întinde de la stern/claviculă la procesul mastoid", "Este proeminent la rotația capului"],
+    "clinic": "Torticolisul congenital implică scurtarea SCM, vizibilă prin asimetria acestei regiuni."
+  },
+  "submandibular_triangle": {
+    "name": "Triunghiul submandibular",
+    "latin": "Trigonum submandibulare",
+    "localizare": "Gât anterior, sub mandibulă",
+    "tip": "Regiune cutanată",
+    "descriere": "Regiune triunghiulară delimitată de mandibulă și pântecele anterior și posterior ale mușchiului digastric. Conține glanda submandibulară.",
+    "repere_anatomice": ["Este situată sub corpul mandibulei", "Glanda submandibulară este palpabilă aici"],
+    "clinic": "Sialadenita submandibulară produce tumefierea acestui triunghi."
+  },
+  "submental_triangle": {
+    "name": "Triunghiul submentonier",
+    "latin": "Trigonum submentale",
+    "localizare": "Gât anterior, sub bărbie",
+    "tip": "Regiune cutanată",
+    "descriere": "Mică regiune triunghiulară situată sub bărbie, delimitată de pântecele anterioare ale mușchilor digastrici și osul hioid. Conține ganglioni limfatici.",
+    "repere_anatomice": ["Este situată sub menton", "Este un triunghi nepereche, median"],
+    "clinic": "Adenopatiile submentoniere se pot palpa în acest triunghi."
+  },
+  "suprahyoid_region": {
+    "name": "Regiunea suprahioidiană",
+    "latin": "Regio suprahyoidea",
+    "localizare": "Gât anterior, deasupra osului hioid",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă mușchii suprahioidieni (digastric, stilohioidian, milohioidian, geniohioidian). Conține glandele submandibulare.",
+    "repere_anatomice": ["Este situată între mandibulă și osul hioid", "Conține triunghiurile submandibular și submentonier"],
+    "clinic": "Abcesele dentare pot drena în această regiune."
+  },
+  "talocrural_region": {
+    "name": "Regiunea talocrurală (glezna)",
+    "latin": "Regio talocruralis",
+    "localizare": "Gleznă",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă articulația gleznei. Include regiunile anterioară, posterioară și retromaleolare.",
+    "repere_anatomice": ["Este situată între gambă și picior", "Maleolele sunt repere palpabile"],
+    "clinic": "Entorsele de gleznă sunt cele mai frecvente leziuni musculo‑scheletice."
+  },
+  "temporal_region": {
+    "name": "Regiunea temporală",
+    "latin": "Regio temporalis",
+    "localizare": "Craniu, lateral, deasupra urechii",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă fosa temporală și mușchiul temporal. Conține artera temporală superficială (palpabilă).",
+    "repere_anatomice": ["Este situată lateral pe craniu, deasupra arcului zigomatic", "Artera temporală superficială se palpează aici"],
+    "clinic": "Arterita cu celule gigant (Horton) afectează artera temporală, care poate fi biopsiată din această regiune."
+  },
+  "tragus": {
+    "name": "Tragusul",
+    "latin": "Tragus",
+    "localizare": "Pavilionul urechii, anterior",
+    "tip": "Proeminență cutanată cartilaginoasă",
+    "descriere": "Mică proeminență cartilaginoasă situată anterior de meatul auditiv extern. Protejează parțial orificiul canalului auditiv.",
+    "repere_anatomice": ["Este situat anterior de meatul auditiv extern", "Este acoperit de piele cu peri fini"],
+    "clinic": "Presiunea pe tragus este dureroasă în otita externă."
+  },
+  "triangle_of_auscultation": {
+    "name": "Triunghiul de auscultație",
+    "latin": "Trigonum auscultationis",
+    "localizare": "Spate superior, între mușchii trapez, dorsal mare și marginea medială a scapulei",
+    "tip": "Reper cutanat",
+    "descriere": "Mică zonă triunghiulară pe peretele toracic posterior, unde peretele este mai subțire și sunetele respiratorii se aud mai bine.",
+    "repere_anatomice": ["Este delimitat de trapez, dorsal mare și scapulă", "Este mai evident la persoanele slabe"],
+    "clinic": "Este un loc preferat pentru auscultația pulmonară cu stetoscopul."
+  },
+  "triangular_fossa": {
+    "name": "Fosa triunghiulară a urechii",
+    "latin": "Fossa triangularis auriculae",
+    "localizare": "Pavilionul urechii, superior",
+    "tip": "Depresiune cutanată",
+    "descriere": "Depresiunea triunghiulară situată între cele două ramuri ale antihelixului.",
+    "repere_anatomice": ["Este situată între crura antihelixului", "Face parte din relieful normal al urechii"],
+    "clinic": "Este un punct de acupunctură."
+  },
+  "tubercle_of_upper_lip": {
+    "name": "Tuberculul buzei superioare",
+    "latin": "Tuberculum labii superioris",
+    "localizare": "Buza superioară, central",
+    "tip": "Proeminență cutanată",
+    "descriere": "Mică proeminență pe marginea liberă a buzei superioare, situată pe linia mediană, sub philtrum.",
+    "repere_anatomice": ["Este situat pe buza superioară, median", "Face parte din arcul lui Cupidon"],
+    "clinic": "Este un reper în chirurgia estetică a buzelor (cheiloplastie)."
+  },
+  "umbilical_region": {
+    "name": "Regiunea ombilicală",
+    "latin": "Regio umbilicalis",
+    "localizare": "Abdomen, central",
+    "tip": "Regiune cutanată",
+    "descriere": "Zona tegumentară din jurul ombilicului. Acoperă intestinul subțire și colonul transvers.",
+    "repere_anatomice": ["Este centrată pe ombilic", "Este una dintre cele 9 regiuni abdominale"],
+    "clinic": "Hernia ombilicală se manifestă prin bombarea acestei regiuni."
+  },
+  "umbilicus": {
+    "name": "Ombilicul (buricul)",
+    "latin": "Umbilicus",
+    "localizare": "Abdomen anterior, linia mediană",
+    "tip": "Cicatrice cutanată congenitală",
+    "descriere": "Cicatricea rezultată după căderea cordonului ombilical, situată la nivelul L3‑L4. Este o depresiune cutanată (sau proeminență).",
+    "repere_anatomice": ["Este situat pe linia mediană a abdomenului", "Este un reper pentru dermatomul T10"],
+    "clinic": "Hernia ombilicală și infecțiile ombilicale (omfalita) afectează această regiune."
+  },
+  "upper_eyelid": {
+    "name": "Pleoapa superioară",
+    "latin": "Palpebra superior",
+    "localizare": "Ochi, superior",
+    "tip": "Structură cutanată mobilă",
+    "descriere": "Pliul cutanat superior care acoperă globul ocular. Este mai mobilă și mai mare decât pleoapa inferioară, datorită mușchiului ridicător.",
+    "repere_anatomice": ["Este situată deasupra ochiului", "Conține tarsul superior și genele"],
+    "clinic": "Ptoza palpebrală (căderea pleoapei superioare) poate fi congenitală sau dobândită."
+  },
+  "upper_lip": {
+    "name": "Buza superioară",
+    "latin": "Labium superius",
+    "localizare": "Față, superior de gură",
+    "tip": "Structură cutaneo‑mucoasă",
+    "descriere": "Pliul superior al orificiului bucal, acoperit de piele (extern) și mucoasă (intern). Conține mușchiul orbicular al gurii și ridicătorii buzei.",
+    "repere_anatomice": ["Este situată sub nas", "Prezintă philtrumul și arcul lui Cupidon"],
+    "clinic": "Chelita (inflamația buzelor) poate fi cauzată de expunere solară sau infecții."
+  },
+  "urogenital_region": {
+    "name": "Regiunea urogenitală",
+    "latin": "Regio urogenitalis",
+    "localizare": "Perineu anterior",
+    "tip": "Regiune cutanată",
+    "descriere": "Triunghiul anterior al perineului, care conține organele genitale externe și orificiul uretral.",
+    "repere_anatomice": ["Este situată anterior de triunghiul anal", "Conține scrotul/labiile mari și orificiul uretral"],
+    "clinic": "Epiziotomia și rupturile perineale afectează această regiune în timpul nașterii."
+  },
+  "vertebral_region": {
+    "name": "Regiunea vertebrală",
+    "latin": "Regio vertebralis",
+    "localizare": "Spate, pe linia mediană",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă procesele spinoase ale vertebrelor, de la gât la sacrum. Procesele spinoase sunt palpabile sub piele.",
+    "repere_anatomice": ["Este situată pe linia mediană posterioară", "Vertebra C7 (proeminentă) este un reper palpabil"],
+    "clinic": "Scolioza și cifoza modifică aliniamentul acestei regiuni."
+  },
+  "zygomatic_region": {
+    "name": "Regiunea zigomatică",
+    "latin": "Regio zygomatica",
+    "localizare": "Față, peste osul zigomatic",
+    "tip": "Regiune cutanată",
+    "descriere": "Tegumentul care acoperă osul zigomatic (pomeții). Este proeminentă și conferă relief feței.",
+    "repere_anatomice": ["Este situată lateral și inferior de orbită", "Osul zigomatic este palpabil sub piele"],
+    "clinic": "Fracturile de os zigomatic („pomete”) produc deformare facială și diplopie."
+  },
+  "anterior_axillary_line": {
+    "name": "Linia axilară anterioară",
+    "latin": "Linea axillaris anterior",
+    "localizare": "Torace lateral, la marginea anterioară a axilei",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală imaginară care coboară de la pliul axilar anterior (marginea pectoralului mare). Folosită în examinarea clinică a toracelui.",
+    "repere_anatomice": ["Este situată la marginea anterioară a axilei", "Paralelă cu linia medioclaviculară"],
+    "clinic": "Este utilizată pentru descrierea localizării leziunilor toracice și a zgomotelor cardiace."
+  },
+  "anterior_median_line": {
+    "name": "Linia mediană anterioară",
+    "latin": "Linea mediana anterior",
+    "localizare": "Torace și abdomen, pe linia mediană anterioară",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală care trece prin mijlocul sternului și ombilicului. Separă corpul în jumătăți dreaptă și stângă.",
+    "repere_anatomice": ["Trece prin stern, ombilic și simfiza pubiană", "Este o linie de simetrie"],
+    "clinic": "Cicatricile operatorii mediane (sternotomie, laparotomie) urmează această linie."
+  },
+  "mamillary_line": {
+    "name": "Linia mamelonară (medioclaviculară)",
+    "latin": "Linea medioclavicularis",
+    "localizare": "Torace și abdomen, trecând prin mamelon",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală care coboară de la mijlocul claviculei, trecând prin mamelon. Utilizată în examinarea clinică.",
+    "repere_anatomice": ["Trece prin mijlocul claviculei și mamelon", "Delimitează regiunile toracice"],
+    "clinic": "Matitatea cardiacă se percută pe această linie (până la coasta 5 stângă)."
+  },
+  "midclavicular_line": {
+    "name": "Linia medioclaviculară",
+    "latin": "Linea medioclavicularis",
+    "localizare": "Torace, coborând de la mijlocul claviculei",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Sinonim pentru linia mamelonară. A se vedea acea secțiune.",
+    "repere_anatomice": [],
+    "clinic": ""
+  },
+  "parasternal_line": {
+    "name": "Linia parasternală",
+    "latin": "Linea parasternalis",
+    "localizare": "Torace, la marginea laterală a sternului",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală situată la 1‑2 cm lateral de marginea sternului.",
+    "repere_anatomice": ["Este situată între linia mediană și linia medioclaviculară", "Artera toracică internă se află sub această linie"],
+    "clinic": "Puncția pleurală se evită pe această linie pentru a nu leza artera toracică internă."
+  },
+  "posterior_axillary_line": {
+    "name": "Linia axilară posterioară",
+    "latin": "Linea axillaris posterior",
+    "localizare": "Torace lateral, la marginea posterioară a axilei",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală care coboară de la pliul axilar posterior (marginea dorsalului mare).",
+    "repere_anatomice": ["Este situată la marginea posterioară a axilei", "Paralelă cu linia scapulară"],
+    "clinic": "Utilizată în examinarea pulmonară."
+  },
+  "posterior_median_line": {
+    "name": "Linia mediană posterioară",
+    "latin": "Linea mediana posterior",
+    "localizare": "Spate, pe linia mediană",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală care trece prin procesele spinoase ale vertebrelor.",
+    "repere_anatomice": ["Trece prin procesele spinoase", "Este o linie de simetrie posterioară"],
+    "clinic": "Puncția lombară se efectuează pe această linie."
+  },
+  "scapular_line": {
+    "name": "Linia scapulară",
+    "latin": "Linea scapularis",
+    "localizare": "Spate, trecând prin unghiul inferior al scapulei",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Linie verticală care coboară prin unghiul inferior al scapulei, cu brațul în repaus.",
+    "repere_anatomice": ["Trece prin unghiul inferior al scapulei", "Paralelă cu linia vertebrală"],
+    "clinic": "Utilizată în percuția pulmonară."
+  },
+  "sternal_line": {
+    "name": "Linia sternală",
+    "latin": "Linea sternalis",
+    "localizare": "Torace, pe marginea laterală a sternului",
+    "tip": "Linie de referință cutanată",
+    "descriere": "Sinonim pentru linia parasternală. A se vedea acea secțiune.",
+    "repere_anatomice": [],
+    "clinic": ""
+  },
+  "nail_plate_foot": {
+  "name": "Placa unghială a piciorului",
+  "latin": "Lamina unguis pedis",
+  "localizare": "Fața dorsală a falangelor distale ale degetelor de la picioare",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Lamă cornee, dură, care acoperă și protejează extremitatea distală a degetelor de la picioare. Similară cu unghia de la mână, dar de obicei mai groasă și mai plată.",
+  "repere_anatomice": ["Este situată pe dosul degetelor de la picioare", "Prezintă lunula (semiluna albicioasă proximală) mai puțin vizibilă"],
+  "clinic": "Onicomicoza (infecția fungică) și unghia incarnată (mai ales la haluce) sunt patologii frecvente ale unghiilor de la picioare."
+},
+"nail_plate_hand": {
+  "name": "Placa unghială a mâinii",
+  "latin": "Lamina unguis manus",
+  "localizare": "Fața dorsală a falangelor distale ale degetelor de la mână",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Lamă cornee, dură, care acoperă și protejează extremitatea distală a degetelor de la mână. Crește din matricea unghială (lunula) și are rol în protecția vârfului degetelor și în precizia tactilă.",
+  "repere_anatomice": ["Este situată pe dosul degetelor de la mână", "Prezintă lunula (semiluna albicioasă proximală) mai vizibilă la police"],
+  "clinic": "Onicofagia (roaderea unghiilor) și psoriazisul unghial afectează frecvent unghiile de la mâini."
+},
+"hairs_of_eyebrow_left": {
+  "name": "Perii sprâncenei stângi",
+  "latin": "Pili supercilii sinistri",
+  "localizare": "Sprânceana stângă",
+  "tip": "Peri specializați",
+  "descriere": "Perii groși, arcuiți, care formează sprânceana stângă. Sunt mai groși și mai pigmentați decât părul de pe scalp.",
+  "repere_anatomice": ["Sunt implantați în pielea sprâncenei stângi", "Au o direcție de creștere specifică"],
+  "clinic": "Pierderea cozii sprâncenei (semnul Hertoghe) este un semn de hipotiroidism, adesea bilateral."
+},
+"hairs_of_eyebrow_right": {
+  "name": "Perii sprâncenei drepte",
+  "latin": "Pili supercilii dextri",
+  "localizare": "Sprânceana dreaptă",
+  "tip": "Peri specializați",
+  "descriere": "Perii groși, arcuiți, care formează sprânceana dreaptă. Sunt mai groși și mai pigmentați decât părul de pe scalp.",
+  "repere_anatomice": ["Sunt implantați în pielea sprâncenei drepte", "Au o direcție de creștere specifică"],
+  "clinic": "Asimetria sprâncenelor poate indica o paralizie facială periferică."
+},
+"hairs_of_head_left": {
+  "name": "Părul de pe jumătatea stângă a scalpului",
+  "latin": "Capilli sinistri",
+  "localizare": "Scalp, jumătatea stângă",
+  "tip": "Anexe cutanate (peri)",
+  "descriere": "Perii lungi care acoperă jumătatea stângă a scalpului. Sunt similari ca structură cu cei de pe partea dreaptă.",
+  "repere_anatomice": ["Acoperă bolta craniană stângă", "Fiecare fir are un ciclu de creștere (anagen, catagen, telogen)"],
+  "clinic": "Alopecia areata (căderea circulară a părului) poate afecta asimetric scalpul."
+},
+"hairs_of_head_right": {
+  "name": "Părul de pe jumătatea dreaptă a scalpului",
+  "latin": "Capilli dextri",
+  "localizare": "Scalp, jumătatea dreaptă",
+  "tip": "Anexe cutanate (peri)",
+  "descriere": "Perii lungi care acoperă jumătatea dreaptă a scalpului. Sunt similari ca structură cu cei de pe partea stângă.",
+  "repere_anatomice": ["Acoperă bolta craniană dreaptă", "Fiecare fir are un ciclu de creștere (anagen, catagen, telogen)"],
+  "clinic": "Trauma locală sau infecțiile fungice (tinea capitis) pot afecta asimetric scalpul."
+},
+"nail_plate_foot_left": {
+  "name": "Unghia de la piciorul stâng",
+  "latin": "Lamina unguis pedis sinistri",
+  "localizare": "Degetele piciorului stâng",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Unghiile degetelor de la piciorul stâng. Sunt în general mai groase și mai plate decât cele de la mâini.",
+  "repere_anatomice": ["Acoperă falangele distale ale degetelor stângi"],
+  "clinic": "Traumatismele repetate (încălțăminte strâmtă) pot produce hematoame subunghiale."
+},
+"nail_plate_foot_right": {
+  "name": "Unghia de la piciorul drept",
+  "latin": "Lamina unguis pedis dextri",
+  "localizare": "Degetele piciorului drept",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Unghiile degetelor de la piciorul drept. Sunt în general mai groase și mai plate decât cele de la mâini.",
+  "repere_anatomice": ["Acoperă falangele distale ale degetelor drepte"],
+  "clinic": "Onicogrifoza (unghia groasă, curbată) apare frecvent la halucelui drept sau stâng."
+},
+"nail_plate_hand_left": {
+  "name": "Unghia de la mâna stângă",
+  "latin": "Lamina unguis manus sinistrae",
+  "localizare": "Degetele mâinii stângi",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Unghiile degetelor de la mâna stângă. Sunt mai subțiri și mai fine decât cele de la picioare.",
+  "repere_anatomice": ["Acoperă falangele distale ale degetelor stângi"],
+  "clinic": "Manichiura regulată previne infecțiile și menține sănătatea unghiilor."
+},
+"nail_plate_hand_right": {
+  "name": "Unghia de la mâna dreaptă",
+  "latin": "Lamina unguis manus dextrae",
+  "localizare": "Degetele mâinii drepte",
+  "tip": "Anexă cutanată cheratinizată",
+  "descriere": "Unghiile degetelor de la mâna dreaptă. Sunt mai subțiri și mai fine decât cele de la picioare.",
+  "repere_anatomice": ["Acoperă falangele distale ale degetelor drepte"],
+  "clinic": "La dreptaci, unghiile mâinii drepte pot prezenta mai multe microtraumatisme."
+}
+}

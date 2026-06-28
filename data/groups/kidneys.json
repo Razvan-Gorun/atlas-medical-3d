@@ -1,0 +1,55 @@
+{
+  "name": "Rinichii",
+  "icon": "🫘",
+  "layers": {
+    "parenchyma": {
+      "label": "Parenchim renal",
+      "icon": "🫘",
+      "description": "Rinichii drept și stâng",
+      "ids": [
+        "kidneyl",
+        "kidneyr"
+      ]
+    },
+    "renal_pelvis": {
+      "label": "Pelvisul renal",
+      "icon": "🔻",
+      "description": "Bazinele renale",
+      "ids": [
+        "renal_pelvisl",
+        "renal_pelvisr"
+      ]
+    },
+    "renal_vessels": {
+      "label": "Vase renale principale",
+      "icon": "🩸",
+      "description": "Arterele și venele renale",
+      "ids": [
+        "left_renal_artery",
+        "right_renal_artery",
+        "left_renal_vein",
+        "right_renal_vein"
+      ]
+    },
+    "intrarenal_vessels": {
+      "label": "Vase intrarenale",
+      "icon": "🩸",
+      "description": "Arterele și venele din interiorul rinichilor",
+      "ids": [
+        "intrarenal_arteries_of_left_kidney",
+        "intrarenal_arteries_of_right_kidney",
+        "intrarenal_veins_of_left_kidney",
+        "intrarenal_veins_of_right_kidney"
+      ]
+    },
+    "ureters": {
+      "label": "Ureterele",
+      "icon": "〰️",
+      "description": "Ureterele drept și stâng",
+      "ids": [
+        "ureterl",
+        "ureterr"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Intestinul subțire",
+  "icon": "🟡",
+  "layers": {
+    "intestinal_wall": {
+      "label": "Pereții intestinali",
+      "icon": "🟡",
+      "description": "Duodenul și jejunul (ileonul nu este modelat separat în această versiune)",
+      "ids": [
+        "duodenum",
+        "jejunum"
+      ]
+    },
+    "mesenteric_vessels": {
+      "label": "Vase mezenterice superioare",
+      "icon": "🩸",
+      "description": "Artera și vena care hrănesc și drenează intestinul subțire",
+      "ids": [
+        "superior_mesenteric_artery",
+        "superior_mesenteric_vein"
+      ]
+    }
+  }
+}

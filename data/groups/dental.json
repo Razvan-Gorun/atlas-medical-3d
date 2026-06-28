@@ -1,0 +1,140 @@
+{
+  "name": "Aparatul dento-maxilar",
+  "icon": "🦷",
+  "layers": {
+    "facial_bones": {
+      "label": "Oasele feței",
+      "icon": "🦴",
+      "description": "Maxilarul, mandibula, palatinul, vomerul, zigomaticul și oasele nazale",
+      "ids": [
+        "maxilla", "maxilla_1", "maxilla_2", "maxilla_3", "maxilla_4", "maxilla_5", "maxilla_6", "maxilla_7",
+        "mandible_1", "mandible_2", "mandible_3",
+        "palatine_bone", "palatine_bone_1", "palatine_bone_2", "palatine_bone_3", "palatine_bone_4",
+        "vomer",
+        "zygomatic_bone", "zygomatic_bone_1", "zygomatic_bone_2", "zygomatic_bone_3", "zygomatic_bone_4",
+        "nasal_bone", "nasal_bone_1", "nasal_bone_2", "nasal_bone_3",
+        "inferior_nasal_concha_bonel", "inferior_nasal_concha_boner"
+      ]
+    },
+    "tmj": {
+      "label": "Articulația temporo-mandibulară",
+      "icon": "🦴",
+      "description": "Capsula, discul articular și ligamentele ATM",
+      "ids": [
+        "articular_capsule_of_temporomandibular_jointl",
+        "articular_capsule_of_temporomandibular_jointr",
+        "articular_disc_of_temporomandibular_jointl",
+        "articular_disc_of_temporomandibular_jointr",
+        "lateral_temporomandibular_ligamentl",
+        "lateral_temporomandibular_ligamentr",
+        "sphenomandibular_ligamentl",
+        "sphenomandibular_ligamentr",
+        "stylomandibular_ligamentl",
+        "stylomandibular_ligamentr"
+      ]
+    },
+    "teeth_upper": {
+      "label": "Dinții superiori",
+      "icon": "🦷",
+      "description": "Incisivi, canini, premolari și molari superiori",
+      "ids": [
+        "upper_medial_incisor", "upper_medial_incisor_1",
+        "upper_lateral_incisor", "upper_lateral_incisor_1",
+        "upper_canine", "upper_canine_1",
+        "upper_first_premolar", "upper_first_premolar_1",
+        "upper_second_premolar", "upper_second_premolar_1",
+        "upper_first_molar_tooth", "upper_first_molar_tooth_1",
+        "upper_second_molar_tooth", "upper_second_molar_tooth_1"
+      ]
+    },
+    "teeth_lower": {
+      "label": "Dinții inferiori",
+      "icon": "🦷",
+      "description": "Incisivi, canini, premolari și molari inferiori",
+      "ids": [
+        "lower_medial_incisor", "lower_medial_incisor_1",
+        "lower_lateral_incisor", "lower_lateral_incisor_1",
+        "lower_canine", "lower_canine_1",
+        "lower_first_premolar", "lower_first_premolar_1",
+        "lower_second_premolar", "lower_second_premolar_1",
+        "lower_first_molar_tooth", "lower_first_molar_tooth_1", "lower_first_molar_tooth_2",
+        "lower_second_molar_tooth", "lower_second_molar_tooth_1"
+      ]
+    },
+    "masticatory_muscles": {
+      "label": "Mușchii masticatori",
+      "icon": "💪",
+      "description": "Maseter, temporal, pterigoidieni și mușchii supra-/infrahioidieni",
+      "ids": [
+        "masseterel", "masseterer",
+        "masseterol", "masseteror",
+        "deep_part_of_masseter", "deep_part_of_masseter_1",
+        "superficial_part_of_masseter", "superficial_part_of_masseter_1",
+        "temporalis_muscle", "temporalis_muscle_1",
+        "lateral_pterygoid_muscleol", "lateral_pterygoid_muscleor",
+        "medial_pterygoid_musclel", "medial_pterygoid_muscler",
+        "anterior_belly_of_digastric_musclel", "anterior_belly_of_digastric_muscler",
+        "posterior_belly_of_digastric_musclel", "posterior_belly_of_digastric_muscler",
+        "mylohyoid_musclel", "mylohyoid_muscler",
+        "geniohyoid_musclel", "geniohyoid_muscler"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii cavității bucale",
+      "icon": "🧠",
+      "description": "Trigemen, facial, hipoglos și ramurile lor",
+      "ids": [
+        "trigeminal_nerve_v_l", "trigeminal_nerve_v_r",
+        "facial_nerve_vii_l", "facial_nerve_vii_r",
+        "hypoglossal_nerve_xii_l", "hypoglossal_nerve_xii_r",
+        "maxillary_nervel", "maxillary_nerver",
+        "mandibular_nervel", "mandibular_nerver",
+        "lingual_nervel", "lingual_nerver",
+        "inferior_alveolar_nervel", "inferior_alveolar_nerver",
+        "mental_nervel", "mental_nerver",
+        "buccal_nervel", "buccal_nerver",
+        "chorda_tympanil", "chorda_tympanir"
+      ]
+    },
+    "arteries": {
+      "label": "Artere",
+      "icon": "🔴",
+      "description": "Ramuri arteriale pentru maxilare, dinți și față",
+      "ids": [
+        "external_carotid_arteryl", "external_carotid_arteryr",
+        "maxillary_arteryl", "maxillary_arteryr",
+        "inferior_alveolar_arteryl", "inferior_alveolar_arteryr",
+        "mylohyoid_branch_of_inferior_alveolar_arteryl", "mylohyoid_branch_of_inferior_alveolar_arteryr",
+        "facial_arteryl", "facial_arteryr",
+        "lingual_arteryl", "lingual_arteryr",
+        "superficial_temporal_arteryl", "superficial_temporal_arteryr",
+        "greater_palatine_arteryl", "greater_palatine_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Vene",
+      "icon": "🔵",
+      "description": "Drenajul venos al feței și cavității bucale",
+      "ids": [
+        "internal_jugular_veinl", "internal_jugular_veinr",
+        "external_jugular_veinl", "external_jugular_veinr",
+        "facial_veinl", "facial_veinr",
+        "retromandibular_veinl", "retromandibular_veinr",
+        "maxillary_veinsl", "maxillary_veinsr",
+        "lingual_veinl", "lingual_veinr"
+      ]
+    },
+    "salivary_glands": {
+      "label": "Glandele salivare",
+      "icon": "🧪",
+      "description": "Parotide, submandibulare, sublinguale",
+      "ids": [
+        "parotid_glandl", "parotid_glandr",
+        "submandibular_glandl", "submandibular_glandr",
+        "sublingual_glandl", "sublingual_glandr",
+        "parotid_ductl", "parotid_ductr",
+        "submandibular_ductl", "submandibular_ductr"
+      ]
+    }
+  }
+}

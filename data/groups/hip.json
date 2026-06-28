@@ -1,0 +1,56 @@
+{
+  "name": "Articulația șoldului",
+  "icon": "🦿",
+  "layers": {
+    "bones": {
+      "label": "Oase",
+      "icon": "🦴",
+      "description": "Osul coxal și femurul",
+      "ids": [
+        "hip_bone", "hip_bone_1", "hip_bone_2", "hip_bone_3",
+        "femur", "femur_1"
+      ]
+    },
+    "labrum_and_capsule": {
+      "label": "Labrum și capsulă",
+      "icon": "🔘",
+      "description": "Labrumul acetabular și capsula articulară",
+      "ids": [
+        "acetabular_labruml", "acetabular_labrumr",
+        "articular_capsule_of_hip_jointl", "articular_capsule_of_hip_jointr"
+      ]
+    },
+    "iliofemoral_ligaments": {
+      "label": "Ligamentele iliofemorale",
+      "icon": "〰️",
+      "description": "Partea descendentă și transversă",
+      "ids": [
+        "descending_part_of_iliofemoral_ligamentl", "descending_part_of_iliofemoral_ligamentr",
+        "transverse_part_of_iliofemoral_ligamentl", "transverse_part_of_iliofemoral_ligamentr"
+      ]
+    },
+    "other_ligaments": {
+      "label": "Celelalte ligamente",
+      "icon": "〰️",
+      "description": "Ligamentele pubofemural, ischiofemural și rotund",
+      "ids": [
+        "pubofemoral_ligamentl", "pubofemoral_ligamentr",
+        "ischiofemoral_ligamentl", "ischiofemoral_ligamentr",
+        "ligament_of_head_of_femurl", "ligament_of_head_of_femurr",
+        "transverse_acetabular_ligamentl", "transverse_acetabular_ligamentr"
+      ]
+    },
+    "bursae": {
+      "label": "Burse",
+      "icon": "🫧",
+      "description": "Bursele trohanterice și ilio-psoas",
+      "ids": [
+        "trochanteric_bursa_of_gluteus_maximus_musclel", "trochanteric_bursa_of_gluteus_maximus_muscler",
+        "trochanteric_bursa_of_gluteus_medius_musclel", "trochanteric_bursa_of_gluteus_medius_muscler",
+        "trochanteric_bursa_of_gluteus_minimus_musclel", "trochanteric_bursa_of_gluteus_minimus_muscler",
+        "iliopectineal_bursa_l", "iliopectineal_bursa_r",
+        "subcutaneous_trochanteric_bursal", "subcutaneous_trochanteric_bursar"
+      ]
+    }
+  }
+}

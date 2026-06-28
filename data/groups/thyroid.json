@@ -1,0 +1,43 @@
+{
+  "name": "Tiroida și paratiroidele",
+  "icon": "🦋",
+  "layers": {
+    "thyroid_parenchyma": {
+      "label": "Glanda tiroidă",
+      "icon": "🦋",
+      "description": "Țesutul tiroidian – lobi și istm (un singur obiect 3D)",
+      "ids": [
+        "thyroid_gland"
+      ]
+    },
+    "parathyroid_glands": {
+      "label": "Glandele paratiroide",
+      "icon": "🔘",
+      "description": "Paratiroidele superioare și inferioare",
+      "ids": [
+        "superior_parathyroid_glandl",
+        "superior_parathyroid_glandr",
+        "inferior_parathyroid_glandl",
+        "inferior_parathyroid_glandr"
+      ]
+    },
+    "arteries": {
+      "label": "Artere tiroidiene",
+      "icon": "🔴",
+      "description": "Arterele care hrănesc tiroida și paratiroidele",
+      "ids": [
+        "inferior_thyroid_arteryl",
+        "inferior_thyroid_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Vene tiroidiene",
+      "icon": "🔵",
+      "description": "Drenajul venos al tiroidei",
+      "ids": [
+        "superior_thyroid_veinl",
+        "superior_thyroid_veinr"
+      ]
+    }
+  }
+}

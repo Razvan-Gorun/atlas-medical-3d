@@ -1,0 +1,75 @@
+{
+  "name": "Organele genitale masculine",
+  "icon": "🟦",
+  "layers": {
+    "gonads": {
+      "label": "Gonadele (testiculele)",
+      "icon": "🥚",
+      "description": "Testiculele și epididimul",
+      "ids": [
+        "testisl",
+        "testisr",
+        "epididymisl",
+        "epididymisr"
+      ]
+    },
+    "spermatic_pathways": {
+      "label": "Căile spermatice",
+      "icon": "〰️",
+      "description": "Ductul deferent, veziculele seminale și ducturile ejaculatoare",
+      "ids": [
+        "ductus_deferensl",
+        "ductus_deferensr",
+        "seminal_glandl",
+        "seminal_glandr",
+        "ejaculatory_ductl",
+        "ejaculatory_ductr"
+      ]
+    },
+    "prostate": {
+      "label": "Prostata",
+      "icon": "🔵",
+      "description": "Glanda prostatică",
+      "ids": [
+        "prostate"
+      ]
+    },
+    "penis": {
+      "label": "Organul copulator",
+      "icon": "🍆",
+      "description": "Corpii cavernoși, corpul spongios și glandul",
+      "ids": [
+        "corpus_cavernosum_of_penis",
+        "corpus_spongiosum_of_penis",
+        "glans_penis"
+      ]
+    },
+    "vessels": {
+  "label": "Vascularizație pelviană",
+  "icon": "🩸",
+  "description": "Arterele și venele care deservesc organele genitale masculine",
+  "ids": [
+    "left_testicular_artery",
+    "right_testicular_arteryr",
+    "left_testicular_vein",
+    "right_testicular_vein",
+    "internal_pudendal_arteryl",
+    "internal_pudendal_arteryr",
+    "superficial_external_pudendal_arteryl",
+    "superficial_external_pudendal_arteryr",
+    "deep_external_pudendal_arteryl",
+    "deep_external_pudendal_arteryr",
+    "dorsal_artery_of_penisl",
+    "dorsal_artery_of_penisr",
+    "deep_artery_of_penisl",
+    "deep_artery_of_penisr",
+    "deep_dorsal_vein_of_penis",
+    "superficial_dorsal_veins_of_penis",
+    "internal_pudendal_veinl",
+    "internal_pudendal_veinr",
+    "external_pudendal_veinsl",
+    "external_pudendal_veinsr"
+  ]
+}
+  }
+}

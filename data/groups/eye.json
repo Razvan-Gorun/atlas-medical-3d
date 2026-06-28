@@ -1,0 +1,110 @@
+{
+  "name": "Ochiul",
+  "icon": "👁️",
+  "layers": {
+    "eyeball": {
+      "label": "Globul ocular",
+      "icon": "👁️",
+      "description": "Tunicile și mediile transparente ale ochiului",
+      "ids": [
+        "corneal",
+        "cornear",
+        "irisl",
+        "irisr",
+        "lensl",
+        "lensr",
+        "retinal",
+        "retinar",
+        "scleral",
+        "sclerar",
+        "vitreous_bodyl",
+        "vitreous_bodyr",
+        "optic_nerve_ii_l",
+        "optic_nerve_ii_r",
+        "optic_chiasml",
+        "optic_chiasmr",
+        "optic_tractl",
+        "optic_tractr"
+      ]
+    },
+    "lacrimal_system": {
+      "label": "Aparatul lacrimal",
+      "icon": "💧",
+      "description": "Glanda lacrimală, canaliculele, sacul și ductul nazolacrimal",
+      "ids": [
+        "lacrimal_glandl",
+        "lacrimal_glandr",
+        "lacrimal_canaliculusl",
+        "lacrimal_canaliculusr",
+        "lacrimal_sacl",
+        "lacrimal_sacr",
+        "nasolacrimal_ductl",
+        "nasolacrimal_ductr"
+      ]
+    },
+    "extraocular_muscles": {
+      "label": "Mușchii extrinseci",
+      "icon": "💪",
+      "description": "Mușchii care mișcă globul ocular",
+      "ids": [
+        "superior_rectus_musclel",
+        "superior_rectus_muscler",
+        "inferior_rectus_musclel",
+        "inferior_rectus_muscler",
+        "medial_rectus_musclel",
+        "medial_rectus_muscler",
+        "lateral_rectus_musclel",
+        "lateral_rectus_muscler",
+        "superior_oblique_musclel",
+        "superior_oblique_muscler",
+        "inferior_oblique_musclel",
+        "inferior_oblique_muscler",
+        "levator_palpebrae_superiorisl",
+        "levator_palpebrae_superiorisr",
+        "orbital_part_of_orbicularis_oculil",
+        "orbital_part_of_orbicularis_oculir"
+      ]
+    },
+    "ophthalmic_arteries": {
+      "label": "Artera oftalmică și ramuri",
+      "icon": "🔴",
+      "description": "Vascularizația arterială a ochiului",
+      "ids": [
+        "ophthalmic_arteryl",
+        "ophthalmic_arteryr",
+        "central_retinal_arteryl",
+        "central_retinal_arteryr",
+        "lacrimal_arteryl",
+        "lacrimal_arteryr"
+      ]
+    },
+    "ophthalmic_veins": {
+      "label": "Vene oftalmice",
+      "icon": "🔵",
+      "description": "Drenajul venos al orbitei",
+      "ids": [
+        "superior_ophthalmic_veinl",
+        "superior_ophthalmic_veinr",
+        "inferior_ophthalmic_veinl",
+        "inferior_ophthalmic_veinr"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii ochiului",
+      "icon": "🧠",
+      "description": "Nervii senzitivi și motori",
+      "ids": [
+        "optic_nerve_ii_l",
+        "optic_nerve_ii_r",
+        "oculomotor_nerve_iii_l",
+        "oculomotor_nerve_iii_r",
+        "trochlear_nerve_iv_l",
+        "trochlear_nerve_iv_r",
+        "ophthalmic_nervel",
+        "ophthalmic_nerver",
+        "abducens_nerve_vi_l",
+        "abducens_nerve_vi_r"
+      ]
+    }
+  }
+}

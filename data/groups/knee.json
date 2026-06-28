@@ -1,0 +1,79 @@
+{
+  "name": "Articulația genunchiului",
+  "icon": "🦵",
+  "layers": {
+    "bones": {
+      "label": "Oase",
+      "icon": "🦴",
+      "description": "Femurul, tibia, fibula și patela",
+      "ids": [
+        "femur", "femur_1",
+        "tibia", "tibia_1",
+        "fibula", "fibula_1",
+        "patella", "patella_1"
+      ]
+    },
+    "menisci": {
+      "label": "Meniscuri",
+      "icon": "🌙",
+      "description": "Meniscul medial și lateral",
+      "ids": [
+        "medial_meniscusl", "medial_meniscusr",
+        "lateral_meniscusl", "lateral_meniscusr"
+      ]
+    },
+    "cruciate_ligaments": {
+      "label": "Ligamente încrucișate",
+      "icon": "✖️",
+      "description": "LIA și LIP",
+      "ids": [
+        "anterior_cruciate_ligamentl", "anterior_cruciate_ligamentr",
+        "posterior_cruciate_ligamentl", "posterior_cruciate_ligamentr"
+      ]
+    },
+    "collateral_ligaments": {
+      "label": "Ligamente colaterale",
+      "icon": "↔️",
+      "description": "Ligamentul colateral tibial și fibular",
+      "ids": [
+        "deep_part_of_tibial_collateral_ligamentl", "deep_part_of_tibial_collateral_ligamentr",
+        "superficial_part_of_tibial_collateral_ligamentl", "superficial_part_of_tibial_collateral_ligamentr",
+        "fibular_collateral_ligamentl", "fibular_collateral_ligamentr"
+      ]
+    },
+    "other_ligaments": {
+      "label": "Alte ligamente",
+      "icon": "〰️",
+      "description": "Ligamentul popliteu, transvers, patelar etc.",
+      "ids": [
+        "oblique_popliteal_ligamentl", "oblique_popliteal_ligamentr",
+        "arcuate_popliteal_ligamentl", "arcuate_popliteal_ligamentr",
+        "transverse_ligament_of_kneel", "transverse_ligament_of_kneer",
+        "patellar_ligamentol", "patellar_ligamentor",
+        "patellar_ligamentel", "patellar_ligamenter",
+        "meniscopatellar_ligamentl", "meniscopatellar_ligamentr",
+        "popliteofibular_ligamentl", "popliteofibular_ligamentr",
+        "anterior_meniscotibial_ligament_lateral_meniscus_l", "anterior_meniscotibial_ligament_lateral_meniscus_r",
+        "anterior_meniscotibial_ligament_medial_meniscus_l", "anterior_meniscotibial_ligament_medial_meniscus_r",
+        "posterior_meniscotibial_ligament_lateral_meniscus_l", "posterior_meniscotibial_ligament_lateral_meniscus_r",
+        "posterior_meniscotibial_ligament_medial_meniscus_l", "posterior_meniscotibial_ligament_medial_meniscus_r"
+      ]
+    },
+    "capsule_and_bursae": {
+      "label": "Capsulă și burse",
+      "icon": "🫧",
+      "description": "Capsula articulară și bursele genunchiului",
+      "ids": [
+        "articular_capsule_of_knee_jointl", "articular_capsule_of_knee_jointr",
+        "suprapatellar_bursal", "suprapatellar_bursar",
+        "subcutaneous_prepatellar_bursal", "subcutaneous_prepatellar_bursar",
+        "subfacial_prepatellar_bursal", "subfacial_prepatellar_bursar",
+        "subtendinous_prepatellar_bursal", "subtendinous_prepatellar_bursar",
+        "deep_infrapatellar_bursal", "deep_infrapatellar_bursar",
+        "subcutaneous_infrapatellar_bursal", "subcutaneous_infrapatellar_bursar",
+        "anserine_bursal", "anserine_bursar",
+        "subcutaneous_bursa_of_tuberosity_of_tibial", "subcutaneous_bursa_of_tuberosity_of_tibiar"
+      ]
+    }
+  }
+}

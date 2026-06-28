@@ -1,0 +1,134 @@
+{
+  "name": "Urechea",
+  "icon": "👂",
+  "layers": {
+    "bone": {
+      "label": "Osos",
+      "icon": "🦴",
+      "description": "Stânca temporalului și oscioarele auditive",
+      "ids": [
+        "temporal_bone",
+        "temporal_bone_1",
+        "temporal_bone_2",
+        "temporal_bone_3",
+        "temporal_bone_4",
+        "malleus",
+        "malleus_1",
+        "incus",
+        "incus_1",
+        "stapes",
+        "stapes_1"
+      ]
+    },
+    "organs": {
+      "label": "Organe",
+      "icon": "🦻",
+      "description": "Timpanul, cohleea, vestibulul și tuba auditivă",
+      "ids": [
+        "tympanic_membranel",
+        "tympanic_membraner",
+        "cochleal",
+        "cochlear",
+        "vestibulel",
+        "vestibuler",
+        "auditory_tubel",
+        "auditory_tuber"
+      ]
+    },
+    "muscles": {
+      "label": "Mușchi",
+      "icon": "💪",
+      "description": "Mușchii pavilionului și mușchii intratimpanici",
+      "ids": [
+        "temporoparietalis_muscle",
+        "temporoparietalis_muscle_1",
+        "stapedius",
+        "tensor_tympani"
+      ]
+    },
+    "nerves": {
+      "label": "Nervi",
+      "icon": "🧠",
+      "description": "Nervii vestibulocohlear, facial și coarda timpanului",
+      "ids": [
+        "vestibulocochlear_nerve_viii_l",
+        "vestibulocochlear_nerve_viii_r",
+        "vestibular_nervel",
+        "vestibular_nerver",
+        "cochlear_nerve",
+        "cochlear_nervel",
+        "facial_nerve_vii_l",
+        "facial_nerve_vii_r",
+        "chorda_tympanil",
+        "chorda_tympanir"
+      ]
+    },
+    "arteries": {
+      "label": "Artere",
+      "icon": "🩸",
+      "description": "Ramurile arteriale pentru ureche",
+      "ids": [
+        "posterior_auricular_artery",
+        "stylomastoid_artery",
+        "superficial_temporal_arteryl",
+        "superficial_temporal_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Vene",
+      "icon": "🔵",
+      "description": "Drenajul venos al urechii",
+      "ids": [
+        "posterior_auricular_veinl",
+        "posterior_auricular_veinr",
+        "superficial_temporal_veinsl",
+        "superficial_temporal_veinsr"
+      ]
+    },
+    "integumentary": {
+      "label": "Pielea pavilionului",
+      "icon": "🧴",
+      "description": "Cartilajul elastic și pielea care acoperă urechea externă",
+      "ids": [
+        "helixl",
+        "helixr",
+        "antihelixl",
+        "antihelixr",
+        "tragusl",
+        "tragusr",
+        "antitragusl",
+        "antitragusr",
+        "lobule_of_auriclel",
+        "lobule_of_auricler",
+        "concha_of_auriclel",
+        "concha_of_auricler",
+        "cymba_conchael",
+        "cymba_conchaer",
+        "cavity_of_conchal",
+        "cavity_of_conchar",
+        "triangular_fossal",
+        "triangular_fossar",
+        "scaphal",
+        "scaphar",
+        "posterior_auricular_groovel",
+        "posterior_auricular_groover",
+        "anterior_notch_of_auriclel",
+        "anterior_notch_of_auricler",
+        "intertragic_incisurel",
+        "intertragic_incisurer",
+        "apex_of_auriclel",
+        "apex_of_auricler",
+        "eminentia_conchael",
+        "eminentia_conchaer",
+        "eminentia_fossae_triangularisl",
+        "eminentia_fossae_triangularisr",
+        "eminentia_scaphael",
+        "eminentia_scaphaer",
+        "fossa_antihelical",
+        "fossa_antihelicar",
+        "crura_of_antihelixl",
+        "crura_of_antihelixr"
+      ]
+    }
+  }
+}

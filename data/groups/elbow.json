@@ -1,0 +1,52 @@
+{
+  "name": "Articulația cotului",
+  "icon": "🦾",
+  "layers": {
+    "bones": {
+      "label": "Oase",
+      "icon": "🦴",
+      "description": "Humerusul, radiusul și ulna",
+      "ids": [
+        "humerus", "humerus_1",
+        "radius", "radius_1",
+        "ulna", "ulna_1"
+      ]
+    },
+    "capsule": {
+      "label": "Capsula articulară",
+      "icon": "🫧",
+      "description": "Capsula articulației cotului",
+      "ids": [
+        "articular_capsule_of_elbow_jointl", "articular_capsule_of_elbow_jointr"
+      ]
+    },
+    "collateral_ligaments": {
+      "label": "Ligamente colaterale",
+      "icon": "↔️",
+      "description": "Ligamentele colateral radial și ulnar",
+      "ids": [
+        "radial_collateral_ligamentl", "radial_collateral_ligamentr",
+        "ulnar_collateral_ligamentl", "ulnar_collateral_ligamentr"
+      ]
+    },
+    "other_ligaments": {
+      "label": "Alte ligamente",
+      "icon": "〰️",
+      "description": "Ligamentul inelar, pătrat și corda oblică",
+      "ids": [
+        "annular_ligament_of_radiusl", "annular_ligament_of_radiusr",
+        "quadrate_ligamentl", "quadrate_ligamentr",
+        "oblique_cordl", "oblique_cordr"
+      ]
+    },
+    "bursae": {
+      "label": "Burse",
+      "icon": "🫧",
+      "description": "Bursele din jurul cotului",
+      "ids": [
+        "bicipitoradial_bursal", "bicipitoradial_bursar",
+        "subtendinous_bursa_of_triceps_brachii_musclel", "subtendinous_bursa_of_triceps_brachii_muscler"
+      ]
+    }
+  }
+}

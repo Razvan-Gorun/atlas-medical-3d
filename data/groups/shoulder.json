@@ -1,0 +1,67 @@
+{
+  "name": "Articulația umărului",
+  "icon": "💪",
+  "layers": {
+    "bones": {
+      "label": "Oase",
+      "icon": "🦴",
+      "description": "Humerusul, scapula și clavicula",
+      "ids": [
+        "humerus", "humerus_1",
+        "scapula", "scapula_1",
+        "clavicle", "clavicle_1"
+      ]
+    },
+    "glenoid_labrum_and_capsule": {
+      "label": "Labrum glenoidal și capsulă",
+      "icon": "🔘",
+      "description": "Labrumul și capsula glenohumerală",
+      "ids": [
+        "glenoid_labruml", "glenoid_labrumr",
+        "articular_capsule_of_glenohumeral_jointl", "articular_capsule_of_glenohumeral_jointr"
+      ]
+    },
+    "glenohumeral_ligaments": {
+      "label": "Ligamente glenohumerale",
+      "icon": "〰️",
+      "description": "Superior, mijlociu și inferior",
+      "ids": [
+        "superior_glenohumeral_ligamentl", "superior_glenohumeral_ligamentr",
+        "middle_glenohumeral_ligamentl", "middle_glenohumeral_ligamentr",
+        "inferior_glenohumeral_ligamentl", "inferior_glenohumeral_ligamentr",
+        "coracohumeral_ligamentl", "coracohumeral_ligamentr",
+        "transverse_humeral_ligamentl", "transverse_humeral_ligamentr"
+      ]
+    },
+    "acromioclavicular_ligaments": {
+      "label": "Ligamente acromioclaviculare",
+      "icon": "🔗",
+      "description": "Ligamentele și capsula AC",
+      "ids": [
+        "acromioclavicular_ligamentl", "acromioclavicular_ligamentr",
+        "articular_capsule_of_acromioclavicular_jointl", "articular_capsule_of_acromioclavicular_jointr",
+        "articular_disc_of_acromioclavicular_jointl", "articular_disc_of_acromioclavicular_jointr",
+        "coraco_acromial_ligamentl", "coraco_acromial_ligamentr"
+      ]
+    },
+    "coracoclavicular_ligaments": {
+      "label": "Ligamente coracoclaviculare",
+      "icon": "🔗",
+      "description": "Trapezoid și conoid",
+      "ids": [
+        "conoid_ligamentl", "conoid_ligamentr",
+        "trapezoid_ligamentl", "trapezoid_ligamentr"
+      ]
+    },
+    "bursae": {
+      "label": "Burse",
+      "icon": "🫧",
+      "description": "Bursele subacromială, subdeltoidă și subcutanată",
+      "ids": [
+        "subacromial_bursal", "subacromial_bursar",
+        "subdeltoid_bursal", "subdeltoid_bursar",
+        "subcutaneous_acromial_bursal", "subcutaneous_acromial_bursar"
+      ]
+    }
+  }
+}

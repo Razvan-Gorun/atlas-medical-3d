@@ -1,0 +1,84 @@
+{
+  "name": "Inima",
+  "icon": "❤️",
+  "layers": {
+    "chambers": {
+      "label": "Camerele cardiace",
+      "icon": "❤️",
+      "description": "Atriile și ventriculele",
+      "ids": [
+        "right_atrium",
+        "left_atrium",
+        "right_ventricle",
+        "left_ventricle"
+      ]
+    },
+    "valves": {
+      "label": "Valvele cardiace",
+      "icon": "🟦",
+      "description": "Valva tricuspidă, mitrală, aortică și pulmonară",
+      "ids": [
+        "inferior_leaflet_of_right_atrioventricular_valve",
+        "septal_leaflet_of_right_atrioventricular_valve",
+        "posterior_leaflet_of_left_atrioventricular_valve",
+        "left_coronary_leaflet",
+        "right_coronary_leaflet",
+        "non_coronary_leaflet",
+        "anterior_semilunar_leaflet_of_pulmonary_valve",
+        "right_semilunar_leaflet_of_pulmonary_valve",
+        "left_semilunar_leaflet_of_pulmonary_valve"
+      ]
+    },
+    "papillary_muscles": {
+      "label": "Mușchii papilari",
+      "icon": "💪",
+      "description": "Fixarea valvelor atrioventriculare",
+      "ids": [
+        "anterior_papillary_muscle_of_right_ventricle",
+        "inferior_papillary_muscle_of_right_ventricle",
+        "septal_papillary_muscle_of_right_ventricle",
+        "inferior_papillary_muscle_of_left_ventricle"
+      ]
+    },
+    "great_vessels": {
+      "label": "Vasele mari",
+      "icon": "🩸",
+      "description": "Aorta, artera pulmonară și venele cave",
+      "ids": [
+        "ascending_aorta",
+        "aortic_arch",
+        "thoracic_aorta",
+        "pulmonary_trunk",
+        "superior_vena_cava",
+        "inferior_vena_cava_abdominal_part",
+        "inferior_vena_cava_thoracic_part"
+      ]
+    },
+    "coronary_arteries": {
+      "label": "Arterele coronare",
+      "icon": "🔴",
+      "description": "Vascularizația arterială a inimii",
+      "ids": [
+        "left_coronary_artery",
+        "right_coronary_artery",
+        "anterior_interventricular_artery",
+        "circumflex_artery_of_heart",
+        "right_inferolateral_branch_of_right_coronary_artery",
+        "marginal_artery",
+        "septal_branches_of_anterior_interventricular_artery"
+      ]
+    },
+    "cardiac_veins": {
+      "label": "Venele cardiace",
+      "icon": "🔵",
+      "description": "Sinusul coronar și afluenții",
+      "ids": [
+        "coronary_sinus",
+        "great_cardiac_vein",
+        "middle_cardiac_vein",
+        "inferior_vein_of_left_ventricle",
+        "inferior_vein_of_left_ventricle_posterior_"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Stomacul",
+  "icon": "🟤",
+  "layers": {
+    "gastric_wall": {
+      "label": "Pereții gastrici",
+      "icon": "🟤",
+      "description": "Corpul stomacului",
+      "ids": [
+        "stomach"
+      ]
+    },
+    "arteries": {
+      "label": "Artere gastrice",
+      "icon": "🔴",
+      "description": "Ramuri care aduc sânge oxigenat stomacului",
+      "ids": [
+        "left_gastric_artery",
+        "gastroduodenal_artery",
+        "splenic_artery"
+      ]
+    },
+    "veins": {
+      "label": "Vene gastrice",
+      "icon": "🔵",
+      "description": "Drenajul venos al stomacului, afluenți ai venei porte",
+      "ids": [
+        "left_gastro_omental_vein",
+        "right_gastro_omental_vein",
+        "splenic_vein"
+      ]
+    }
+  }
+}

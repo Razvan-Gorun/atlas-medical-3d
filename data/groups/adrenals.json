@@ -1,0 +1,24 @@
+{
+  "name": "Glandele suprarenale",
+  "icon": "🟠",
+  "layers": {
+    "parenchyma": {
+      "label": "Parenchimul suprarenalian",
+      "icon": "🟠",
+      "description": "Glandele suprarenale dreaptă și stângă",
+      "ids": [
+        "suprarenal_glandl",
+        "suprarenal_glandr"
+      ]
+    },
+    "suprarenal_arteries": {
+      "label": "Artere suprarenale",
+      "icon": "🔴",
+      "description": "Ramuri care vascularizează glandele suprarenale",
+      "ids": [
+        "inferior_suprarenal_arteryl",
+        "inferior_suprarenal_arteryr"
+      ]
+    }
+  }
+}

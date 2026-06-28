@@ -1,0 +1,31 @@
+{
+  "name": "Vezica urinară",
+  "icon": "🟦",
+  "layers": {
+    "bladder_wall": {
+      "label": "Peretele vezical",
+      "icon": "🟦",
+      "description": "Corpul și fundul vezicii urinare",
+      "ids": [
+        "urinary_bladder"
+      ]
+    },
+    "ureters": {
+      "label": "Ureterele",
+      "icon": "〰️",
+      "description": "Conductele care transportă urina de la rinichi la vezică",
+      "ids": [
+        "ureterl",
+        "ureterr"
+      ]
+    },
+    "urethra": {
+      "label": "Uretra",
+      "icon": "🔽",
+      "description": "Canalul de evacuare a urinei",
+      "ids": [
+        "urethra"
+      ]
+    }
+  }
+}

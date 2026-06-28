@@ -1,0 +1,152 @@
+{
+  "name": "Palma și degetele",
+  "icon": "✋",
+  "layers": {
+    "bones": {
+      "label": "Oasele mâinii",
+      "icon": "🦴",
+      "description": "Carpiene, metacarpiene și falange",
+      "ids": [
+        "capitate_bone", "capitate_bone_1",
+        "hamate_bone", "hamate_bone_1",
+        "lunate_bone", "lunate_bone_1",
+        "pisiform_bone", "pisiform_bone_1",
+        "scaphoid_bone", "scaphoid_bone_1",
+        "trapezium_bone", "trapezium_bone_1",
+        "trapezoid_bone", "trapezoid_bone_1",
+        "triquetrum_bone", "triquetrum_bone_1",
+        "first_metacarpal_bone", "first_metacarpal_bone_1",
+        "second_metacarpal_bone", "second_metacarpal_bone_1",
+        "third_metacarpal_bone", "third_metacarpal_bone_1",
+        "fourth_metacarpal_bone", "fourth_metacarpal_bone_1",
+        "fifth_metacarpal_bone", "fifth_metacarpal_bone_1",
+        "proximal_phalanx_of_first_finger_of_hand", "proximal_phalanx_of_first_finger_of_hand_1",
+        "proximal_phalanx_of_second_finger_of_hand", "proximal_phalanx_of_second_finger_of_hand_1",
+        "proximal_phalanx_of_third_finger_of_hand", "proximal_phalanx_of_third_finger_of_hand_1",
+        "proximal_phalanx_of_fourth_finger_of_hand", "proximal_phalanx_of_fourth_finger_of_hand_1",
+        "proximal_phalanx_of_fifth_finger_of_hand", "proximal_phalanx_of_fifth_finger_of_hand_1",
+        "middle_phalanx_of_second_finger_of_hand", "middle_phalanx_of_second_finger_of_hand_1",
+        "middle_phalanx_of_third_finger_of_hand", "middle_phalanx_of_third_finger_of_hand_1",
+        "middle_phalanx_of_fourth_finger_of_hand", "middle_phalanx_of_fourth_finger_of_hand_1",
+        "middle_phalanx_of_fifth_finger_of_hand", "middle_phalanx_of_fifth_finger_of_hand_1",
+        "distal_phalanx_of_first_finger_of_hand", "distal_phalanx_of_first_finger_of_hand_1",
+        "distal_phalanx_of_second_finger_of_hand", "distal_phalanx_of_second_finger_of_hand_1",
+        "distal_phalanx_of_third_finger_of_hand", "distal_phalanx_of_third_finger_of_hand_1",
+        "distal_phalanx_of_fourth_finger_of_hand", "distal_phalanx_of_fourth_finger_of_hand_1",
+        "distal_phalanx_of_fifth_finger_of_handr_1", "distal_phalanx_of_fifth_finger_of_handr_2"
+      ]
+    },
+    "joints": {
+      "label": "Articulațiile mâinii",
+      "icon": "🦴",
+      "description": "Articulațiile carpometacarpiene, metacarpofalangiene și interfalangiene",
+      "ids": [
+        "dorsal_carpometacarpal_ligamentsl", "dorsal_carpometacarpal_ligamentsr",
+        "palmar_carpometacarpal_ligamentsl", "palmar_carpometacarpal_ligamentsr",
+        "dorsal_intercarpal_ligamentsl", "dorsal_intercarpal_ligamentsr",
+        "dorsal_scaphotriquetral_ligamentl", "dorsal_scaphotriquetral_ligamentr",
+        "dorsal_ulnocarpal_ligamentl", "dorsal_ulnocarpal_ligamentr",
+        "palmar_capitohamate_ligamentl", "palmar_capitohamate_ligamentr",
+        "palmar_lunotriquetral_ligamentl", "palmar_lunotriquetral_ligamentr",
+        "palmar_scaphotriquetral_ligamentl", "palmar_scaphotriquetral_ligamentr",
+        "palmar_trapezoideocapitate_ligamentl", "palmar_trapezoideocapitate_ligamentr",
+        "pisohamate_ligamentl", "pisohamate_ligamentr",
+        "pisometacarpal_ligamentl", "pisometacarpal_ligamentr",
+        "pisotriquetral_ligamentl", "pisotriquetral_ligamentr",
+        "radiate_carpal_ligamentl", "radiate_carpal_ligamentr",
+        "scaphocapitate_ligamentl", "scaphocapitate_ligamentr",
+        "scaphotrapeziotrapezoidal_ligamentl", "scaphotrapeziotrapezoidal_ligamentr",
+        "triquetrocapitate_ligamentl", "triquetrocapitate_ligamentr",
+        "triquetrohamate_ligamentl", "triquetrohamate_ligamentr",
+        "ulnocapitate_ligamentl", "ulnocapitate_ligamentr",
+        "ulnolunate_ligamentl", "ulnolunate_ligamentr",
+        "ulnopisiform_ligament", "ulnopisiform_ligamentl",
+        "ulnotriquetral_ligamentl", "ulnotriquetral_ligamentr",
+        "radioscaphocapitate_ligamentl", "radioscaphocapitate_ligamentr",
+        "radiocapitate_ligamentl", "radiocapitate_ligamentr",
+        "articular_capsule_of_radiocarpal_jointl", "articular_capsule_of_radiocarpal_jointr",
+        "dorsal_radiocarpal_ligamentl", "dorsal_radiocarpal_ligamentr",
+        "radial_collateral_ligament_of_wrist_jointl", "radial_collateral_ligament_of_wrist_jointr",
+        "ulnar_collateral_ligament_of_wrist_jointl", "ulnar_collateral_ligament_of_wrist_jointr",
+        "dorsal_metacarpal_ligamentsl", "dorsal_metacarpal_ligamentsr",
+        "palmar_metacarpal_ligamentsl", "palmar_metacarpal_ligamentsr",
+        "interosseous_metacarpal_ligamentsl", "interosseous_metacarpal_ligamentsr",
+        "articular_capsules_of_metacarpophalangeal_jointsl", "articular_capsules_of_metacarpophalangeal_jointsr",
+        "collateral_metacarpophalangeal_ligamentsl", "collateral_metacarpophalangeal_ligamentsr",
+        "deep_transverse_metacarpal_ligamentl", "deep_transverse_metacarpal_ligamentr",
+        "articular_capsules_of_distal_interphalangeal_jointsl", "articular_capsules_of_distal_interphalangeal_jointsr",
+        "articular_capsules_of_proximal_interphalangeal_jointsl", "articular_capsules_of_proximal_interphalangeal_jointsr",
+        "collateral_interphalangeal_ligaments_of_handl", "collateral_interphalangeal_ligaments_of_handr",
+        "palmar_interphalangeal_ligamentsl", "palmar_interphalangeal_ligamentsr"
+      ]
+    },
+    "muscles": {
+      "label": "Mușchii intrinseci ai mâinii",
+      "icon": "💪",
+      "description": "Tenari, hipotenari, interosoși, lombricali",
+      "ids": [
+        "abductor_pollicis_brevis", "abductor_pollicis_brevis_1",
+        "flexor_pollicis_brevis", "flexor_pollicis_brevis_1",
+        "opponens_pollicis_muscle", "opponens_pollicis_muscle_1",
+        "adductor_pollicisel", "adductor_polliciser",
+        "abductor_digiti_minimi_of_hand", "abductor_digiti_minimi_of_hand_1",
+        "flexor_digiti_minimi_of_hand", "flexor_digiti_minimi_of_hand_1",
+        "opponens_digiti_minimi_muscle_of_hand", "opponens_digiti_minimi_muscle_of_hand_1",
+        "lumbrical_muscles_of_hand", "lumbrical_muscles_of_hand_1",
+        "dorsal_interossei_muscles_of_hand", "dorsal_interossei_muscles_of_hand_1",
+        "palmar_interossei_musclesl", "palmar_interossei_musclesr",
+        "palmar_aponeurosisl", "palmar_aponeurosisr",
+        "dorsal_fascia_of_handl", "dorsal_fascia_of_handr"
+      ]
+    },
+    "arteries": {
+      "label": "Arterele mâinii",
+      "icon": "🔴",
+      "description": "Arcadele palmare și arterele digitale",
+      "ids": [
+        "superficial_palmar_archl", "superficial_palmar_archr",
+        "deep_palmar_archl", "deep_palmar_archr",
+        "common_palmar_digital_arteriesl", "common_palmar_digital_arteriesr",
+        "proper_palmar_digital_arteriesl", "proper_palmar_digital_arteriesr",
+        "dorsal_metacarpal_arteriesl", "dorsal_metacarpal_arteriesr",
+        "dorsal_digital_arteries_of_handl", "dorsal_digital_arteries_of_handr"
+      ]
+    },
+    "veins": {
+      "label": "Venele mâinii",
+      "icon": "🔵",
+      "description": "Arcadele venoase palmare și venele digitale",
+      "ids": [
+        "deep_venous_palmar_archl", "deep_venous_palmar_archr",
+        "superficial_venous_palmar_archl", "superficial_venous_palmar_archr",
+        "palmar_digital_veinsl", "palmar_digital_veinsr",
+        "dorsal_digital_veins_of_handl", "dorsal_digital_veins_of_handr"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii mâinii",
+      "icon": "🧠",
+      "description": "Ramurile terminale ale nervilor median, ulnar și radial",
+      "ids": [
+        "common_palmar_digital_branches_of_median_nervel", "common_palmar_digital_branches_of_median_nerver",
+        "common_palmar_digital_branches_of_ulnar_nervel", "common_palmar_digital_branches_of_ulnar_nerver",
+        "proper_palmar_digital_branches_of_median_nervel", "proper_palmar_digital_branches_of_median_nerver",
+        "proper_palmar_digital_branches_of_ulnar_nervel", "proper_palmar_digital_branches_of_ulnar_nerver",
+        "dorsal_digital_branches_of_radial_nervel", "dorsal_digital_branches_of_radial_nerver",
+        "dorsal_digital_branches_of_ulnar_nervel", "dorsal_digital_branches_of_ulnar_nerver"
+      ]
+    },
+    "skin": {
+      "label": "Pielea palmei și degetelor",
+      "icon": "🧴",
+      "description": "Regiunile cutanate ale mâinii",
+      "ids": [
+        "palml", "palmr",
+        "palm", "palm_1", "palm_2",
+        "dorsum_of_handl", "dorsum_of_handr",
+        "dorsal_surfaces_of_digits_of_handl", "dorsal_surfaces_of_digits_of_handr",
+        "palmar_surfaces_of_digits_of_handl", "palmar_surfaces_of_digits_of_handr"
+      ]
+    }
+  }
+}

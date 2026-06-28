@@ -1,0 +1,165 @@
+{
+  "name": "Talpa și degetele",
+  "icon": "🦶",
+  "layers": {
+    "bones": {
+      "label": "Oasele piciorului",
+      "icon": "🦴",
+      "description": "Tarsiene, metatarsiene și falange",
+      "ids": [
+        "calcaneusr_1", "calcaneusr_2",
+        "talusr_1", "talusr_2",
+        "cuboid_bone", "cuboid_bone_1",
+        "navicular_bone", "navicular_bone_1",
+        "medial_cuneiform_boner_1", "medial_cuneiform_boner_2",
+        "intermediate_cuneiform_boner_1", "intermediate_cuneiform_boner_2",
+        "lateral_cuneiform_boner_1", "lateral_cuneiform_boner_2",
+        "first_metatarsal_bone", "first_metatarsal_bone_1",
+        "second_metatarsal_bone", "second_metatarsal_bone_1",
+        "third_metatarsal_bone", "third_metatarsal_bone_1",
+        "fourth_metatarsal_bone", "fourth_metatarsal_bone_1",
+        "fifth_metatarsal_bone", "fifth_metatarsal_bone_1",
+        "sesamoid_bones_of_foot", "sesamoid_bones_of_foot_1",
+        "proximal_phalanx_of_first_finger_of_foot", "proximal_phalanx_of_first_finger_of_foot_1",
+        "proximal_phalanx_of_second_finger_of_foot", "proximal_phalanx_of_second_finger_of_foot_1",
+        "proximal_phalanx_of_third_finger_of_foot", "proximal_phalanx_of_third_finger_of_foot_1",
+        "proximal_phalanx_of_fourth_finger_of_foot", "proximal_phalanx_of_fourth_finger_of_foot_1",
+        "proximal_phalanx_of_fifth_finger_of_foot", "proximal_phalanx_of_fifth_finger_of_foot_1",
+        "middle_phalanx_of_second_finger_of_foot", "middle_phalanx_of_second_finger_of_foot_1",
+        "middle_phalanx_of_third_finger_of_foot", "middle_phalanx_of_third_finger_of_foot_1",
+        "middle_phalanx_of_fourth_finger_of_foot", "middle_phalanx_of_fourth_finger_of_foot_1",
+        "middle_phalanx_of_fifth_finger_of_foot", "middle_phalanx_of_fifth_finger_of_foot_1",
+        "distal_phalanx_of_first_finger_of_foot", "distal_phalanx_of_first_finger_of_foot_1",
+        "distal_phalanx_of_second_finger_of_foot", "distal_phalanx_of_second_finger_of_foot_1",
+        "distal_phalanx_of_third_finger_of_foot", "distal_phalanx_of_third_finger_of_foot_1",
+        "distal_phalanx_of_fourth_finger_of_foot", "distal_phalanx_of_fourth_finger_of_foot_1",
+        "distal_phalanx_of_fifth_finger_of_foot", "distal_phalanx_of_fifth_finger_of_foot_1"
+      ]
+    },
+    "joints": {
+      "label": "Articulațiile piciorului",
+      "icon": "🦴",
+      "description": "Articulațiile subtalară, Chopart, Lisfranc, metatarsofalangiene și interfalangiene",
+      "ids": [
+        "anterior_talocalcaneal_ligamentl", "anterior_talocalcaneal_ligamentr",
+        "calcaneocuboid_ligamentl", "calcaneocuboid_ligamentr",
+        "calcaneonavicular_ligamentl", "calcaneonavicular_ligamentr",
+        "dorsal_calcaneocuboid_ligamentl", "dorsal_calcaneocuboid_ligamentr",
+        "dorsal_cuboideonavicular_ligamentl", "dorsal_cuboideonavicular_ligamentr",
+        "dorsal_cuneocuboid_ligamentl", "dorsal_cuneocuboid_ligamentr",
+        "dorsal_cuneonavicular_ligamentsl", "dorsal_cuneonavicular_ligamentsr",
+        "dorsal_intercuneiform_ligamentsl", "dorsal_intercuneiform_ligamentsr",
+        "lateral_talocalcaneal_ligamentl", "lateral_talocalcaneal_ligamentr",
+        "medial_talocalcaneal_ligamentl", "medial_talocalcaneal_ligamentr",
+        "posterior_talocalcaneal_ligamentl", "posterior_talocalcaneal_ligamentr",
+        "talonavicular_ligamentl", "talonavicular_ligamentr",
+        "dorsal_tarsometatarsal_ligamentsl", "dorsal_tarsometatarsal_ligamentsr",
+        "plantar_tarsometatarsal_ligamentsl", "plantar_tarsometatarsal_ligamentsr",
+        "cuneometatarsal_interosseous_ligamentsl", "cuneometatarsal_interosseous_ligamentsr",
+        "articular_capsules_of_metatarsophalangeal_jointsl", "articular_capsules_of_metatarsophalangeal_jointsr",
+        "collateral_metatarsophalangeal_ligamentsl", "collateral_metatarsophalangeal_ligamentsr",
+        "deep_transverse_metatarsal_ligamentl", "deep_transverse_metatarsal_ligamentr",
+        "articular_capsules_of_distal_interphalangeal_joints_of_footl", "articular_capsules_of_distal_interphalangeal_joints_of_footr",
+        "articular_capsules_of_proximal_interphalangeal_joints_of_footl", "articular_capsules_of_proximal_interphalangeal_joints_of_footr",
+        "collateral_interphalangeal_ligaments_of_footl", "collateral_interphalangeal_ligaments_of_footr",
+        "plantar_interphalangeal_ligamentsl", "plantar_interphalangeal_ligamentsr",
+        "articular_capsule_of_interphalangeal_joint_of_great_toel", "articular_capsule_of_interphalangeal_joint_of_great_toer",
+        "intersesamoid_ligamentl", "intersesamoid_ligamentr",
+        "long_plantar_ligamentl", "long_plantar_ligamentr",
+        "plantar_calcaneocuboid_ligamentl", "plantar_calcaneocuboid_ligamentr",
+        "plantar_calcaneonavicular_ligamentl", "plantar_calcaneonavicular_ligamentr",
+        "plantar_cuboideonavicular_ligamentl", "plantar_cuboideonavicular_ligamentr",
+        "plantar_cuneocuboid_ligamentl", "plantar_cuneocuboid_ligamentr",
+        "plantar_cuneonavicular_ligamentsl", "plantar_cuneonavicular_ligamentsr",
+        "plantar_intercuneiform_ligamentsl", "plantar_intercuneiform_ligamentsr",
+        "cuneocuboid_interosseous_ligamentl", "cuneocuboid_interosseous_ligamentr",
+        "intercuneiform_interosseous_ligamentsl", "intercuneiform_interosseous_ligamentsr",
+        "talocalcaneal_interosseous_ligamentl", "talocalcaneal_interosseous_ligamentr",
+        "metatarsal_interosseous_ligamentsl", "metatarsal_interosseous_ligamentsr",
+        "dorsal_metatarsal_ligamentsl", "dorsal_metatarsal_ligamentsr",
+        "plantar_metatarsal_ligamentsl", "plantar_metatarsal_ligamentsr",
+        "plantar_metatarsophalangeal_ligamentsl", "plantar_metatarsophalangeal_ligamentsr",
+        "superficial_transverse_metatarsal_ligamentl", "superficial_transverse_metatarsal_ligamentr"
+      ]
+    },
+    "muscles": {
+      "label": "Mușchii intrinseci ai piciorului",
+      "icon": "💪",
+      "description": "Mușchii plantari și dorsali",
+      "ids": [
+        "extensor_digitorum_brevis", "extensor_digitorum_brevis_1",
+        "extensor_hallucis_brevis", "extensor_hallucis_brevis_1",
+        "abductor_hallucis", "abductor_hallucis_1",
+        "flexor_hallucis_brevis", "flexor_hallucis_brevis_1",
+        "adductor_hallucis", "adductor_hallucis_1",
+        "abductor_digiti_minimi_of_footl", "abductor_digiti_minimi_of_footr",
+        "flexor_digiti_minimi_of_footl", "flexor_digiti_minimi_of_footr",
+        "opponens_digiti_minimi_muscle_of_foot_l", "opponens_digiti_minimi_muscle_of_foot_r",
+        "flexor_digitorum_brevis", "flexor_digitorum_brevis_1",
+        "quadratus_plantae_musclel", "quadratus_plantae_muscler",
+        "lumbrical_muscles_of_footl", "lumbrical_muscles_of_footr",
+        "dorsal_interossei_muscles_of_footl", "dorsal_interossei_muscles_of_footr",
+        "plantar_interossei_musclesl", "plantar_interossei_musclesr",
+        "plantar_aponeurosisl", "plantar_aponeurosisr"
+      ]
+    },
+    "arteries": {
+      "label": "Arterele plantare și dorsale",
+      "icon": "🔴",
+      "description": "Artera plantară medială, laterală, arcada plantară, arterele digitale",
+      "ids": [
+        "lateral_plantar_arteryl", "lateral_plantar_arteryr",
+        "medial_plantar_arteryl", "medial_plantar_arteryr",
+        "plantar_archl", "plantar_archr",
+        "plantar_metatarsal_arteriesl", "plantar_metatarsal_arteriesr",
+        "common_plantar_digital_arteriesl", "common_plantar_digital_arteriesr",
+        "proper_plantar_digital_arteriesl", "proper_plantar_digital_arteriesr",
+        "dorsalis_pedis_arteryl", "dorsalis_pedis_arteryr",
+        "dorsal_metatarsal_arteriesl", "dorsal_metatarsal_arteriesr",
+        "dorsal_digital_arteries_of_footl", "dorsal_digital_arteries_of_footr"
+      ]
+    },
+    "veins": {
+      "label": "Venele piciorului",
+      "icon": "🔵",
+      "description": "Arcadele venoase plantare și dorsale, venele digitale",
+      "ids": [
+        "plantar_venous_archl", "plantar_venous_archr",
+        "plantar_metatarsal_veinsl", "plantar_metatarsal_veinsr",
+        "plantar_digital_veinsl", "plantar_digital_veinsr",
+        "dorsal_venous_arch_of_footl", "dorsal_venous_arch_of_footr",
+        "dorsal_metatarsal_veinsl", "dorsal_metatarsal_veinsr",
+        "dorsal_digital_veins_of_footl", "dorsal_digital_veins_of_footr"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii piciorului",
+      "icon": "🧠",
+      "description": "Ramurile plantare și dorsale",
+      "ids": [
+        "medial_plantar_nervel", "medial_plantar_nerver",
+        "lateral_plantar_nervel", "lateral_plantar_nerver",
+        "common_plantar_digital_branches_of_lateral_plantar_nervel", "common_plantar_digital_branches_of_lateral_plantar_nerver",
+        "common_plantar_digital_branches_of_medial_plantar_nervel", "common_plantar_digital_branches_of_medial_plantar_nerver",
+        "proper_plantar_digital_branches_of_lateral_plantar_nervel", "proper_plantar_digital_branches_of_lateral_plantar_nerver",
+        "proper_plantar_digital_branches_of_medial_plantar_nervel", "proper_plantar_digital_branches_of_medial_plantar_nerver",
+        "deep_fibular_nervel", "deep_fibular_nerver",
+        "superficial_fibular_nervel", "superficial_fibular_nerver",
+        "dorsal_digital_branches_of_deep_fibular_nervel", "dorsal_digital_branches_of_deep_fibular_nerver",
+        "dorsal_digital_branches_of_superficial_fibular_nervel", "dorsal_digital_branches_of_superficial_fibular_nerver"
+      ]
+    },
+    "skin": {
+      "label": "Pielea tălpii și degetelor",
+      "icon": "🧴",
+      "description": "Regiunile cutanate plantare și dorsale",
+      "ids": [
+        "solel", "soler",
+        "dorsum_of_footl", "dorsum_of_footr",
+        "plantar_surfaces_of_digits_of_footl", "plantar_surfaces_of_digits_of_footr",
+        "dorsal_surfaces_of_digits_of_footl", "dorsal_surfaces_of_digits_of_footr",
+        "heel_regionl", "heel_regionr"
+      ]
+    }
+  }
+}

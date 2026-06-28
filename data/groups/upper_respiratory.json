@@ -1,0 +1,173 @@
+{
+  "name": "Nas și Căile Aeriene Superioare",
+  "icon": "👃",
+  "layers": {
+    "bone": {
+      "label": "Osos",
+      "icon": "🦴",
+      "description": "Oasele și sinusurile paranazale",
+      "ids": [
+        "nasal_bone",
+        "nasal_bone_1",
+        "nasal_bone_2",
+        "nasal_bone_3",
+        "inferior_nasal_concha_bonel",
+        "inferior_nasal_concha_boner",
+        "lacrimal_bone",
+        "lacrimal_bone_1",
+        "lacrimal_bone_2",
+        "lacrimal_bone_3",
+        "lacrimal_bone_4",
+        "maxilla",
+        "maxilla_1",
+        "maxilla_2",
+        "maxilla_3",
+        "maxilla_4",
+        "maxilla_5",
+        "maxilla_6",
+        "maxilla_7",
+        "palatine_bone",
+        "palatine_bone_1",
+        "palatine_bone_2",
+        "palatine_bone_3",
+        "palatine_bone_4",
+        "vomer",
+        "frontal_bone_1",
+        "frontal_bone_2",
+        "frontal_bone_3",
+        "frontal_bone_4",
+        "frontal_bone_5",
+        "frontal_bone_6",
+        "frontal_bone_7",
+        "ethmoid_bone",
+        "sphenoid_bonel",
+        "sphenoid_bonel_1",
+        "sphenoid_bonel_2",
+        "sphenoid_bonel_3",
+        "sphenoid_bonel_4",
+        "sphenoid_bonel_5",
+        "sphenoid_bonel_6",
+        "sinus_of_frontal_bone",
+        "sinus_of_sphenoid_bone",
+        "anterior_cells_of_ethmoid_bonel",
+        "anterior_cells_of_ethmoid_boner",
+        "middle_cells_of_ethmoid_bonel",
+        "middle_cells_of_ethmoid_boner",
+        "posterior_cells_of_ethmoid_bonel",
+        "posterior_cells_of_ethmoid_boner"
+      ]
+    },
+    "cartilage": {
+      "label": "Cartilaje nazale",
+      "icon": "🫧",
+      "description": "Septul, cartilajele laterale și alare",
+      "ids": [
+        "nasal_septal_cartilage",
+        "lateral_process_of_nasal_septal_cartilagel",
+        "lateral_process_of_nasal_septal_cartilager",
+        "major_alar_cartilagel",
+        "major_alar_cartilager"
+      ]
+    },
+    "mucosa_and_organs": {
+      "label": "Mucoasă și organe conexe",
+      "icon": "👃",
+      "description": "Faringe, amigdale, palatul moale, sistemul lacrimal",
+      "ids": [
+        "nasopharynx",
+        "auditory_tubel",
+        "auditory_tuber",
+        "palatine_tonsill",
+        "palatine_tonsilr",
+        "soft_palate",
+        "uvula_of_palate",
+        "lacrimal_sacl",
+        "lacrimal_sacr",
+        "nasolacrimal_ductl",
+        "nasolacrimal_ductr"
+      ]
+    },
+    "muscles": {
+      "label": "Mușchii nazali și faciali",
+      "icon": "💪",
+      "description": "Mușchii care mișcă nasul și buza superioară",
+      "ids": [
+        "nasalis_muscle",
+        "nasalis_muscle_1",
+        "nasalis_muscleol",
+        "nasalis_muscleor",
+        "procerus_muscle",
+        "procerus_muscle_1",
+        "procerus_muscleol",
+        "procerus_muscleor",
+        "levator_labii_superiorisl",
+        "levator_labii_superiorisr",
+        "depressor_septi_nasil",
+        "depressor_septi_nasir"
+      ]
+    },
+    "nerves": {
+      "label": "Nervi",
+      "icon": "🧠",
+      "description": "Nervii olfactiv, oftalmic, maxilar și trigemen",
+      "ids": [
+        "olfactory_nerve_i_l",
+        "olfactory_nerve_i_r",
+        "ophthalmic_nervel",
+        "ophthalmic_nerver",
+        "maxillary_nervel",
+        "maxillary_nerver",
+        "trigeminal_nerve_v_l",
+        "trigeminal_nerve_v_r"
+      ]
+    },
+    "arteries": {
+      "label": "Artere",
+      "icon": "🩸",
+      "description": "Ramurile arteriale pentru mucoasa nazală",
+      "ids": [
+        "anterior_ethmoidal_arteryl",
+        "anterior_ethmoidal_arteryr",
+        "posterior_ethmoidal_arteryl",
+        "posterior_ethmoidal_arteryr",
+        "septal_branches_of_posterior_ethmoidal_arteryl",
+        "septal_branches_of_posterior_ethmoidal_arteryr",
+        "anterior_septal_branches_of_anterior_ethmoidal_arteryl",
+        "anterior_septal_branches_of_anterior_ethmoidal_arteryr",
+        "posterior_septal_branches_of_sphenopalatine_arteryl",
+        "posterior_septal_branches_of_sphenopalatine_arteryr",
+        "posterior_lateral_nasal_branches_of_sphenopalatine_arteryl",
+        "posterior_lateral_nasal_branches_of_sphenopalatine_arteryr",
+        "angular_arteryl",
+        "angular_arteryr",
+        "ophthalmic_arteryl",
+        "ophthalmic_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Vene",
+      "icon": "🔵",
+      "description": "Drenajul venos al nasului și feței",
+      "ids": [
+        "angular_veinl",
+        "angular_veinr",
+        "facial_veinl",
+        "facial_veinr"
+      ]
+    },
+    "integumentary": {
+      "label": "Pielea nasului",
+      "icon": "🧴",
+      "description": "Stratul cutanat care acoperă nasul",
+      "ids": [
+        "ala_of_noset",
+        "apex_of_noset",
+        "apex_of_nosej",
+        "root_of_noset",
+        "root_of_nosej",
+        "nasal_region",
+        "nasal_region_1"
+      ]
+    }
+  }
+}

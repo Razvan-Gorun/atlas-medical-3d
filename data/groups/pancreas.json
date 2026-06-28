@@ -1,0 +1,47 @@
+{
+  "name": "Pancreasul",
+  "icon": "🟠",
+  "layers": {
+    "parenchyma": {
+      "label": "Parenchim pancreatic",
+      "icon": "🟠",
+      "description": "Țesutul pancreatic – cap, gât, corp, coadă, proces uncinat",
+      "ids": [
+        "pancreas",
+        "pancreast",
+        "head_of_pancreast",
+        "body_of_pancreast",
+        "tail_of_pancreast",
+        "neck_of_pancreas",
+        "uncinate_process_of_pancreast"
+      ]
+    },
+    "ducts": {
+      "label": "Sistem ductal",
+      "icon": "🟢",
+      "description": "Ductul pancreatic principal (Wirsung) și accesor (Santorini)",
+      "ids": [
+        "accessory_pancreatic_duct"
+      ]
+    },
+    "arteries": {
+      "label": "Artere pancreaticoduodenale",
+      "icon": "🔴",
+      "description": "Arcadele arteriale care vascularizează capul pancreasului și duodenul",
+      "ids": [
+        "anterior_inferior_pancreaticoduodenal_artery",
+        "inferior_pancreaticoduodenal_artery",
+        "splenic_artery"
+      ]
+    },
+    "veins": {
+      "label": "Vene pancreaticoduodenale",
+      "icon": "🔵",
+      "description": "Drenajul venos al pancreasului, afluenți ai venei porte",
+      "ids": [
+        "splenic_vein",
+        "superior_mesenteric_vein"
+      ]
+    }
+  }
+}

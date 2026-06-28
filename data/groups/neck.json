@@ -1,0 +1,165 @@
+{
+  "name": "Gâtul",
+  "icon": "🧣",
+  "layers": {
+    "cervical_vertebrae": {
+      "label": "Vertebrele cervicale",
+      "icon": "🦴",
+      "description": "Atlas, Axis și vertebrele C3–C7",
+      "ids": [
+        "atlas_c1_1", "atlas_c1_2",
+        "axis_c2_1", "axis_c2_2",
+        "vertebra_c3_1", "vertebra_c3_2",
+        "vertebra_c4_1", "vertebra_c4_2",
+        "vertebra_c5_1", "vertebra_c5_2",
+        "vertebra_c6_1", "vertebra_c6_2",
+        "vertebra_c7"
+      ]
+    },
+    "hyoid_bone": {
+      "label": "Osul hioid",
+      "icon": "🦴",
+      "description": "Osul hioid",
+      "ids": [
+        "hyoid_bone"
+      ]
+    },
+    "neck_muscles": {
+      "label": "Mușchii gâtului",
+      "icon": "💪",
+      "description": "Sternocleidomastoidian, scaleni, mușchii paravertebrali, mușchii hioidieni, constrictorii faringelui",
+      "ids": [
+        "sternocleidomastoid_muscle", "sternocleidomastoid_muscle_1",
+        "scalenus_anterior_musclel", "scalenus_anterior_muscler",
+        "scalenus_medius_musclel", "scalenus_medius_muscler",
+        "scalenus_posterior_musclel", "scalenus_posterior_muscler",
+        "descending_part_of_trapezius_muscle", "descending_part_of_trapezius_muscle_1",
+        "levator_scapulae", "levator_scapulae_1",
+        "splenius_capitis_muscle", "splenius_capitis_muscle_1",
+        "splenius_colli_musclel", "splenius_colli_muscler",
+        "longissimus_capitis_musclel", "longissimus_capitis_muscler",
+        "longissimus_colli_musclel", "longissimus_colli_muscler",
+        "iliocostalis_colli_muscle", "iliocostalis_colli_muscler",
+        "spinalis_capitis_muscle", "spinalis_capitis_muscle_1",
+        "spinalis_colli_musclel", "spinalis_colli_muscler",
+        "semispinalis_colli_musclel", "semispinalis_colli_muscler",
+        "multifidus_colli_musclel", "multifidus_colli_muscler",
+        "interspinales_colli_musclesl", "interspinales_colli_musclesr",
+        "longus_capitis_musclel", "longus_capitis_muscler",
+        "longus_colli_musclel", "longus_colli_muscler",
+        "rectus_anterior_capitis_musclel", "rectus_anterior_capitis_muscler",
+        "rectus_lateralis_capitis_musclel", "rectus_lateralis_capitis_muscler",
+        "rectus_posterior_major_capitis_musclel", "rectus_posterior_major_capitis_muscler",
+        "rectus_posterior_minor_capitis_musclel", "rectus_posterior_minor_capitis_muscler",
+        "obliquus_inferior_capitis_musclel", "obliquus_inferior_capitis_muscler",
+        "obliquus_superior_capitis_musclel", "obliquus_superior_capitis_muscler",
+        "anterior_belly_of_digastric_musclel", "anterior_belly_of_digastric_muscler",
+        "posterior_belly_of_digastric_musclel", "posterior_belly_of_digastric_muscler",
+        "stylohyoid_musclel", "stylohyoid_muscler",
+        "mylohyoid_musclel", "mylohyoid_muscler",
+        "geniohyoid_musclel", "geniohyoid_muscler",
+        "sternohyoid_musclel", "sternohyoid_muscler",
+        "sternothyroid_musclel", "sternothyroid_muscler",
+        "thyrohyoid_musclel", "thyrohyoid_muscler",
+        "omohyoid_musclel", "omohyoid_muscler",
+        "platysma", "platysma_1",
+        "superior_pharyngeal_constrictorl", "superior_pharyngeal_constrictorr",
+        "middle_pharyngeal_constrictorl", "middle_pharyngeal_constrictorr",
+        "inferior_pharyngeal_constrictorl", "inferior_pharyngeal_constrictorr",
+        "stylopharyngeus_musclel", "stylopharyngeus_muscler",
+        "palatopharyngeus_musclel", "palatopharyngeus_muscler"
+      ]
+    },
+    "neck_viscera": {
+      "label": "Viscerele gâtului",
+      "icon": "🫁",
+      "description": "Laringe, trahee, faringe, esofag cervical, tiroidă",
+      "ids": [
+        "larynx",
+        "epiglottis",
+        "arytenoid_cartilagel", "arytenoid_cartilager",
+        "corniculate_cartilagel", "corniculate_cartilager",
+        "cricoid_cartilage",
+        "thyroid_cartilage",
+        "trachea",
+        "pharynx",
+        "esophagus",
+        "thyroid_gland",
+        "superior_parathyroid_glandl", "superior_parathyroid_glandr",
+        "inferior_parathyroid_glandl", "inferior_parathyroid_glandr"
+      ]
+    },
+    "arteries": {
+      "label": "Arterele gâtului",
+      "icon": "🔴",
+      "description": "Carotide, vertebrale, trunchiul tirocervical și ramuri",
+      "ids": [
+        "left_common_carotid_artery",
+        "right_common_carotid_artery",
+        "internal_carotid_arteryl", "internal_carotid_arteryr",
+        "external_carotid_arteryl", "external_carotid_arteryr",
+        "vertebral_arteryl", "vertebral_arteryr",
+        "thyrocervical_trunkl", "thyrocervical_trunkr",
+        "inferior_thyroid_arteryl", "inferior_thyroid_arteryr",
+        "superior_thyroid_arteryl", "superior_thyroid_arteryr",
+        "ascending_pharyngeal_arteryl", "ascending_pharyngeal_arteryr",
+        "transverse_cervical_arteryl", "transverse_cervical_arteryr",
+        "deep_cervical_arteryl", "deep_cervical_arteryr",
+        "costocervical_trunkl", "costocervical_trunkr",
+        "subclavian_arteryl", "subclavian_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Venele gâtului",
+      "icon": "🔵",
+      "description": "Jugularele internă, externă, anterioară, vene vertebrale și tiroidiene",
+      "ids": [
+        "internal_jugular_veinl", "internal_jugular_veinr",
+        "external_jugular_veinl", "external_jugular_veinr",
+        "anterior_jugular_veinl", "anterior_jugular_veinr",
+        "vertebral_veinl", "vertebral_veinr",
+        "superior_thyroid_veinl", "superior_thyroid_veinr",
+        "inferior_thyroid_veinl", "inferior_thyroid_veinr",
+        "subclavian_veinl", "subclavian_veinr"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii gâtului",
+      "icon": "🧠",
+      "description": "Vagi, frenici, plexul cervical, lanțul simpatic",
+      "ids": [
+        "vagus_nerve_x_l", "vagus_nerve_x_r",
+        "accessory_nerve_xi_l", "accessory_nerve_xi_r",
+        "hypoglossal_nerve_xii_l", "hypoglossal_nerve_xii_r",
+        "cervical_plexusl", "cervical_plexusr",
+        "phrenic_nervel", "phrenic_nerver",
+        "sympathetic_trunkl", "sympathetic_trunkr"
+      ]
+    },
+    "skin": {
+      "label": "Pielea gâtului",
+      "icon": "🧴",
+      "description": "Regiunile cutanate cervicale",
+      "ids": [
+        "anterior_region_of_neckg", "anterior_region_of_neckj",
+        "anterior_region_of_neck", "anterior_region_of_neck_1",
+        "lateral_region_of_neckl", "lateral_region_of_neckr",
+        "lateral_region_of_neckg", "lateral_region_of_neckj",
+        "lateral_region_of_neck", "lateral_region_of_neck_1", "lateral_region_of_neck_2",
+        "posterior_region_of_neckl", "posterior_region_of_neckr",
+        "posterior_region_of_neck", "posterior_region_of_neck_1", "posterior_region_of_neck_2", "posterior_region_of_neck_3",
+        "sternocleidomastoid_regionl", "sternocleidomastoid_regionr",
+        "sternocleidomastoid_regiong", "sternocleidomastoid_regionj",
+        "sternocleidomastoid_region", "sternocleidomastoid_region_1", "sternocleidomastoid_region_2",
+        "suprahyoid_regiong", "suprahyoid_regionj",
+        "infrahyoid_regiong", "infrahyoid_regionj",
+        "carotid_trianglel", "carotid_triangler",
+        "muscular_trianglel", "muscular_triangler",
+        "submandibular_trianglel", "submandibular_triangler",
+        "submental_trianglel", "submental_triangler",
+        "greater_supraclavicular_fossal", "greater_supraclavicular_fossar",
+        "lesser_supraclavicular_fossal", "lesser_supraclavicular_fossar"
+      ]
+    }
+  }
+}

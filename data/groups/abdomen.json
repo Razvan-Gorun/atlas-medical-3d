@@ -1,0 +1,127 @@
+{
+  "name": "Abdomenul",
+  "icon": "🩺",
+  "layers": {
+    "abdominal_wall": {
+      "label": "Peretele abdominal",
+      "icon": "🦴",
+      "description": "Mușchii drepți abdominali, oblici, transvers, fascii, ligamente și linia albă",
+      "ids": [
+        "rectus_abdominis_muscle", "rectus_abdominis_muscle_1",
+        "external_abdominal_oblique_musclel", "external_abdominal_oblique_muscler",
+        "internal_abdominal_oblique_musclel", "internal_abdominal_oblique_muscler",
+        "transversus_abdominis_musclel", "transversus_abdominis_muscler",
+        "pyramidalis_musclel", "pyramidalis_muscler",
+        "iliopsoas_muscleel", "iliopsoas_muscleer",
+        "linea_alba",
+        "transversalis_fascia",
+        "investing_abdominal_fascial", "investing_abdominal_fasciar",
+        "iliopectineal_archl", "iliopectineal_archr",
+        "inguinal_ligamentl", "inguinal_ligamentr"
+      ]
+    },
+    "abdominal_viscera": {
+      "label": "Viscer abdominale",
+      "icon": "🫁",
+      "description": "Ficat, splină, stomac, pancreas, rinichi, intestine și alte organe solide",
+      "ids": [
+        "liver_1", "liver_2",
+        "spleen",
+        "stomach",
+        "pancreas",
+        "kidneyl", "kidneyr",
+        "duodenum",
+        "jejunum",
+        "ascending_colon",
+        "transverse_colon",
+        "descending_colon",
+        "sigmoid_colon",
+        "vermiform_appendix",
+        "gallbladder",
+        "bile_duct",
+        "suprarenal_glandl", "suprarenal_glandr"
+      ]
+    },
+    "abdominal_vessels": {
+      "label": "Vasele abdominale",
+      "icon": "🩸",
+      "description": "Aorta abdominală, vena cavă inferioară, trunchiul celiac, arterele mezenterice, iliace și ramurile principale",
+      "ids": [
+        "abdominal_aorta",
+        "inferior_vena_cava_abdominal_part",
+        "common_iliac_arteryl", "common_iliac_arteryr",
+        "external_iliac_arteryl", "external_iliac_arteryr",
+        "common_iliac_veinl", "common_iliac_veinr",
+        "external_iliac_veinl", "external_iliac_veinr",
+        "coeliac_trunk",
+        "superior_mesenteric_artery",
+        "inferior_mesenteric_artery",
+        "superior_mesenteric_vein",
+        "inferior_mesenteric_vein",
+        "left_renal_artery", "right_renal_artery",
+        "left_renal_vein", "right_renal_vein",
+        "hepatic_portal_vein",
+        "hepatic_veins",
+        "splenic_artery", "splenic_vein",
+        "left_gastric_artery",
+        "right_gastric_artery",
+        "left_gastro_omental_artery",
+        "right_gastro_omental_artery",
+        "left_gastro_omental_vein",
+        "right_gastro_omental_vein",
+        "common_hepatic_artery",
+        "proper_hepatic_artery",
+        "gastroduodenal_artery",
+        "inferior_pancreaticoduodenal_artery",
+        "anterior_inferior_pancreaticoduodenal_artery",
+        "middle_colic_artery",
+        "right_colic_artery",
+        "left_colic_artery",
+        "sigmoid_arteries",
+        "ascending_branch_of_left_colic_artery",
+        "descending_branch_of_left_colic_artery",
+        "ileocolic_artery",
+        "colic_branch_of_ileocolic_artery",
+        "ileal_branch_of_ileocolic_artery",
+        "appendicular_artery",
+        "superior_anorectal_artery",
+        "right_colic_vein",
+        "middle_colic_vein",
+        "sigmoid_veins",
+        "inferior_phrenic_artery"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii abdominali",
+      "icon": "🧠",
+      "description": "Nervii vagi, plexul celiac, nervii simpatici, nervii peretelui abdominal",
+      "ids": [
+        "vagus_nerve_x_l", "vagus_nerve_x_r",
+        "sympathetic_trunkl", "sympathetic_trunkr",
+        "intercostal_nervesl", "intercostal_nervesr",
+        "subcostal_nervel", "subcostal_nerver",
+        "iliohypogastric_nervel", "iliohypogastric_nerver",
+        "ilio_inguinal_nervel", "ilio_inguinal_nerver",
+        "genitofemoral_nervel", "genitofemoral_nerver",
+        "lateral_femoral_cutaneous_nervel", "lateral_femoral_cutaneous_nerver"
+      ]
+    },
+    "skin": {
+      "label": "Pielea abdomenului",
+      "icon": "🧴",
+      "description": "Regiunile cutanate abdominale",
+      "ids": [
+        "epigastric_regionl", "epigastric_regionr",
+        "hypochondriac_regionl", "hypochondriac_regionr",
+        "lateral_region_of_abdomenl", "lateral_region_of_abdomenr",
+        "lateral_region_of_abdomen", "lateral_region_of_abdomen_1",
+        "umbilical_regionl", "umbilical_regionr",
+        "hypogastric_regionl", "hypogastric_regionr",
+        "hypogastric_region", "hypogastric_region_1", "hypogastric_region_2",
+        "inguinal_regionl", "inguinal_regionr",
+        "inguinal_region", "inguinal_region_1", "inguinal_region_2", "inguinal_region_3",
+        "umbilicusl", "umbilicusr"
+      ]
+    }
+  }
+}

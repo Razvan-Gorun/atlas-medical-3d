@@ -1,0 +1,108 @@
+{
+  "name": "Cutia toracică",
+  "icon": "🩻",
+  "layers": {
+    "thoracic_bones": {
+      "label": "Oasele toracice",
+      "icon": "🦴",
+      "description": "Sternul, coastele și cartilajele costale",
+      "ids": [
+        "body_of_sternum_1", "body_of_sternum_2",
+        "manubrium_of_sternum_1", "manubrium_of_sternum_2",
+        "xiphoid_process_1", "xiphoid_process_2",
+        "first_rib", "first_rib_1",
+        "second_rib", "second_rib_1",
+        "third_rib", "third_rib_1",
+        "fourth_rib", "fourth_rib_1",
+        "fifth_rib", "fifth_rib_1",
+        "sixth_rib", "sixth_rib_1",
+        "seventh_rib", "seventh_rib_1",
+        "eighth_rib", "eighth_rib_1",
+        "ninth_rib", "ninth_rib_1",
+        "tenth_rib", "tenth_rib_1",
+        "eleventh_rib", "eleventh_rib_1",
+        "twelfth_rib", "twelfth_rib_1",
+        "costal_cartilage_of_first_ribl", "costal_cartilage_of_first_ribr",
+        "costal_cartilage_of_second_ribl", "costal_cartilage_of_second_ribr",
+        "costal_cartilage_of_third_ribl", "costal_cartilage_of_third_ribr",
+        "costal_cartilage_of_fourth_ribl", "costal_cartilage_of_fourth_ribr",
+        "costal_cartilage_of_fifth_ribl", "costal_cartilage_of_fifth_ribr",
+        "costal_cartilage_of_sixth_ribl", "costal_cartilage_of_sixth_ribr",
+        "costal_cartilage_of_seventh_ribl", "costal_cartilage_of_seventh_ribr",
+        "costal_cartilage_of_eighth_ribl", "costal_cartilage_of_eighth_ribr",
+        "costal_cartilage_of_ninth_ribl", "costal_cartilage_of_ninth_ribr",
+        "costal_cartilage_of_tenth_ribl", "costal_cartilage_of_tenth_ribr"
+      ]
+    },
+    "thoracic_joints": {
+      "label": "Articulațiile toracice",
+      "icon": "🦴",
+      "description": "Ligamentele costotransverse, radiate, intraarticulare și membranele intercostale",
+      "ids": [
+        "costotransverse_ligamentl", "costotransverse_ligamentr",
+        "radiate_ligament_of_head_of_ribl", "radiate_ligament_of_head_of_ribr",
+        "intra_articular_ligament_of_head_of_rib",
+        "intra_articular_ligament_of_head_of_ribr",
+        "external_intercostal_membranel", "external_intercostal_membraner",
+        "internal_intercostal_membranel", "internal_intercostal_membraner"
+      ]
+    },
+    "thoracic_muscles": {
+      "label": "Mușchii toracici",
+      "icon": "💪",
+      "description": "Intercostali, ridicători costali, dințați posteriori, transvers toracic, diafragma",
+      "ids": [
+        "external_intercostal_musclesl", "external_intercostal_musclesr",
+        "internal_intercostal_musclesl", "internal_intercostal_musclesr",
+        "innermost_intercostal_musclesl", "innermost_intercostal_musclesr",
+        "levatores_breves_costaruml", "levatores_breves_costarumr",
+        "levatores_longi_costaruml", "levatores_longi_costarumr",
+        "serratus_posterior_superior_muscle", "serratus_posterior_superior_muscle_1",
+        "serratus_posterior_inferior_muscle", "serratus_posterior_inferior_muscle_1",
+        "transversus_thoracis_musclel", "transversus_thoracis_muscler",
+        "diaphragm_1", "diaphragm_2"
+      ]
+    },
+    "arteries": {
+      "label": "Arterele toracice",
+      "icon": "🔴",
+      "description": "Aorta toracică, arterele intercostale, artera toracică internă",
+      "ids": [
+        "thoracic_aorta",
+        "posterior_intercostal_arteriesl", "posterior_intercostal_arteriesr",
+        "first_posterior_intercostal_arteryl", "first_posterior_intercostal_arteryr",
+        "second_posterior_intercostal_arteryl", "second_posterior_intercostal_arteryr",
+        "internal_thoracic_arteryl", "internal_thoracic_arteryr",
+        "musculophrenic_arteryl", "musculophrenic_arteryr",
+        "superior_epigastric_arteryl", "superior_epigastric_arteryr",
+        "subcostal_arteryl", "subcostal_arteryr",
+        "supreme_intercostal_arteryl", "supreme_intercostal_arteryr"
+      ]
+    },
+    "veins": {
+      "label": "Venele toracice",
+      "icon": "🔵",
+      "description": "Sistemul azygos, venele intercostale, venele toracice interne",
+      "ids": [
+        "azygos_vein",
+        "hemi_azygos_vein",
+        "accessory_hemi_azygos_vein",
+        "posterior_intercostal_veinsl", "posterior_intercostal_veinsr",
+        "internal_thoracic_veinsl", "internal_thoracic_veinsr",
+        "musculophrenic_veinsl", "musculophrenic_veinsr",
+        "superior_epigastric_veinsl", "superior_epigastric_veinsr",
+        "left_superior_intercostal_vein",
+        "right_superior_intercostal_vein"
+      ]
+    },
+    "nerves": {
+      "label": "Nervii toracici",
+      "icon": "🧠",
+      "description": "Nervii intercostali, nervii vagi",
+      "ids": [
+        "intercostal_nervesl", "intercostal_nervesr",
+        "vagus_nerve_x_l", "vagus_nerve_x_r"
+      ]
+    }
+  }
+}

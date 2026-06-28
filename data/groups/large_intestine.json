@@ -1,0 +1,65 @@
+{
+  "name": "Intestinul gros",
+  "icon": "🟫",
+  "layers": {
+    "colon_wall": {
+      "label": "Peretele colonic",
+      "icon": "🟫",
+      "description": "Colonul ascendent, transvers, descendent și sigmoid",
+      "ids": [
+        "ascending_colon",
+        "transverse_colon",
+        "descending_colon",
+        "sigmoid_colon"
+      ]
+    },
+    "appendix": {
+      "label": "Apendicele vermiform",
+      "icon": "🔸",
+      "description": "Apendicele vermiform atașat cecumului",
+      "ids": [
+        "vermiform_appendix"
+      ]
+    },
+    "rectum": {
+      "label": "Rectul",
+      "icon": "🔻",
+      "description": "Segmentul terminal al tubului digestiv",
+      "ids": [
+        "rectum"
+      ]
+    },
+    "arteries": {
+      "label": "Artere mezenterice",
+      "icon": "🔴",
+      "description": "Ramuri care vascularizează colonul, rectul și apendicele",
+      "ids": [
+        "superior_mesenteric_artery",
+        "inferior_mesenteric_artery",
+        "ileocolic_artery",
+        "right_colic_artery",
+        "middle_colic_artery",
+        "left_colic_artery",
+        "sigmoid_arteries",
+        "appendicular_artery",
+        "ascending_branch_of_left_colic_artery",
+        "descending_branch_of_left_colic_artery",
+        "colic_branch_of_ileocolic_artery",
+        "ileal_branch_of_ileocolic_artery",
+        "superior_anorectal_artery"
+      ]
+    },
+    "veins": {
+      "label": "Vene mezenterice",
+      "icon": "🔵",
+      "description": "Drenajul venos al colonului, afluenți ai venei porte",
+      "ids": [
+        "superior_mesenteric_vein",
+        "inferior_mesenteric_vein",
+        "right_colic_vein",
+        "middle_colic_vein",
+        "sigmoid_veins"
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Ficatul",
+  "icon": "🟤",
+  "layers": {
+    "parenchyma": {
+      "label": "Parenchim hepatic",
+      "icon": "🟤",
+      "description": "Lobii ficatului și diviziunile anatomice",
+      "ids": [
+        "liver_1",
+        "liver_2",
+        "right_lobe_of_livert",
+        "left_lobe_of_livert",
+        "left_part_of_livert",
+        "right_part_of_livert",
+        "posterior_part_of_livert",
+        "left_lateral_division_of_livert",
+        "right_lateral_division_of_livert",
+        "left_medial_division_of_livert",
+        "right_medial_division_of_livert",
+        "quadrate_lobet",
+        "fibrous_appendix_of_livert"
+      ]
+    },
+    "biliary_system": {
+      "label": "Căi biliare extrahepatice",
+      "icon": "🟢",
+      "description": "Vezicula biliară și ductul biliar comun",
+      "ids": [
+        "gallbladder",
+        "bile_duct"
+      ]
+    },
+    "hepatic_arteries": {
+      "label": "Artere hepatice",
+      "icon": "🔴",
+      "description": "Vascularizația arterială a ficatului",
+      "ids": [
+        "common_hepatic_artery",
+        "proper_hepatic_artery"
+      ]
+    },
+    "portal_vein": {
+      "label": "Vena portă hepatică",
+      "icon": "🔵",
+      "description": "Afluentul principal al ficatului",
+      "ids": [
+        "hepatic_portal_vein"
+      ]
+    },
+    "hepatic_veins": {
+      "label": "Venele hepatice",
+      "icon": "🔵",
+      "description": "Drenajul venos al ficatului",
+      "ids": [
+        "hepatic_veins"
+      ]
+    }
+  }
+}

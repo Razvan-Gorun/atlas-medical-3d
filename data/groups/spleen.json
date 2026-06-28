@@ -1,0 +1,23 @@
+{
+  "name": "Splina",
+  "icon": "🔴",
+  "layers": {
+    "parenchyma": {
+      "label": "Parenchim splenic",
+      "icon": "🔴",
+      "description": "Țesutul splinei",
+      "ids": [
+        "spleen"
+      ]
+    },
+    "splenic_vessels": {
+      "label": "Vase splenice",
+      "icon": "🩸",
+      "description": "Artera și vena splenică",
+      "ids": [
+        "splenic_artery",
+        "splenic_vein"
+      ]
+    }
+  }
+}

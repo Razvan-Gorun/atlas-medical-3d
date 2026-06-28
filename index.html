@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Atlas Medical 3D</title>
+  
+  <!-- NOU: Pentru PWA (aplicație instalabilă) -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="logo">
+      <span class="logo-icon">⬡</span>
+      <span class="logo-text">Atlas<em>3D</em></span>
+    </div>
+    <div class="header-info">
+      <span id="loadingStatus">⏳ Se încarcă modelul...</span>
+    </div>
+    <div class="system-filters" id="systemFilters"></div>
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/></svg>
+      <input id="searchInput" type="text" placeholder="Caută structuri anatomice…" autocomplete="off" />
+      <div id="searchResults" class="search-dropdown hidden"></div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="toolbar">
+      <button class="tool-btn" id="toggleRotate" title="Rotire automată">
+        <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 1 0 10 10"/><polyline points="16 2 22 2 22 8"/></svg>
+      </button>
+      <button class="tool-btn" id="toggleTransparency" title="Transparență">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 2v20M2 12h20" stroke-dasharray="3 2"/></svg>
+      </button>
+      <button class="tool-btn" id="toggleLabels" title="Etichete">
+        <svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="10" rx="2"/><line x1="7" y1="12" x2="17" y2="12"/></svg>
+      </button>
+      <div class="tool-divider"></div>
+      <button class="tool-btn" id="resetView" title="Reset vizualizare">
+        <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+      </button>
+      <button class="tool-btn" onclick="window.resetHidden?.()" title="Arată toate structurile ascunse">
+        <svg viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.7 7.6 1 12c1.7 4.4 6 7.5 11 7.5s9.3-3.1 11-7.5c-1.7-4.4-6-7.5-11-7.5z"/><circle cx="12" cy="12" r="3"/></svg>
+      </button>
+
+      <!-- BUTON TESTEAZĂ -->
+      <button class="tool-btn" id="toggleQuiz" title="Testează cunoștințele">
+        <svg viewBox="0 0 24 24"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
+      </button>
+
+      <div class="group-dropdown-container" id="groupDropdownContainer">
+        <div id="groupPanel" class="group-dropdown-panel hidden">
+          <div class="group-dropdown-header"><span id="groupTitle">Sistem</span></div>
+          <div id="groupLayers" class="group-dropdown-layers"></div>
+          <button id="groupReset" class="group-dropdown-reset">Ieși din grup</button>
+        </div>
+      </div>
+    </aside>
+
+    <section class="viewport" id="viewport">
+      <canvas id="canvas3d"></canvas>
+      <div class="viewport-hint" id="viewportHint">
+        <span>🖱 Trage pentru rotire · Scroll pentru zoom · Click pe structuri · Alt+Click pentru a ascunde</span>
+      </div>
+      <div class="hover-label" id="hoverLabel"></div>
+    </section>
+
+    <aside class="info-panel" id="infoPanel">
+      <div class="panel-placeholder" id="panelPlaceholder">
+        <div class="placeholder-icon">⬡</div>
+        <p>Selectează o structură<br/>din model pentru detalii</p>
+      </div>
+      <div class="panel-content hidden" id="panelContent">
+        <div class="panel-system-badge" id="panelBadge"></div>
+        <h2 class="panel-name" id="panelName"></h2>
+        <p class="panel-latin" id="panelLatin"></p>
+        <div class="panel-section">
+          <h3>Descriere</h3><p id="panelDesc"></p>
+        </div>
+        <div class="panel-section">
+          <h3>Funcție principală</h3><p id="panelFunc"></p>
+        </div>
+        <div class="panel-section">
+          <h3>Sistem</h3><div class="panel-tags" id="panelTags"></div>
+        </div>
+        <div class="panel-section" id="panelFactsWrap">
+          <h3>Date rapide</h3><ul class="panel-facts" id="panelFacts"></ul>
+        </div>
+        <button class="btn-highlight" id="btnHighlight"><span class="btn-dot"></span> Evidențiază structura</button>
+        <div class="view-directions">
+          <button class="dir-btn" data-dir="front">⬆️ Față</button>
+          <button class="dir-btn" data-dir="back">⬇️ Spate</button>
+          <button class="dir-btn" data-dir="left">⬅️ Stânga</button>
+          <button class="dir-btn" data-dir="right">➡️ Dreapta</button>
+        </div>
+        <button class="btn-highlight" id="btnDescription" style="margin-top:8px;"><span class="btn-dot"></span> Fișă anatomică</button>
+        <button class="btn-highlight" id="btnImage" style="margin-top:4px; display:none;"><span class="btn-dot"></span> 🖼️ Vezi imaginea</button>
+      </div>
+      <div class="hidden-panel" id="hiddenPanel">
+        <div class="hidden-panel-header">
+          <h3>🫥 Structuri ascunse (<span id="hiddenCount">0</span>)</h3>
+          <button class="hidden-reset-all" onclick="window.resetHidden?.()">Arată toate</button>
+        </div>
+        <ul class="hidden-list" id="hiddenItems">
+          <li class="hidden-list-empty">Nicio structură ascunsă</li>
+        </ul>
+      </div>
+    </aside>
+  </main>
+
+  <div class="group-toolbar" id="groupToolbar">
+    <button class="tool-btn parent-btn" id="btnViscera" title="Viscere">🫀</button>
+    <div class="child-buttons hidden" id="visceraChildren">
+      <button class="tool-btn child-btn" id="btnRespiratorySystem" title="Sistemul Respirator">🫁</button>
+      <button class="tool-btn child-btn" id="btnLiver" title="Ficatul">🟤</button>
+      <button class="tool-btn child-btn" id="btnSpleen" title="Splina">🔴</button>
+      <button class="tool-btn child-btn" id="btnHeart" title="Inima">❤️</button>
+      <button class="tool-btn child-btn" id="btnKidneys" title="Rinichii">🫘</button>
+      <button class="tool-btn child-btn" id="btnPancreas" title="Pancreasul">🟠</button>
+      <button class="tool-btn child-btn" id="btnStomach" title="Stomacul">🟤</button>
+      <button class="tool-btn child-btn" id="btnSmallIntestine" title="Intestinul subțire">🟡</button>
+      <button class="tool-btn child-btn" id="btnLargeIntestine" title="Intestinul gros">🟫</button>
+      <button class="tool-btn child-btn" id="btnBladder" title="Vezica urinară">🟦</button>
+      <button class="tool-btn child-btn" id="btnMaleReproductive" title="Organele genitale masculine">🟦</button>
+      <button class="tool-btn child-btn" id="btnAdrenals" title="Glandele suprarenale">🟠</button>
+      <button class="tool-btn child-btn" id="btnThyroid" title="Tiroida și paratiroidele">🦋</button>
+      <button class="tool-btn child-btn" id="btnDental" title="Aparatul dento-maxilar">🦷</button>
+    </div>
+    <button class="tool-btn parent-btn" id="btnNervousSystem" title="Sistem nervos">🧠</button>
+    <div class="child-buttons hidden" id="nervousChildren">
+      <button class="tool-btn child-btn" id="btnBrain" title="Creierul">🧠</button>
+    </div>
+    <button class="tool-btn parent-btn" id="btnSenses" title="Organe de simț">👁️‍🗨️</button>
+    <div class="child-buttons hidden" id="sensesChildren">
+      <button class="tool-btn child-btn" id="btnEye" title="Ochiul">👁️</button>
+      <button class="tool-btn child-btn" id="btnEar" title="Urechea">👂</button>
+      <button class="tool-btn child-btn" id="btnUpperRespiratory" title="Nas și Căile Aeriene Superioare">👃</button>
+    </div>
+    <button class="tool-btn parent-btn" id="btnJoints" title="Articulații">🦴</button>
+    <div class="child-buttons hidden" id="jointsChildren">
+      <button class="tool-btn child-btn" id="btnKnee" title="Genunchiul">🦵</button>
+      <button class="tool-btn child-btn" id="btnHip" title="Șoldul">🦿</button>
+      <button class="tool-btn child-btn" id="btnShoulder" title="Umărul">💪</button>
+      <button class="tool-btn child-btn" id="btnElbow" title="Cotul">🦾</button>
+    </div>
+    <button class="tool-btn child-btn" id="btnHand" title="Palma și degetele">✋</button>
+    <button class="tool-btn child-btn" id="btnFoot" title="Talpa și degetele">🦶</button>
+    <button class="tool-btn parent-btn" id="btnRegions" title="Regiuni anatomice">🧍</button>
+    <div class="child-buttons hidden" id="regionsChildren">
+      <button class="tool-btn child-btn" id="btnHead" title="Capul">🗣️</button>
+      <button class="tool-btn child-btn" id="btnNeck" title="Gâtul">🧣</button>
+      <button class="tool-btn child-btn" id="btnBack" title="Spatele">🔙</button>
+      <button class="tool-btn child-btn" id="btnThorax" title="Cutia toracică">🩻</button>
+      <button class="tool-btn child-btn" id="btnAbdomen" title="Abdomenul">🩺</button>
+      <button class="tool-btn child-btn" id="btnUpperLimb" title="Membrul superior">💪</button>
+      <button class="tool-btn child-btn" id="btnLowerLimb" title="Membrul inferior">🦵</button>
+    </div>
+  </div>
+
+  <footer class="statusbar">
+    <span id="statusStructures">— structuri</span>
+    <span id="statusSelected">Nimic selectat</span>
+    <span id="statusSystem">Sistem: Toate</span>
+  </footer>
+
+  <button id="mobileInfoToggle" class="mobile-info-toggle" title="Arată informații">📋</button>
+
+  <!-- PANOUL DE QUIZ -->
+  <div id="quizPanel" class="quiz-panel hidden">
+    <div class="quiz-header">
+      <h3>🧪 Testează cunoștințele</h3>
+      <button id="quizClose" class="quiz-close">✖</button>
+    </div>
+    <div id="quizStart" class="quiz-start">
+      <p>Alege un sistem:</p>
+      <div id="quizSystemSelect" class="quiz-system-select"></div>
+      <button id="quizStartBtn" class="quiz-btn quiz-btn-primary">Începe testul</button>
+    </div>
+    <div id="quizQuestion" class="quiz-question hidden">
+      <p id="quizQuestionText" class="quiz-question-text"></p>
+      <div id="quizOptions" class="quiz-options"></div>
+      <div id="quizFeedback" class="quiz-feedback hidden"></div>
+      <button id="quizNextBtn" class="quiz-btn quiz-btn-primary hidden">Următoarea întrebare</button>
+      <button id="quizShowStructureBtn" class="quiz-btn quiz-btn-secondary hidden">🔍 Arată structura</button>
+    </div>
+    <div id="quizResult" class="quiz-result hidden">
+      <h4>Test încheiat!</h4>
+      <p id="quizScore"></p>
+      <button id="quizRetryBtn" class="quiz-btn quiz-btn-primary">Reia testul</button>
+    </div>
+  </div>
+
+  <!-- OVERLAY BUN VENIT (inițial ascuns) -->
+  <div id="welcomeOverlay" class="welcome-overlay hidden">
+    <div class="welcome-card">
+      <div class="welcome-icon">⬡</div>
+      <h2>Bun venit în Atlas Medical 3D!</h2>
+      <p class="welcome-subtitle">Un instrument interactiv pentru explorarea anatomiei umane.</p>
+      <div class="welcome-features">
+        <div class="welcome-feature">
+          <span class="welcome-emoji">🖱️</span>
+          <span>Rotește, apropie și selectează structuri 3D</span>
+        </div>
+        <div class="welcome-feature">
+          <span class="welcome-emoji">🔍</span>
+          <span>Caută orice os, mușchi, vas sau organ</span>
+        </div>
+        <div class="welcome-feature">
+          <span class="welcome-emoji">📖</span>
+          <span>Fișe anatomice detaliate și relații între structuri</span>
+        </div>
+        <div class="welcome-feature">
+          <span class="welcome-emoji">🧪</span>
+          <span>Testează-ți cunoștințele cu quiz-uri interactive</span>
+        </div>
+        <div class="welcome-feature">
+          <span class="welcome-emoji">📱</span>
+          <span>Funcționează pe desktop, tabletă și mobil</span>
+        </div>
+      </div>
+      <button id="welcomeCloseBtn" class="welcome-btn">Să începem 🚀</button>
+    </div>
+  </div>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.161.0/examples/jsm/"
+    }
+  }
+  </script>
+
+  <!-- ═══ NOU: Script pentru înregistrarea Service Worker (PWA offline) ═══ -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(registration => {
+            console.log('✅ Service Worker înregistrat cu succes!', registration);
+          })
+          .catch(error => {
+            console.error('❌ Eroare la înregistrarea Service Worker:', error);
+          });
+      });
+    }
+  </script>
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

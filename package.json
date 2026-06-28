@@ -1,0 +1,23 @@
+{
+  "name": "anatomie-1.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"node server.js\" \"serve . -p 5500\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3",
+    "serve": "^14.2.6"
+  }
+}
